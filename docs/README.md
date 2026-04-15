@@ -2,6 +2,12 @@
 
 `docs/` holds source material and operational documentation. The atlas in `atlas/` is the interpretation layer; do not mix the two.
 
+## Pinecone Sync
+
+Changes in `docs/` are indexed to Pinecone when they are pushed to `main`.
+
+The GitHub Actions workflow also watches `atlas/`, `memory/`, the sync script, and its own workflow file. Local drafts stay local until they are pushed, unless you run `py -3.12 scripts/index-vault.py` yourself.
+
 ## Folder Pattern
 
 Use this shape for any territory that can receive source documents, transcripts, or working documents:
