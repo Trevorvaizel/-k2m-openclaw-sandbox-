@@ -14,13 +14,15 @@ The atlas is the interpretation layer. The docs are the source layer. Do not mix
 ## Vault Access Tools
 You have two ways to access this vault:
 
-**Pinecone (`k2m-vault` index, namespace `vault`)** — 3,700+ semantic chunks of the entire vault. Use this to find relevant knowledge when you don't know which file contains what you need. Query it with natural language.
+**K2M Brain MCP (`search_k2m_vault`)** — deterministic semantic retrieval bound to Pinecone index `k2m-vault` and namespace `vault`. Use this first when you want actual K2M context, not generic Pinecone behavior.
 
 **Filesystem MCP (`vault` server)** — direct read/write access to all `.md` files. Use this to read specific files, create new notes, or update existing ones.
 
+**Pinecone MCP** — generic Pinecone surface. Keep this as a fallback/admin layer, not the default K2M retrieval path.
+
 ## Proactive Behaviour
 At the start of any working session, or when the topic shifts significantly:
-1. Search Pinecone for chunks relevant to what we are working on
+1. Call `search_k2m_vault` for chunks relevant to what we are working on
 2. Read any specific files that seem directly relevant
 3. Use what you find to inform your responses without waiting to be asked
 

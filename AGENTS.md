@@ -14,11 +14,14 @@ Do not treat `docs/` and `atlas/` as interchangeable.
 
 Use two retrieval layers together:
 
-1. `pinecone`
-   Search the shared `k2m-vault` Pinecone index when you need semantic retrieval across the vault.
+1. `k2m-brain`
+   Use `search_k2m_vault` first for semantic retrieval. It is hard-bound to the shared `k2m-vault` Pinecone index and `vault` namespace and should return the actual K2M chunks.
 
 2. `vault`
-   Read concrete files once Pinecone points you toward relevant territory or file paths.
+   Read concrete files once `k2m-brain` points you toward relevant territory or file paths.
+
+3. `pinecone`
+   Generic Pinecone MCP surface. Use this only if you need Pinecone admin behavior beyond the dedicated K2M retrieval tool.
 
 ## Proactive Retrieval Rule
 
@@ -28,7 +31,9 @@ When starting a session in this repo, when the topic shifts materially, or when 
 2. Read the most relevant source files or notes that Pinecone implies.
 3. Use that prior vault thinking before answering from scratch.
 
-If Pinecone is unavailable, fall back to `rg` and direct file reads.
+Use `k2m-brain.search_k2m_vault`, not a generic docs-search tool, unless the dedicated server is unavailable.
+
+If `k2m-brain` is unavailable, fall back to `pinecone`, then `rg`, then direct file reads.
 
 ## Writing Rules
 
