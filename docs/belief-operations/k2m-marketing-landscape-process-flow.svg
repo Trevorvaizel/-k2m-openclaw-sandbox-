@@ -1,0 +1,329 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1240" viewBox="0 0 1900 1240" role="img" aria-labelledby="title desc">
+  <title id="title">K2M Marketing Landscape Process Flow</title>
+  <desc id="desc">A process flow diagram showing upstream truth, live market intelligence, the four territories, border diagnostics, touchpoint surfaces, the expansion loop, and the Notion and ClickUp operating layers for K2M belief operations.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f2e9; }
+      .frame { fill: #fffaf3; stroke: #d4c8b5; stroke-width: 2; rx: 26; ry: 26; }
+      .frame-title { font: 700 22px 'Segoe UI', Arial, sans-serif; fill: #2e2a24; }
+      .title { font: 700 34px 'Segoe UI', Arial, sans-serif; fill: #1f1a14; }
+      .subtitle { font: 500 17px 'Segoe UI', Arial, sans-serif; fill: #65594c; }
+      .card-title { font: 700 19px 'Segoe UI', Arial, sans-serif; fill: #1f1a14; text-anchor: middle; }
+      .card-body { font: 15px 'Segoe UI', Arial, sans-serif; fill: #3f372f; text-anchor: middle; }
+      .small { font-size: 14px; }
+      .tiny { font-size: 13px; }
+      .note { font: 14px 'Segoe UI', Arial, sans-serif; fill: #5a5044; }
+      .upstream { fill: #f4dfb2; stroke: #b9872f; stroke-width: 2; rx: 20; ry: 20; }
+      .intel { fill: #d9ece8; stroke: #4f857d; stroke-width: 2; rx: 20; ry: 20; }
+      .territory { fill: #ecd8ce; stroke: #a16d59; stroke-width: 2; rx: 20; ry: 20; }
+      .border { fill: #f5d9d3; stroke: #b76059; stroke-width: 2; rx: 18; ry: 18; }
+      .touch { fill: #f6efca; stroke: #c4a353; stroke-width: 2; rx: 18; ry: 18; }
+      .expand { fill: #dbead6; stroke: #5b865d; stroke-width: 2; rx: 18; ry: 18; }
+      .govern { fill: #f7e4ba; stroke: #a47520; stroke-width: 2; rx: 20; ry: 20; }
+      .notion { fill: #e6ded3; stroke: #80664a; stroke-width: 2; rx: 20; ry: 20; }
+      .clickup { fill: #dceaf6; stroke: #4a7597; stroke-width: 2; rx: 20; ry: 20; }
+      .legend { fill: #f8f4ec; stroke: #d4c8b5; stroke-width: 1.5; rx: 16; ry: 16; }
+      .flow { fill: none; stroke: #5d5a54; stroke-width: 3.2; marker-end: url(#arrow); }
+      .feedback { fill: none; stroke: #7a756d; stroke-width: 2.4; stroke-dasharray: 8 7; marker-end: url(#arrow); }
+      .loop { fill: none; stroke: #5b865d; stroke-width: 2.8; stroke-dasharray: 10 8; marker-end: url(#arrow-green); }
+      .mapflow { fill: none; stroke: #6b6257; stroke-width: 2.6; marker-end: url(#arrow); }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#5d5a54" />
+    </marker>
+    <marker id="arrow-green" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#5b865d" />
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1900" height="1240" />
+
+  <text class="title" x="40" y="48">K2M Marketing Landscape Process Flow</text>
+  <text class="subtitle" x="40" y="76">Belief architecture + topology + territory execution + expansion + operating layers</text>
+
+  <rect class="frame" x="40" y="100" width="430" height="250" />
+  <text class="frame-title" x="60" y="132">Upstream Truth</text>
+
+  <rect class="upstream" x="70" y="155" width="370" height="78" />
+  <text class="card-title" x="255" y="182">Layer 0: Product Truth</text>
+  <text class="card-body" x="255" y="205">
+    <tspan x="255" dy="0">philosophy -&gt; kernel -&gt; identity</tspan>
+    <tspan x="255" dy="18">bridge identity -&gt; category/product belief</tspan>
+    <tspan x="255" dy="18">payoff -&gt; proof object</tspan>
+  </text>
+
+  <rect class="upstream" x="70" y="248" width="370" height="82" />
+  <text class="card-title" x="255" y="276">Layer 1: Territory Truth</text>
+  <text class="card-body" x="255" y="299">
+    <tspan x="255" dy="0">belief architecture + network topology</tspan>
+    <tspan x="255" dy="18">self-verdicts, failed promises, clusters, bridges</tspan>
+    <tspan x="255" dy="18">mavens, connectors, threshold bands</tspan>
+  </text>
+
+  <path class="flow" d="M 255 233 L 255 248" />
+
+  <rect class="frame" x="500" y="100" width="860" height="250" />
+  <text class="frame-title" x="520" y="132">Live Market Intelligence</text>
+
+  <rect class="intel" x="530" y="165" width="235" height="110" />
+  <text class="card-title" x="647" y="193">Signal Sources</text>
+  <text class="card-body" x="647" y="216">
+    <tspan x="647" dy="0">search discovery</tspan>
+    <tspan x="647" dy="18">site graph + public extraction</tspan>
+    <tspan x="647" dy="18">public influence + first-party</tspan>
+    <tspan x="647" dy="18">competitor signals</tspan>
+  </text>
+
+  <rect class="intel" x="812" y="165" width="235" height="110" />
+  <text class="card-title" x="929" y="193">Intelligence Loop</text>
+  <text class="card-body" x="929" y="216">
+    <tspan x="929" dy="0">discover -&gt; map -&gt; capture</tspan>
+    <tspan x="929" dy="18">normalize -&gt; infer</tspan>
+    <tspan x="929" dy="18">review -&gt; publish</tspan>
+  </text>
+
+  <rect class="intel" x="1094" y="165" width="235" height="110" />
+  <text class="card-title" x="1211" y="193">Reviewed Outputs</text>
+  <text class="card-body" x="1211" y="216">
+    <tspan x="1211" dy="0">map update memos</tspan>
+    <tspan x="1211" dy="18">language banks + timing alerts</tspan>
+    <tspan x="1211" dy="18">topology alerts + evidence summaries</tspan>
+  </text>
+
+  <path class="flow" d="M 765 220 L 812 220" />
+  <path class="flow" d="M 1047 220 L 1094 220" />
+  <path class="flow" d="M 1094 220 C 945 250, 720 282, 440 289" />
+
+  <rect class="frame" x="1400" y="100" width="460" height="1100" />
+  <text class="frame-title" x="1420" y="132">Operating Layers</text>
+
+  <rect class="govern" x="1450" y="170" width="360" height="115" />
+  <text class="card-title" x="1630" y="199">Governance</text>
+  <text class="card-body" x="1630" y="223">
+    <tspan x="1630" dy="0">evidence tiers</tspan>
+    <tspan x="1630" dy="18">owners, reviewers, approvers</tspan>
+    <tspan x="1630" dy="18">review cadence</tspan>
+    <tspan x="1630" dy="18">canonical change control</tspan>
+  </text>
+
+  <rect class="notion" x="1450" y="410" width="360" height="185" />
+  <text class="card-title" x="1630" y="440">Notion</text>
+  <text class="card-body" x="1630" y="463">
+    <tspan x="1630" dy="0">canonical maps and reviewed records</tspan>
+    <tspan x="1630" dy="18">Product Truth Registry</tspan>
+    <tspan x="1630" dy="18">Belief Maps, Topology Maps</tspan>
+    <tspan x="1630" dy="18">Workflow Runs, Map Update Memos</tspan>
+    <tspan x="1630" dy="18">Border Issue Log, Evidence Sources</tspan>
+  </text>
+
+  <rect class="clickup" x="1450" y="700" width="360" height="215" />
+  <text class="card-title" x="1630" y="730">ClickUp</text>
+  <text class="card-body" x="1630" y="753">
+    <tspan x="1630" dy="0">execution surface for live work</tspan>
+    <tspan x="1630" dy="18">00 Upstream Truth, 01 Penetration</tspan>
+    <tspan x="1630" dy="18">02 Sales, 03 Retention, 04 Referral</tspan>
+    <tspan x="1630" dy="18">05 Border Repairs, 06 Live Intelligence</tspan>
+    <tspan x="1630" dy="18">07 Governance</tspan>
+  </text>
+
+  <rect class="legend" x="1450" y="975" width="360" height="145" />
+  <text class="card-title" x="1630" y="1005">Legend</text>
+  <line x1="1490" y1="1035" x2="1580" y2="1035" class="flow" />
+  <text class="note" x="1600" y="1040">solid = operating flow</text>
+  <line x1="1490" y1="1070" x2="1580" y2="1070" class="feedback" />
+  <text class="note" x="1600" y="1075">dashed = diagnostics / map feedback</text>
+  <line x1="1490" y1="1105" x2="1580" y2="1105" class="loop" />
+  <text class="note" x="1600" y="1110">green dashed = expansion loop return</text>
+
+  <rect class="frame" x="40" y="380" width="1320" height="210" />
+  <text class="frame-title" x="60" y="412">Core Territory Flow</text>
+
+  <rect class="territory" x="70" y="450" width="290" height="92" />
+  <text class="card-title" x="215" y="478">01 Penetration</text>
+  <text class="card-body" x="215" y="501">
+    <tspan x="215" dy="0">enter the belief system</tspan>
+    <tspan x="215" dy="18">category belief, wedge, routing</tspan>
+    <tspan x="215" dy="18">threshold-zero entry</tspan>
+  </text>
+
+  <rect class="territory" x="390" y="450" width="290" height="92" />
+  <text class="card-title" x="535" y="478">02 Sales</text>
+  <text class="card-body" x="535" y="501">
+    <tspan x="535" dy="0">trust verification</tspan>
+    <tspan x="535" dy="18">trust gradient + friction walk</tspan>
+    <tspan x="535" dy="18">proof stack + expectation contract</tspan>
+  </text>
+
+  <rect class="territory" x="710" y="450" width="290" height="92" />
+  <text class="card-title" x="855" y="478">03 Retention</text>
+  <text class="card-body" x="855" y="501">
+    <tspan x="855" dy="0">identity deepening</tspan>
+    <tspan x="855" dy="18">first value + defining moments</tspan>
+    <tspan x="855" dy="18">community depth + artifact completion</tspan>
+  </text>
+
+  <rect class="territory" x="1030" y="450" width="290" height="92" />
+  <text class="card-title" x="1175" y="478">04 Referral</text>
+  <text class="card-body" x="1175" y="501">
+    <tspan x="1175" dy="0">advocacy across weak ties</tspan>
+    <tspan x="1175" dy="18">story kits + shareable proof</tspan>
+    <tspan x="1175" dy="18">bridge-crossing assets</tspan>
+  </text>
+
+  <path class="flow" d="M 360 496 L 390 496" />
+  <path class="flow" d="M 680 496 L 710 496" />
+  <path class="flow" d="M 1000 496 L 1030 496" />
+  <path class="flow" d="M 255 330 C 245 372, 225 405, 215 450" />
+
+  <rect class="frame" x="40" y="610" width="1320" height="150" />
+  <text class="frame-title" x="60" y="642">Border Diagnostics</text>
+
+  <rect class="border" x="70" y="665" width="220" height="62" />
+  <text class="card-title" x="180" y="691">Border 0</text>
+  <text class="card-body small" x="180" y="712">
+    <tspan x="180" dy="0">Product Truth -&gt; Territory Truth</tspan>
+  </text>
+
+  <rect class="border" x="330" y="665" width="220" height="62" />
+  <text class="card-title" x="440" y="691">Border 1</text>
+  <text class="card-body small" x="440" y="712">
+    <tspan x="440" dy="0">Penetration -&gt; Sales</tspan>
+  </text>
+
+  <rect class="border" x="590" y="665" width="220" height="62" />
+  <text class="card-title" x="700" y="691">Border 2</text>
+  <text class="card-body small" x="700" y="712">
+    <tspan x="700" dy="0">Sales -&gt; Retention</tspan>
+  </text>
+
+  <rect class="border" x="850" y="665" width="220" height="62" />
+  <text class="card-title" x="960" y="691">Border 3</text>
+  <text class="card-body small" x="960" y="712">
+    <tspan x="960" dy="0">Retention -&gt; Referral</tspan>
+  </text>
+
+  <rect class="border" x="1110" y="665" width="220" height="62" />
+  <text class="card-title" x="1220" y="691">Border 4</text>
+  <text class="card-body small" x="1220" y="712">
+    <tspan x="1220" dy="0">Referral -&gt; Penetration</tspan>
+  </text>
+
+  <path class="feedback" d="M 255 233 C 245 360, 210 520, 180 665" />
+  <path class="feedback" d="M 255 330 C 240 450, 210 565, 180 665" />
+  <path class="feedback" d="M 215 542 C 240 585, 320 630, 440 665" />
+  <path class="feedback" d="M 535 542 C 520 585, 490 630, 440 665" />
+  <path class="feedback" d="M 535 542 C 570 585, 630 630, 700 665" />
+  <path class="feedback" d="M 855 542 C 835 585, 780 630, 700 665" />
+  <path class="feedback" d="M 855 542 C 885 585, 915 630, 960 665" />
+  <path class="feedback" d="M 1175 542 C 1140 585, 1080 630, 960 665" />
+  <path class="feedback" d="M 1175 542 C 1190 585, 1200 630, 1220 665" />
+  <path class="feedback" d="M 215 542 C 350 600, 640 635, 1220 665" />
+
+  <rect class="frame" x="40" y="780" width="1320" height="185" />
+  <text class="frame-title" x="60" y="812">Touchpoint Surfaces</text>
+
+  <rect class="touch" x="70" y="840" width="290" height="90" />
+  <text class="card-title" x="215" y="867">Penetration Surfaces</text>
+  <text class="card-body small" x="215" y="890">
+    <tspan x="215" dy="0">social posts, landing pages, comments</tspan>
+    <tspan x="215" dy="17">community entry points, outreach</tspan>
+  </text>
+
+  <rect class="touch" x="390" y="840" width="290" height="90" />
+  <text class="card-title" x="535" y="867">Sales Surfaces</text>
+  <text class="card-body small" x="535" y="890">
+    <tspan x="535" dy="0">DMs, FAQs, payment flow</tspan>
+    <tspan x="535" dy="17">call scripts, onboarding bridge assets</tspan>
+  </text>
+
+  <rect class="touch" x="710" y="840" width="290" height="90" />
+  <text class="card-title" x="855" y="867">Retention Surfaces</text>
+  <text class="card-body small" x="855" y="890">
+    <tspan x="855" dy="0">Discord, onboarding, live sessions</tspan>
+    <tspan x="855" dy="17">prompts, templates, rituals</tspan>
+  </text>
+
+  <rect class="touch" x="1030" y="840" width="290" height="90" />
+  <text class="card-title" x="1175" y="867">Referral Surfaces</text>
+  <text class="card-body small" x="1175" y="890">
+    <tspan x="1175" dy="0">showcases, alumni stories, proof assets</tspan>
+    <tspan x="1175" dy="17">share prompts, introductions</tspan>
+  </text>
+
+  <path class="flow" d="M 215 542 L 215 840" />
+  <path class="flow" d="M 535 542 L 535 840" />
+  <path class="flow" d="M 855 542 L 855 840" />
+  <path class="flow" d="M 1175 542 L 1175 840" />
+
+  <rect class="frame" x="40" y="985" width="1320" height="210" />
+  <text class="frame-title" x="60" y="1017">Expansion Loop</text>
+
+  <rect class="expand" x="55" y="1050" width="160" height="72" />
+  <text class="card-title" x="135" y="1081">Commitment</text>
+  <text class="card-body tiny" x="135" y="1101">
+    <tspan x="135" dy="0">buyer commits</tspan>
+  </text>
+
+  <rect class="expand" x="235" y="1050" width="160" height="72" />
+  <text class="card-title" x="315" y="1081">First Proof</text>
+  <text class="card-body tiny" x="315" y="1101">
+    <tspan x="315" dy="0">early visible win</tspan>
+  </text>
+
+  <rect class="expand" x="415" y="1050" width="160" height="72" />
+  <text class="card-title" x="495" y="1081">Identity Deepening</text>
+  <text class="card-body tiny" x="495" y="1101">
+    <tspan x="495" dy="0">new self becomes usable</tspan>
+  </text>
+
+  <rect class="expand" x="595" y="1050" width="160" height="72" />
+  <text class="card-title" x="675" y="1081">Proof Emergence</text>
+  <text class="card-body tiny" x="675" y="1101">
+    <tspan x="675" dy="0">artifact, before/after, story</tspan>
+  </text>
+
+  <rect class="expand" x="775" y="1050" width="160" height="72" />
+  <text class="card-title" x="855" y="1081">Alumni Compounding</text>
+  <text class="card-body tiny" x="855" y="1101">
+    <tspan x="855" dy="0">trust carriers + bridge nodes</tspan>
+  </text>
+
+  <rect class="expand" x="955" y="1050" width="160" height="72" />
+  <text class="card-title" x="1035" y="1081">New Penetration Fuel</text>
+  <text class="card-body tiny" x="1035" y="1101">
+    <tspan x="1035" dy="0">proof assets for top-of-funnel</tspan>
+  </text>
+
+  <rect class="expand" x="1135" y="1050" width="160" height="72" />
+  <text class="card-title" x="1215" y="1081">New Audience Entry</text>
+  <text class="card-body tiny" x="1215" y="1101">
+    <tspan x="1215" dy="0">lower resistance into Penetration</tspan>
+  </text>
+
+  <path class="flow" d="M 215 1086 L 235 1086" />
+  <path class="flow" d="M 395 1086 L 415 1086" />
+  <path class="flow" d="M 575 1086 L 595 1086" />
+  <path class="flow" d="M 755 1086 L 775 1086" />
+  <path class="flow" d="M 935 1086 L 955 1086" />
+  <path class="flow" d="M 1115 1086 L 1135 1086" />
+
+  <path class="mapflow" d="M 535 542 C 470 665, 300 820, 135 1050" />
+  <path class="mapflow" d="M 855 542 C 720 690, 495 820, 315 1050" />
+  <path class="mapflow" d="M 1175 542 C 1100 690, 980 820, 855 1050" />
+  <path class="loop" d="M 1215 1050 C 1320 930, 1180 640, 360 495" />
+
+  <path class="mapflow" d="M 440 289 C 880 290, 1180 330, 1450 480" />
+  <path class="mapflow" d="M 1329 220 C 1380 255, 1415 330, 1450 455" />
+  <path class="mapflow" d="M 929 275 C 1120 430, 1320 560, 1450 770" />
+  <path class="mapflow" d="M 1320 496 C 1380 560, 1420 655, 1450 805" />
+  <path class="mapflow" d="M 1360 650 C 1410 620, 1430 585, 1450 545" />
+
+  <path class="flow" d="M 1630 285 L 1630 410" />
+  <path class="flow" d="M 1690 285 L 1690 700" />
+  <path class="feedback" d="M 1605 595 L 1605 700" />
+  <path class="feedback" d="M 1655 700 L 1655 595" />
+  <text class="note" x="1675" y="644">maps inform moves</text>
+  <text class="note" x="1675" y="672">workflow outputs update maps</text>
+
+  <text class="note" x="60" y="1218">Canonical loop: lock product truth -&gt; map territory truth -&gt; penetrate belief systems -&gt; verify trust -&gt; deepen identity -&gt; turn proof into expansion -&gt; update the map.</text>
+</svg>

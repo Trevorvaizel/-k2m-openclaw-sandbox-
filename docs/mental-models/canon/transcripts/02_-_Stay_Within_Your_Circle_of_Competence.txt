@@ -1,0 +1,415 @@
+Welcome back to the deep dive today. We are wrestling with a concept that feels well
+Almost painfully relevant to just about everyone right now. It really does. It's a mental model that
+on the surface sounds simple maybe even deceptively simple, but if you actually start to peel back
+of the layers it is probably the single biggest predictor of whether you crash and burn or you
+know actually succeed at what you're doing. I think you're right. We're talking about the circle of
+competence. The circle of competence. And I'd argue it's maybe the foundational concept for a
+decision-making. I mean in an age where we are all just drowning in information this model is the
+life raft. That's a great way to put it. It's the difference between looking smart and actually
+being effective. Right. And to really get our heads around this I want to take a step back from
+you know the abstract stuff for a minute. Let's paint a picture. Okay. I want you to picture a small
+town maybe it's tucked away somewhere in the Midwest or a little mining town in the mountains.
+The where doesn't really matter. But in this town we have two people two archetypes. First you
+have the lifer. The lifer. The bedrock of the community. Exactly. Picture an old man maybe 80
+years old sitting on his porch. He has lived in this one specific zip code every single day of his life.
+He hasn't just existed there. He like absorbed the place. Yes. He knows the lineage of every
+single family. He knows who's related to whom who owes money to the butcher. He knows why the
+Miller family hasn't spoken to the Smith family since the Blizzard of 88. Right. He doesn't just
+have data. He has context. He knows the territory in his bones. He knows the social hierarchy that
+isn't written down anywhere. He knows the history of the floods. He can point to a telephone pole
+and tell you see that notch? That's where the water was 40 years ago. And to use a darker phrase
+he knows where the bodies are buried. Figuratively. And let's be honest in a small town. Maybe
+literally. Probably literally. His knowledge isn't a list of facts he memorized. It's this complex
+interconnected web. You pull on one thread and he knows which five other threads are going to move.
+Okay. So that's person one. That's the lifer. Right. But then enter person number two.
+The stranger. The slick visitor from the big city. Right. The stranger rolls into town in a
+shiny rental car. He spends what a long weekend there. He buys a drink for the mayor. Chats up
+the bartender at the local dive. He walks down Main Street thinks he gets the vibe. Yes. And by
+Sunday afternoon, he feels like he's got the place completely sized up. He's thinking, okay,
+quaint town. I see how this economy works. I get it. And that right there is the fundamental
+disconnect. It is the most dangerous moment in the entire story. Why? Because the stranger has
+surface knowledge. He has a map. But the map is not the territory. And the lifer. The lifer is
+the territory. And here is the problem. And this is really the hood for everything we're going to
+talk about today. The stranger often feels confident enough to make big moves. Of course,
+he does. He thinks he knows. Maybe he decides to buy a plot of land for a new condo development.
+He thinks, I've done my due diligence and he pulls the trigger. But he lacks that lifer context.
+Completely. Yeah. He doesn't know that the land he's buying floods every five years.
+Or that the contractor he just hired has a reputation for cutting corners and, you know,
+stiffing his partners. He is taking massive invisible risks.
+Precisely. The stranger is walking through a minefield. But because he has a map that doesn't
+show the mines, he thinks he's just walking through a meadow. And that metaphor, that whole story,
+perfectly illustrates this concept of the circle of competence. Which brings us to the
+godfathers of this idea, really. Warren Buffett and Charlie Munger.
+They're the ones who popularize this term. Right. And the definition is, like you said,
+deceptively simple. It's knowing exactly what you know. And, more importantly,
+knowing exactly what you don't know. So it's the perimeter. It is the perimeter. It separates
+the lifer zones in your brain from the stranger zones. Okay. But let's play devil's advocate for
+a second here. Yeah. Because know what you don't know sounds a little bit like a motivational
+poster in a break room. Chuckles. I see what you mean.
+It sounds nice, but isn't it kind of limiting? If I only ever stick to what I already know,
+don't I just stagnate? Isn't the point of life to learn new things?
+And that's the common pushback. It's a great question. But Buffett and Munger aren't saying
+don't learn. They're saying don't bet the farm until you have learned. They argued that you don't
+have to be an expert on everything. You don't have to be a genius in every field. But you
+absolutely must define the perimeter of your current knowledge rigidly.
+You have to know where the fence is. And you have to stick to the areas where you have that
+lifer level of experience and intuition. As long as you stay inside that circle,
+you have an unfair advantage the moment you step outside of it.
+You become the stranger. You become the stranger. You might feel confident,
+but you are gambling. So it's really about checking your ego at the door.
+It's about survival. And that is tough, isn't it? I mean, we live in a world that pressures us to
+have a hot take on everything. No, constantly. You go to a dinner party
+and someone brings up cryptocurrency. Five minutes later, it's the geopolitical situation
+in Eastern Europe. Then it's the latest AI model. If you say, I don't know,
+you feel like the dumbest person in the room. It's the curse of the information age. We mistake
+familiarity for competence. We read a headline, maybe skim a Wikipedia article or watch a 10-minute
+YouTube video. And we think we understand the system. We don't. We don't. Operating outside
+your circle acts as this massive blind spot. It leads to mistakes that are completely avoidable
+if you just had the humility to say, I am a stranger here. So that's the mission for this deep dive.
+We aren't just going to define this concept. We're going to figure out how to actually find
+this circle because it's harder than it sounds. We need to know how to expand it. And maybe most
+importantly, how to survive when you are forced to step outside of it. Because you have to.
+Sometimes you have to leave the town you grew up in. You can't stay a lifer in your living room
+forever. Exactly. You have to venture out, but you need to know how to pack for the trip.
+Well said. So let's get into part one, the danger of false confidence.
+Why is it so easy for us to think we're lifers when we are, in fact, strangers?
+Why do we trick ourselves? It's a deep psychological trap. It really is. We get a little bit of information
+and the brain, it releases dopamine. We feel smart. We feel like we've cracked the code.
+I know that feeling. We all do. There's a fantastic quote by the poet,
+Alexander Pope, that just summarizes this perfectly. He wrote,
+a little learning is a dangerous thing. Drink deep or taste not the Perian spring.
+Drink deep or taste not. That sounds intense. What's the Perian spring?
+So in Greek mythology, the Perian spring was this sacred source of knowledge and inspiration
+for the muses. If you drank from it, you gained wisdom. But Pope adds a brilliant twist. He says,
+there are shallow drafts and toxicate the brain and drinking largely sobers us again.
+Shallow drafts and toxicate the brain. Okay. Let me try to unpack that. He's saying that taking
+a small sip of knowledge, a shallow draft, it gets you drunk. Yes. It makes you tipsy with the feeling
+of competence. Exactly. When you learn a little bit, so you learn the basic terminology of the stock
+market. You feel like you've unlocked a secret. You feel powerful. You feel like a master.
+Ooh, intoxicated. You are. But true expertise, drinking largely, that sobers you up. Because the
+more you actually know about a complex subject, the more you realize how difficult, how chaotic,
+and how nuanced it really is. So the lifer isn't arrogant about the town. He knows the
+town is messy. He knows the pipes leak. Of course. The stranger is the one who thinks it's a perfect
+simple postcard. Complexity sobers you up, perceived simplicity intoxicates you. That is the rule.
+That is such a powerful distinction. It reminds me of the analogy of climbing Mount Everest.
+We tend to think of climbing Everest as just a physical challenge. But in this context,
+it's really a knowledge challenge. Oh, it is the ultimate circle of competence test.
+And the opponent is nature itself. So most of us are complete strangers to Everest. I can read a
+book about it. I've seen the documentaries. I can tell you about the oxygen tanks,
+the different camps, the Hillary steps. You've got the map. I've got the map. I can trace the
+route with my finger. It looks straightforward. And the map says, walk here, then walk here.
+It seems simple enough. Right. But then you look at someone like Tending Norgay, the Shippa,
+who climbed with Edmund Hillary. He is the lifer. He is the territory. And the distinction there
+isn't just that he has bigger lungs or stronger legs. It's that as a stranger, I don't know
+what I don't know. That's the killer phrase right there. I don't know that a certain cloud
+formation over that ridge means a storm is coming in 20 minutes, not two hours. I don't know that
+the ice in the kumbu ice fall is unstable at 2.0 p.m. because the sun hits it at a specific angle
+and turns it into a slushy death trap. That is the key. Tending Norgay knows the unknowable
+variables. He understands the invisible risks. He has backups for his backups because he understands
+the extreme volatility of the environment and a stranger. The stranger might get lucky.
+He might walk up on a clear day and make it to the top. But if the weather turns,
+the stranger dies. The stranger dies. The lifer survives. Those are the stakes we're talking about.
+It just brings up that quote from SunSue from the art of war. We shall be unable to turn
+natural advantage to account unless we make use of local guides. Make use of local guides.
+SunSue is basically saying, if you are not a lifer, you better find one and listen to them.
+Or you will lose the war. It's that simple. And this applies to everything, investing,
+home repair, managing a team. If you don't have the deep knowledge, you are gambling on a map that
+doesn't show the cliffs. So if avoiding that false confidence is the first step, the second
+and maybe harder step is figuring out, where am I a lifer? Where is my actual circle of competence?
+Right. How do you find the border? And to illustrate this, we have to talk about Rose Blumkin.
+Mrs. B. This is one of Warren Buffett's absolute favorite stories. And for good reason,
+it's the perfect case study in defining a perimeter. So for people who don't know the legend,
+Rose Blumkin was a Russian immigrant. She came to America in the early 1900s with,
+I mean, basically nothing. Couldn't read or write English very well.
+Right. But she started a little pawn shop that eventually grew into the Nebraska furniture
+mark, which became this massive legendary business in Omaha. And eventually Warren Buffett bought it
+from her. But the deal itself and the way Mrs. B operated is fascinating because of what it reveals
+about her mind. It really is. So Mrs. B had a very, very specific set of skills. She had a head for
+numbers and she understood home furnishings. But we need to be clear here. When we say she knew
+furniture, we don't mean she knew which sofa looked pretty. No, no, no, it was much deeper than that.
+She knew the molecular economics of furniture. The molecular economics. I love that.
+She could walk through a showroom, touch a piece of fabric and tell you the thread count.
+She could tell you the likely manufacturer, the shipping costs from North Carolina to Omaha,
+the labor cost involved and exactly to the penny, what her competitors were charging for it down
+the street. That is just visceral knowledge. It wasn't academics. She didn't learn it in business
+school. She learned it by doing it for 50 years. And that distinction matters because it allowed
+her to move with terrifying speed. There's that story right about the carpet deals.
+Yeah, that she would negotiate multi million dollar carpet deals in about three minutes,
+because she didn't need to go check a spreadsheet. The spreadsheet was already in her head,
+which brings us to the deal with Buffett. And this is the part that blows my mind.
+Buffett buys 90% of her business for 55 million dollars. And it was a handshake deal.
+No audit. No audit. Because Buffett knew she was the audit. He knew that if Mrs. B said the
+inventory was worth X, it was worth X. But the part of the story that's so relevant for us today is
+how he paid her, or I guess how he didn't pay her. Right. He could have offered her stock,
+couldn't he? Berkshire Hathaway stock? The holy grail of investments. If he had giving her 55
+million in stock back then, her heirs would be richer than entire nations today. So why didn't he?
+Because if he had offered her stock, she likely would have walked away from the table. That seems
+insane. Why? Because she couldn't touch it. She couldn't walk into a warehouse and count shares.
+She didn't understand the stock market. She didn't get PE ratios or market sentiment,
+or why a stock moves up and down when the actual business hasn't changed. It was completely outside
+her circle. But if he gave her 55 million in cash, oh, Buffett said she would go out that afternoon
+and buy 5,000 end tables if the price was right. She'd buy 20 carpets in odd lots.
+Because she understood carpets. She knew the value was intrinsic to the item,
+not what some ticker tape said. There's that great line where Buffett says she wouldn't buy
+100 shares of General Motors, even if it was trading at 50 cents a share. Which is just an
+absurdly low price, a no-brainer. For anyone else. Yeah. But she wouldn't touch it. And the reason
+was simply because she didn't understand motors. And that is the discipline. That's the whole
+lesson. It's so easy to say, well, General Motors is a huge company. It must be worth
+something. Everyone else is buying it. But Mrs. B had the discipline to say,
+I don't know motors. I know carpets. She never stepped outside that circle.
+Never. And that's why she never lost. She played a game she knew she could win.
+That requires an incredible amount of restraint. It's like she had a force field around her decision
+making process. She did. And that force field protected her from all the stranger mistakes.
+So for the listener, how do we emulate Mrs. B? How do we define that perimeter for ourselves?
+Because I think a lot of us think we know things. We read a Reddit thread and suddenly
+we're investment gurus. Chuckles. Right. Well, there are a few litmus tests you can apply to
+yourself to see if you are truly inside your circle. The first one is, can you anticipate
+objections before they are even made? Oh, I like that. So if I have an idea, can I already hear
+the critic in my head poking holes in it? Exactly. If you're a lifer, you know the weak
+points of your own argument. You know exactly where a skeptic would attack and you already have
+the answer prepared. If you're a stranger, you present your idea and you are just shocked,
+shocked when someone points out an obvious flaw. That's a great check. What's another one?
+Do you know what is knowable versus what is unknowable? Break that down for me.
+In any field, there are facts and there is luck. There's the signal and there's the noise. If you
+are inside your circle, you know the difference. You know, I can control the cost of these materials,
+but I cannot control the weather next Tuesday. Where is a stranger? A stranger either thinks
+everything is controllable or conversely that everything is just random chaos.
+The lifer can distinguish between the two. And I suppose speed is a factor too. Like you said
+with Mrs. B in the three minute deal. Yes, absolutely. A lifer can usually make decisions
+quickly and accurately because they are pattern matching against decades of experience. And
+they have multiple solutions to a single problem. If plan A fails, the lifer just says,
+okay, switch to plan B or plan C, the stranger gets stuck because they only learned plan A from
+the book. So the takeaway here is if you find yourself guessing or if you can't explain why you
+are right to a skeptic, you are probably drifting outside the circle. And that is the moment you
+need to stop. Put your hands up and just say, I am out of my depth here. Okay, so we know what
+the circle is. We know we need to stay in it to be safe, but we also want to grow, right? We don't
+want to be stuck with a tiny circle forever. I don't want to just know about podcasting for
+the rest of my life. Of course not. So how do we build to maintain this thing?
+Well, the first thing to accept is that there are no shortcuts. You can't hack your way to
+being a lifer. It takes time. But there are three pillars to building a circle effectively.
+Curiosity monitoring and feedback. Let's start with curiosity. This seems kind of obvious.
+You have to want to learn. It is obvious, but most people stop being truly curious once they
+reach a certain level of comfort. To really build a circle, you have to aggressively learn from others.
+There's an anonymous quote that I love. Learn from the mistakes of others. You can't live long
+enough to make them all yourself. That is the truth. If you only rely on your own trial and error,
+it's going to be a slow, painful ride excruciatingly slow. So you need to read. You need to study the
+best of what others have figured out. You are essentially downloading their
+lifer data into your brain. It's the only way to accelerate the process.
+Okay. So pillar number two, monitoring. And the notes here mention the ego trap.
+This is the one that gets me. This is the hardest one for everybody.
+Studies consistently show that the vast majority of people believe they are above average drivers,
+above average lovers, and above average investors.
+Which is, of course, statistically impossible. We can't all be above average.
+We can't. We edit our own memories to make ourselves look better.
+We conveniently forget the bad decisions and we vividly remember the lucky wins.
+So the solution, and this is painful, is honest self-reporting.
+You need to keep a decision journal. Okay, but practically what does that look like?
+Am I writing Dear Diary? Today I bought Apple stock because it looked cool.
+Slifts. Yeah. No, please don't do that. It has to be more rigorous. You have to catch yourself
+in the act of being stupid. If you want to really identify your circle,
+you need to write down four specific things before you pull the trigger on any big decision.
+First, what do I expect to happen? Okay. I expect this stock to go up 20% in six months.
+Simple enough. Second, why do I expect that to happen? Yeah.
+This is where you catch the stranger mindset. If your reason is because my cousin Vinny said
+it's a sure thing, the journal just stares back at you and says, you are an idiot.
+It forces you to see the logic gaps before you actually lose the money.
+Exactly. Third, what is the counter-argument? If you can't write down a valid we have done
+why you might be wrong, you haven't done the work. You're living in an echo chamber.
+And the fourth one.
+Fourth, and this is the killer. How will I feel if I am wrong?
+Ah, that emotional check.
+It separates the I know this from the I hope this. Then, six months later, you open the journal.
+Did what you expected happen? Or did something else happen?
+If it was something else, you are forced to admit your map was wrong.
+That sounds excruciating.
+It is. It's a direct confrontation with your failures,
+but it is the only way to tighten the circle.
+And that leads directly to the third pillar, feedback.
+And we have a great story here about a tool Gawande.
+Yes, Dr. Gawande. He's one of the most respected surgeons in the world.
+Rights for the New Yorker. He's a MacArthur genius. But at a certain point in his career,
+he realized his skills had plateaued. He wasn't getting any better.
+He'd hit a ceiling.
+Right. So he did something radical for a surgeon of his stature. He hired a coach.
+A coach? Like a tennis coach, but for like open heart surgery.
+Exactly that. He had a retired surgeon come into the operating room and just stand there and
+watch him operate. Now imagine the ego blow there. He's the top dog and is inviting someone to
+critique him. He said it felt embarrassing to be scrutinized. It had been a decade since anyone
+had really critiqued his technique. I can't even imagine.
+You'd feel like I'm the expert here. Why do I need a babysitter?
+But the result was profound. The coach saw things Gawande couldn't possibly see.
+He wasn't looking at the patient. He was looking at Gawande. He saw that Gawande was
+draping the patient in a way that slightly obscured his view or that his elbow was a little too high
+during a certain procedure causing fatigue. These were blind spots.
+Because you can't see your own back.
+You cannot see your own blind spots. That is why they are called blind spots.
+You need an external lifer, an observer, to tell you where you are drifting out of your circle,
+where your technique is getting sloppy. That is so key. We all need that external set of eyes.
+So we've defined the circle. We're building it. We're maintaining it.
+But here is the reality check. We cannot stay inside our circle tummy four seven.
+No, it's completely impossible. I mean, I am not a mechanic, but I own a car.
+I'm not a doctor, but I have a body. I am not an IT expert, but I use a computer every single day.
+We are forced to be strangers in other people's towns all the time.
+That is the modern condition. And this is where the mental model becomes really,
+really practical. How do you survive when you're forced to step outside?
+We have three basic strategies for this.
+Okay. Strategy number one. Learn the basics.
+This means don't remain totally ignorant. Learn enough to ask intelligent questions.
+If you go to a mechanic, you should know what a spark plug is.
+You should know the difference between a transmission and an alternator.
+But there's a huge warning here, right? We're back to a little learning is a dangerous thing.
+Correct. You learn the basics to defend yourself, not to do the surgery yourself.
+Do not confuse knowing the vocabulary with mastery.
+You were learning just enough to spot a bluff, not enough to be the expert.
+It's a defensive shield, not a sword.
+Okay. That makes sense. Strategy number two, talk to a lifer.
+But don't just ask them for the answer.
+Right. Don't just say fix my car. Yeah.
+Ask why is this broken? How did you figure that out? What else could it have been?
+You want to probe the limits of their circle.
+I love the questions suggested in the outline here. How might this go wrong?
+Or what variables are we missing?
+Those are incredibly powerful questions. When you ask an expert, what are we missing?
+You force them to step back and look at the whole territory, not just the obvious problem.
+You're borrowing their brain for a moment.
+You want them to teach you to fish, not just hand you a fish.
+And strategy number three, use broad mental models.
+This is what we talk about on this show all the time.
+If you don't know the specifics of a field say you don't understand the complex biochemistry
+of a new diaphad, you can use general thinking concepts.
+Like what?
+You can use incentives. Who makes money if I eat this?
+You can use second order thinking. What happens a month from now if I stick with this?
+You use these broad, time-tested tools to navigate train you don't fully understand.
+And we have a great historical example of someone who did this brilliantly.
+Queen Elizabeth I.
+A fascinating figure, yes.
+So picture this. It's the 16th century. It is a man's world.
+She is a woman in power when very few women held power.
+She inherits a country that is a total mess. It's got religious division.
+It's in debt, enemies everywhere.
+She could have pretended to know everything to assert her dominance.
+Which is what many leaders would have done.
+But she didn't. She did the exact opposite.
+In her very first speech, she announced,
+I mean to direct all my actions by good advice and counsel.
+Good advice and counsel. She basically admitted she needed help.
+She built her privy counsel, her board of advisors.
+But here is the genius part. She didn't fill it with yes men.
+She didn't fill it with people who thought exactly like her.
+She brought in diverse opinions. She wanted debate.
+She didn't just tolerate it. She actively engineered it.
+It's engineered it howl.
+She would famously appoint advisors who she knew hated each other's guts.
+She had William Cecil, who was cautious, pragmatic, obsessed with the Treasury.
+And she balanced him against Robert Dudley.
+Or later, the Earl of Essex men who were aggressive, military-minded risk takers.
+So she creates this tension engine.
+She creates a simulation of reality inside her own court.
+If Cecil says save money and Dudley says go to war,
+Elizabeth doesn't have to be the expert on finance or war.
+She just has to be the expert on judging their arguments.
+She sat in the middle of this collision of life for knowledge
+and just extracted the truth from the crash.
+That is a brilliant way to put it.
+Her job wasn't to be the lifer in every subject.
+Her job was to synthesize the knowledge of the lifer she hired.
+And the result was the Golden Age of England.
+But there is a catch. There's always a catch.
+Oh yeah. There's always a catch.
+When you rely on other people's circles of competence,
+you run headfirst into part five of our discussion, the problem of incentives.
+Oh boy.
+This is the mechanic and the financial advisor problem.
+Really is. Let's go back to the mechanic.
+You are the stranger. The mechanic is the lifer.
+There is a huge information asymmetry.
+He has been under the hood. You have not.
+He holds all the cards.
+And his incentive is to make a profit.
+Your incentive is to fix the car as cheaply as possible.
+Those incentives are not always aligned.
+And this is the nightmare scenario.
+You're standing there, the car is up on the lift and he says,
+well, looks like you need a new Johnson rod.
+And you have no idea if that's true.
+If a Johnson rod even exists,
+or if he's just trying to make his boat payment this month.
+So that's the Johnson rod.
+The classic fake part.
+But it's not funny when it's your money.
+And it is the exact same thing with financial advisors.
+Absolutely. For a long, long time, and still in some cases,
+advisors were paid commissions to sell specific products.
+They would sell you a mutual fund with crazy high fees
+because they got a kickback,
+not because it was the best thing for your portfolio.
+So how do we defend ourselves against this?
+If we have to rely on lifers,
+but their incentives might be sketchy,
+what do we do? Do we just get paranoid?
+You don't get paranoid. You get informed.
+You have to understand the compensation arrangement.
+That is the first question you should always ask.
+How you get paid?
+What do you stand to gain from this recommendation?
+Exactly. It's not cynical. It's survival.
+If you know the advisor makes money when you trade,
+you should be skeptical when they tell you to trade a lot.
+If you know the mechanic makes money on parts,
+you should double-check if you really need that expensive part.
+This goes right back to strategy one.
+Learn enough to spot a bluff.
+Yes. In the age of the internet,
+you can usually find out fairly quickly
+if a Johnson rod is a real thing or not.
+Or you can just delay the decision.
+Let me think about it.
+That buys you time to verify the information.
+Right. Don't get pressured into a decision
+in the heat of the moment when you're outside your circle.
+Never. That is when the worst mistakes happen.
+The lifer knows you're vulnerable in that moment.
+Don't let them exploit it.
+So let's wrap this up.
+We've covered a lot of ground here.
+We've gone from the small town lifer
+to Mount Everest to Queen Elizabeth.
+If we boil it all down, the key takeaways are these.
+True knowledge, the lifer knowledge, is deep.
+It's interconnected.
+It can predict consequences.
+False confidence, the stranger mindset is dangerous.
+It's shallow.
+And we have to define our circle rigidly, like Mrs. B.
+Stick to your carpets if you know carpets.
+Don't go buying motors just because everyone else is.
+And when you inevitably have to step outside your circle,
+use local guides, find the lifers,
+but, and this is so critical, watch out for their incentives.
+Don't follow them blindly off a cliff.
+So I want to leave the listener with a provocation,
+a challenge, really.
+I want you to look at your life right now.
+Where are you currently acting like a stranger,
+but feeling the confidence of a lifer?
+Oh, that's the uncomfortable question.
+Is it your investment portfolio?
+Are you picking stocks because you read a Reddit thread?
+Is it your parenting?
+Are you just following some trend
+without understanding the why behind it?
+Is it your management style at work?
+Where are you drunk on those shallow drafts of knowledge?
+Exactly.
+Where do you need to sober up?
+I'll leave you with one final thought on that
+from Charles Darwin, who understood a thing or two about observation.
+He said, ignorance more often begets confidence than knowledge.
+Ignorance more often begets confidence.
+Wow, that is something to chew on.
+The goal isn't to know everything.
+The goal is to know where the edges are.
+That is true wisdom.
+Thanks for diving deep with us.
+We'll see you next time.

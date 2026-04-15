@@ -1,0 +1,945 @@
+Welcome back to the deep dive.
+It is great to have you with us.
+Today, we are shifting gears a little bit.
+Just a minute.
+Usually, you know, we're here unpacking a specific event
+or maybe a new piece of technology
+or the biography of some titan of industry.
+But today, we are pulling the camera back.
+Way, way back.
+Way back.
+We are looking at the operating system of your brain.
+We're diving into a tool set that is designed to,
+well, to literally change the way you process reality.
+And I want to be clear right off the bat
+because I know people hear thinking tools
+and they kind of roll their eyes.
+But for sure.
+This isn't just about thinking harder.
+We hear that all the time, right?
+Just focus, apply yourself.
+This is not that.
+This is about making structural changes to how you think.
+It's about upgrading the software
+so you aren't running Windows 95 in a quantum computing world.
+Exactly.
+We are talking about fundamental cognitive architecture today.
+And to kick this all off, I want to start with a problem.
+A problem that I think everyone listening has felt
+even if they haven't had the, you know,
+the precise vocabulary for it, it's the problem of the map.
+The map.
+It sounds like a spy novel title or maybe a treasure hunt.
+It really does.
+But it's actually fundamental to how we survive as a species.
+Right.
+So the basic premise, and this is really the hook
+for everything we're discussing today,
+is that we all navigate the world using these mental maps.
+We have to.
+We have to.
+We have a map for how our relationship should work.
+We have a map for what our career ladder is supposed to look like.
+We have a map for how the economy works, maps for parenting,
+for nutrition, for politics.
+So literally everything.
+Everything.
+But here is the catch.
+And this is the first big concept from our source material today.
+The map is not the territory.
+This is a classic concept from General Semantics
+coined by Alfred Korzibski back in the 1930s.
+And the idea is it's incredibly simple,
+but just devastating if you ignore it.
+Right.
+The description of the thing is not the thing itself.
+A map of Paris is useful, right?
+I mean, it helps you get from the Eiffel Tower to the Louvre.
+It shows you the streets.
+But the map is not Paris.
+No, of course not.
+It doesn't smell like croissants.
+It doesn't have the noise of the traffic.
+It doesn't have the mood of the city
+or the feeling of the cobblestones under your feet.
+It is a reduction.
+It's a flat stack representation of a dynamic, complex,
+living reality.
+And the danger that the trap we all fall into
+is confusing the two.
+We start to believe our simplified model,
+our little map, is the actual complex reality.
+We do.
+We get lost because the territory has changed.
+Maybe the economy shifted.
+Maybe technology evolved.
+Maybe the relationship dynamics are different.
+But we are still just staring at this old, yellowed map
+insisting that the road should be there.
+But the map says there's a bridge here.
+Exactly.
+And you're yelling at reality, why isn't there a bridge?
+We'll look out the window.
+The bridge washed out last year.
+If you keep driving based on the map,
+you go right off the cliff.
+And this creates blind spots, massive, massive blind spots
+where reality is happening.
+But we simply cannot see it because it's not printed on our map.
+Speaking of blind spots, our source material, which
+is the great mental model's volume one
+by the team at Farnham Street.
+It opens with this incredible anecdote from David Foster Wallace,
+the story of the fish.
+And honestly, every time I hear this,
+it just hits me a little harder.
+This is water speech.
+It's iconic for a reason.
+I mean, it perfectly captures the dilemma of consciousness.
+It really, really does.
+So for anyone who hasn't heard it,
+it just visualizes for a second.
+They're these two young fish swimming along,
+minding their own business.
+They're chatting, maybe complaining
+about fish school or something.
+And they happen to meet an older farmer swimming the other way.
+The older fish just nods at them and says,
+morning boys, how's the water?
+Simple question.
+So simple.
+The two young fish swim on for a bit in silence.
+And eventually, one of them looks over at the other just goes,
+what the hell is water?
+It stops you in your tracks, doesn't it?
+It's such a perfect illustration of the problem.
+The most obvious, ubiquitous, important realities
+are often the ones that are hardest to see
+and hardest to talk about.
+But why?
+Why is that?
+Because they're the ambient system we are swimming in.
+We don't notice the water because we are in the water.
+We don't notice our own assumptions
+because we are living inside of them.
+We don't see the systems that govern our life
+because they just feel like the way things are.
+And that is the whole premise of today's deep dive.
+We are going to try to see the water.
+We are exploring how to remove those blind spots
+and update our maps using a very specific high-powered tool
+set.
+And the core philosophy here, this comes from Shane Parrish
+and the Farnham Street team, is so simple but so profound.
+The quality of your thinking depends
+on the models that are in your head.
+That's the bottom line.
+It is, if you want to change your results,
+you have to change your thinking.
+And you can't just rely on raw intelligence or IQ.
+You can have a massive IQ, a genius level IQ.
+But if your map is wrong, you're just
+going to drive off the cliff faster and more efficiently
+than the person with an average IQ.
+You'll get to the wrong destination with incredible speed.
+Exactly.
+You need better maps.
+You need better models.
+OK, let's pause there for a second.
+Because you said it earlier, mental models
+can sound like jargon.
+So let's define that.
+What exactly are we loading into our brains here?
+Sure.
+A mental model is simply a representation
+of how something works.
+It's a chunk of knowledge.
+We cannot keep all the details of the world in our brains.
+It's just too complex.
+The world is infinite in detail.
+So we use models to simplify the complex
+into understandable, organizable chunks.
+Supply and demand is a mental model
+from economics that explains price.
+Natural selection is a mental model from biology
+that explains competition and adaptation.
+Entropy is a model from physics
+that explains why things tend toward disorder.
+They're just lenses.
+And the source material highlights
+this brilliant concept from Charlie Munger,
+Warren Buffett's longtime business
+partner, about the lattice work.
+Ah, Munger.
+He is really the godfather of this entire approach
+to thinking.
+His argument is that most people are trained in one discipline.
+They're an economist, or they're an engineer, or a writer.
+They have one really good lens.
+One really good, very expensive, well-polished lens.
+They know the models of their specific field inside and out.
+But when they face a problem in the real world,
+which is messy and doesn't respect academic boundaries,
+they try to force that problem into their one specific model.
+Which is the man with a hammer syndrome.
+You hit it.
+To the man with a hammer, every problem looks like a nail.
+If you're a biologist, you see biological solutions.
+If you're a marketer, every problem is a branding problem.
+If you're a surgeon, you see problems that need cutting.
+Munger says that to be worldly-wise,
+to actually understand reality, you need a lattice work
+of models in your head.
+You need the big ideas from physics, from biology,
+from history, from psychology, from philosophy.
+And you need to hang your actual experiences
+on this lattice work.
+You have to connect them.
+So you're not just memorizing isolated facts.
+It's not about trivia.
+You're building a structure, a framework,
+that lets you see the problem from multiple angles.
+So if you have a business problem,
+you look at it through the lens of psychology.
+How are my customers and employees reacting?
+You look at it through the lens of math.
+What do the numbers actually say?
+And maybe you even look at it through the lens of biology.
+Is this a system that's evolving and adapting?
+Or is it dying?
+You are triangulating reality.
+That's the perfect phrase for it.
+And today, we are zooming in on one specific pillar
+of that structure.
+Probably the most powerful one for breaking
+through that old map problem we started with.
+We are talking about first principles thinking.
+This is the heavy artillery of thinking tools.
+If you're stuck, if you're facing a problem
+that seems completely unsolvable,
+or if you want to create something that has never existed
+before, this is the sledgehammer you pick up.
+It's often described as the tool
+for reverse engineering complicated problems, right?
+For unleashing creativity.
+It's how you break reality down to its rawest materials
+so you can build something entirely new from scratch.
+It is the fundamental difference
+between doing what has always been done
+and doing what is actually possible.
+It's how you escape the loop of history.
+So let's unpack this.
+Section one, defining first principles thinking.
+What exactly is it?
+Okay, so at its core, first principles thinking
+is the practice of questioning every single assumption
+you have about a problem
+until you are left with only the fundamental truths.
+The non-reducible elements.
+Exactly, the non-reducible elements.
+Things you can't break down any further.
+Think of it like a Lego castle.
+You can build a castle out of Legos or a spaceship or a boat.
+Those are the forms, the maps, if you will.
+Okay.
+But if you smash them all apart,
+you're just left with the individual bricks.
+The two by four is the one by twos.
+First principles thinking is the act of smashing the castle
+to find the bricks so you can decide for yourself
+if you want to build a castle again
+or if maybe, just maybe, a spaceship would be better.
+But most of us don't do that.
+Yeah.
+We just look at the castle, someone else built and say,
+okay, that's a castle, it has four towers.
+I guess I'll build one just like it,
+but maybe I'll add a fifth tower.
+Right, that's incrementalism.
+And it's what most of the world runs on.
+That's reasoning by analogy.
+It's looking at what already exists and just tweaking it.
+My neighbor bought an SUV, so I should probably get an SUV.
+Our top competitor just lowered their prices by 10%
+so we should lower ours by 10%.
+That is all reasoning by analogy.
+It's copying the form without understanding the function.
+Perfectly said, first principles is stripping it down
+to the studs.
+They're asking, wait, why do I need a car at all?
+What is the actual job to be done here?
+It's getting from point A to point B.
+What are the fundamental physical constraints on doing that?
+And then you build up from there.
+The source material contrasts this with learning by rote.
+And there is this fantastic quote from the physicist,
+Richard Feynman, he was just a master.
+Right, so the master.
+He says, I don't know what's the matter with people.
+They don't learn by understanding.
+They learn by some other way by rote or something.
+Their knowledge is so fragile.
+Fragile knowledge, that's such a powerful idea.
+What he meant by fragile knowledge is knowledge
+that just relies on memorization or authority.
+If you only know that A leads to B
+because a textbook told you, or because your boss told you,
+or because it's on the test.
+Then you don't really know it.
+You don't.
+If the situation changes even slightly,
+you are completely lost.
+You don't know why A leads to B, you just know the rule.
+Your knowledge is brittle.
+It shatters under pressure.
+It's like the difference between a chef and a cook.
+This is a great analogy from the text
+that I think clarifies it perfectly.
+It's the best way to visualize it.
+Think about a line cook at a big franchise restaurant.
+The cook follows a recipe.
+They might be a very, very good cook.
+The food might be consistent and tastes great
+every single time.
+They can execute the plan.
+Flawlessly.
+But if you take away one ingredient,
+let's say you run out of eggs.
+The cook is lost, they panic.
+The whole system breaks down
+because they don't know how to substitute for the egg.
+They don't understand the function of the egg
+in the chemistry of the dish.
+They know the what, but not the why.
+Right, but the chef.
+The chef acts from first principles.
+The chef understands flamer profiles,
+the may-lard reaction, heat combinations,
+the chemistry of how ingredients bind together.
+They know the fundamental building blocks of cooking.
+So if they run out of eggs.
+If they run out of eggs,
+they know why the egg was there in the first place.
+Was it for binding, for leavening, for moisture, for fat?
+And they can find a first principle substitute
+to achieve the same result.
+Or even better, they might realize
+they don't need the egg at all
+and invent a completely new recipe on the spot.
+The cook can only follow the old map.
+The chef can draw a new one.
+That's it. And historically, this isn't some new idea.
+This isn't just a Silicon Valley buzzword
+that Elon Musk made famous.
+No, not at all.
+Oh, no, we're talking thousands of years.
+This goes back to Socrates, Plato, Aristotle.
+They were obsessed with this.
+Socrates in particular
+was always looking for the foundational knowledge
+that doesn't change.
+He wanted to strip away all the opinions
+and the customs of Athens
+to find the bedrock truth
+upon which you could build ethics in society.
+He was essentially just annoying everyone
+in the public square in Athens by asking why
+over and over again,
+until they finally admitted
+they didn't actually know what they were talking about.
+He was the original disruptor.
+He was walking around the marketplace,
+deconstructing people's maps right in front of them.
+You say, this is justice, what is justice?
+And then Descartes did the same thing
+centuries later.
+He wanted to doubt absolutely everything
+until he found something that was impossible to doubt.
+Kojito, Ergosum, I think, therefore I am.
+Exactly, that was his first principle.
+He stripped away the physical world.
+He stripped away his senses
+because they could be tricked by an evil demon.
+He stripped away his memory.
+The only thing left,
+the one non-reducible brick he couldn't get rid of
+was the fact that he was thinking
+and he built his entire philosophy back up from there.
+Okay, so we want to be chefs, not cooks.
+We want to be breaking things down
+like Socrates or Feynman.
+But let's be real for a second.
+How do we actually do it?
+Because it sounds utterly exhausting
+to question everything all the time.
+It is.
+I can't walk into a coffee shop
+and deconstruct the concept of a latte every morning.
+Why is it milk?
+Why is it hot?
+What is espresso?
+Yeah.
+I'd never get my coffee.
+No, and you shouldn't.
+It is exhausting, initially.
+And you're right, you don't do it for everything.
+You don't need first principles to brush your teeth.
+Your tire shoes.
+Our brains are designed to conserve energy,
+which is why we rely on shortcuts
+and assumptions heuristics for most of daily life.
+And that's fine.
+It's necessary.
+It's necessary for survival.
+But if you have a big problem or you're stuck
+or you want to innovate,
+that's when you need to switch gears into this mode.
+And the source material gives us two very specific,
+very practical techniques to do that.
+All right, let's hit them.
+Technique number one,
+Socratic questioning.
+This is a disciplined, systematic way
+to separate what you know from what you merely think you know.
+It's not just asking questions randomly.
+It's a process.
+It's about rigorous self interrogation
+to find the flaws in your own thinking.
+The source breaks this down into six steps.
+I want to walk through these
+because I think this is where the rubber
+really meets the road for people.
+So let's create a scenario.
+Okay.
+Let's imagine I'm a business owner.
+I run a shoe company.
+And I'm convinced I need to spend a million dollars
+on a big TV ad campaign because our sales are down.
+I'm panicked.
+I feel the pressure and I am ready to sign the check.
+Okay, good scenario.
+So you're the patient.
+I'll be Socrates.
+Let's apply the method.
+Step one is clarify your thinking.
+Why specifically do you think you need a TV ad?
+What is the actual thought process there?
+Well, it's pretty simple.
+Our sales are down and our biggest competitors are doing it.
+I see their ads all the time.
+So we need more visibility to get sales back up.
+Yeah.
+The logical next step.
+Okay.
+Step two.
+Challenge assumptions.
+How do you know that visibility is the core problem?
+And even if it is, how do you know TV is the right way to get that visibility?
+What if the opposite was true?
+The opposite.
+What if the opposite was true?
+What if you actually have too much visibility, but the product's quality has slipped and
+more people seeing a bad product just leads to more bad reviews and tanks your reputation
+faster.
+Ouch.
+Okay.
+That immediately forces me to step back.
+I just assume the product was fine.
+I assume visibility automatically equals sales.
+They're big assumptions.
+Yeah.
+So step three.
+Look for evidence.
+What are the specific sources for your belief?
+Do you have any hard data showing that TV ads drive sales for your specific type of shoe
+to your specific customer?
+Or is this just a feeling you have because you watch TV?
+I mean, if I'm being honest, it's probably just a feeling.
+Or maybe I saw one article about how Nike did it.
+But I'm not Nike.
+I don't have their budget.
+For brand recognition, the context is completely different.
+It is.
+Which leads to step four.
+Consider alternative perspectives.
+What might a 25 year old digital marketer think of your plan?
+What might your actual customer think?
+A digital marketer would probably say, I'm lighting a million dollars on fire.
+Yeah.
+And that I should be targeting specific running communities on Instagram or TikTok for a fraction
+of the cost and my customer, honestly, my customer probably skips TV ads or doesn't
+even have cable.
+They're on their phones.
+So step five, the big one, examine consequences and implications.
+What if you are wrong?
+If I'm wrong, I lose a million dollars.
+We don't really have.
+I can't pay my staff.
+I might go out of business.
+The downside is catastrophic.
+And finally, step six, question the original questions was, how do we make a great TV ad?
+Even the right question to start with?
+No, not at all.
+The question should have been why are sales down and the answer might be the product or
+the price or customer service.
+It could be a dozen things other than visibility.
+Boom.
+And just like that, by going through that discipline process, you've realized you're
+about to make a huge mistake based on cook thinking, following a recipe of competitors
+do ads.
+So I do ads rather than chef thinking, you've potentially avoided a million dollar mistake
+just by asking six structured questions.
+I love that.
+It stops that emotional gut instinct panicked reaction and forces you to look at the structural
+reality of the problem.
+OK, so that's technique one, technique number two.
+This one is simpler, but maybe even more annoying if you're on the receiving end.
+The toddler method.
+Yes.
+The five whys.
+Anyone with a kid knows this one.
+Why?
+Because the sky is blue.
+But why?
+Because of how the atmosphere scatters light.
+But why?
+Because they're really scattering.
+Why?
+It's maddening, but children are natural first principles thinkers.
+They haven't learned the socially acceptable stopping points yet.
+They genuinely want to understand the underlying mechanism.
+And the goal of the five whys is to keep digging until you land on a falsifiable fact, a what
+or a how.
+And crucially, to avoid what the source calls a bad landing.
+Right.
+A bad landing is when you ask why.
+And the final answer you get is something like, because I said so, or that's just how
+we do things around here, or it's tradition.
+The conversation ender.
+It's the end of thinking.
+That is not a first principle.
+That is a dogma.
+That is a myth.
+It's an appeal to authority or inertia, and it's where progress goes to die.
+So if I'm in a meeting and I say, we have to use this specific software for this project,
+and you ask why?
+And my answer is, because we've always used it, I haven't finished the exercise.
+Not even close.
+You've essentially landed on a cook answer.
+You have to keep going.
+You have to push through that social discomfort.
+Okay.
+But why have we always used it?
+Well, because it was the cheapest option when we bought it 10 years ago.
+Okay.
+Why was it the cheapest?
+Because it lacks these three modern features that competitors have.
+Okay.
+And do we need those features for the project we're doing now?
+Yes.
+Absolutely.
+They would save us hundreds of hours.
+Boom.
+Now you have a first principle, the root cause.
+We are using a tool that actively harms our productivity because of a pricing decision
+made a decade ago under totally different circumstances.
+Now you have a real problem you can solve.
+It seems so obvious when you lay it out like that.
+But in the moment, in our day to day lives, we just accept the, because we've always
+done it.
+We just drift.
+We drift.
+We run on autopilot because it's efficient.
+First principle thinking is the anchor that stops the drift.
+It forces you to pause and re-verify your map against the actual territory.
+To really see how powerful this is, and frankly, how dangerous it is to ignore it, we have
+to look at a time when the map was totally completely wrong and only first principles
+could fix it.
+Source Material has this incredible case study about stomach ulcers.
+This is one of the great stories in modern medical history.
+It's the story of the bacterial surprise.
+And it really highlights how strong that lattice work of dogma can be and how incredibly
+hard it is to break.
+So take us back.
+It's the 1970s, maybe the early 80s.
+What was the map for stomach ulcers?
+What did every doctor, every textbook, every expert on earth believe?
+The consensus, and I mean the absolute unquestioned ironclad dogma, was that ulcers were caused
+by lifestyle factors.
+The hurried, worried disease.
+Exactly.
+Stress from your job, spicy food, too much stomach acid.
+If you had an ulcer, you were told to relax, maybe drink milk to coat your stomach, and
+take antacids like Tums or Zantac.
+That was the entire prescription, and it was a massive billion dollar industry of palliative
+care of just managing the symptoms.
+And it was a first principle underlying all of this, right, or at least what they thought
+was a first principle.
+Yes.
+And this is key.
+The assumption was based on what they knew about the stomach.
+The stomach is a vat of hydrochloric acid.
+It's an incredibly harsh, acidic environment, therefore it is a sterile environment, therefore
+bacteria cannot possibly survive in there.
+It was considered a biological impossibility for bacteria to live and thrive in the stomach.
+It was like saying fish could live on the moon.
+It was absurd.
+Enter Robin Warren and Barry Marshall.
+Two Australian researchers, and they were kind of outsiders, really.
+They weren't at Harvard or Johns Hopkins.
+Robin was a pathologist and he started looking at biopsies from ulcer patients, and he saw
+something that just shouldn't be there.
+He saw these little curved bacteria, specifically helicobacter pylori or H-pylori.
+And because of that acid dogma, nobody believed them.
+They were laughed at, literally laughed out of the room at medical conferences.
+The experts, the people with the fancy degrees in the established maps said, your samples
+must be contaminated.
+Everyone knows bacteria can't live in acid.
+Go back and read a textbook, kid.
+They were fighting against the entire medical establishment.
+But Marshall, he used that socratic questioning we just talked about.
+He started challenging the core assumption.
+He did.
+He basically asked, why are we trusting the theory over the evidence?
+Why don't we just look at the case records?
+He stopped looking at the map, the textbook, and started looking at the territory, the
+actual stomach tissue.
+And when they did, they found the bacteria in 100% of the patients they looked at with
+duodenol ulcer.
+100%.
+100%.
+In biology, you rarely, if ever, see 100% correlation.
+That's a massive, massive signal.
+But they still couldn't prove causation.
+They couldn't prove the bacteria caused the ulcer.
+They tried to infect lab animals, like pigs and rats.
+But it didn't work.
+The animals were immune.
+So the established group could still say, see, it's just a coincidence.
+Exactly.
+Correlation isn't causation.
+So Marshall did something, while you call it dedicated, or maybe completely unhinged.
+He went full mad scientist.
+Full mad scientist.
+He realized the only human subject he could ethically experiment on was himself.
+He was healthy.
+He had no ulcers.
+So he went into his lab, took a beaker of broth that was teeming with this H. pylori
+bacteria, and he drank it.
+He drank the bacteria broth.
+He literally ingested the disease he was trying to prove existed.
+He drank the broth.
+He put his own body on the line to test the map against reality.
+And within a few days, he was violently ill.
+He was vomiting.
+His breath smelled terrible.
+He felt awful.
+And crucially, a biopsy showed he had developed severe gastritis, which is the precursor to
+ulcers.
+He proved the bacteria was colonizing his stomach.
+He proved the first principle of the entire medical establishment that the stomach is sterile
+was completely false.
+And in doing so, he revolutionized medicine.
+The treatment for ulcers went from lifelong management with milk and antacids to a simple
+two-week course of antibiotics.
+You could actually cure it.
+They won the Nobel Prize for this in 2005.
+But it only happened because they were willing to look at the territory, the actual bacteria
+under the microscope, and ignore the map, the textbooks that said it was impossible.
+It's the ultimate example of falsifiability, which we'll touch on later.
+They didn't just accept the prevailing theory.
+They tested it against reality in the most direct-away imaginable.
+They drank the broth.
+It's a powerful reminder that sometimes the experts are wrong because their underlying
+first principle is wrong.
+Let's move to another case study from the source, one that deals with animals in a very
+different way, Temple Grandin.
+This one is fascinating because it shows how easily we confuse the method with the principle.
+Oh, Temple Grandin is such a fascinating figure.
+She's a professor of animal science, a prominent author, and she's autistic, which she credits
+for helping her see details and patterns that, you know, neurotypical people often miss.
+She thinks in pictures, she completely revolutionized the livestock industry, specifically with
+her design for the curved shoot.
+Right.
+So for context, cattle and other livestock moved through these shoots or alleyways to
+get vaccinated or processed.
+And for decades, they were just straight lines, which often caused the animals to panic and
+get stressed.
+Grandin observed them and designed these shoots that were curved, and they worked beautifully.
+The cows remained calm.
+They moved efficiently.
+They didn't panic.
+And this became the new standard.
+The new map, everyone wanted a Grandin curved shoot.
+If you were a serious rancher, you built a curved shoot.
+It was the best practice.
+But then a problem emerged.
+The Stockman Ship Journal published some research that seemed to question her work.
+They found that straight shoots could work just as well, or even better, if they were
+managed correctly.
+So people started saying, wait a minute, maybe this whole curve thing is a gimmick.
+Maybe Grandin was wrong.
+And this is where that crucial distinction between tactics and principles comes in.
+And this is such a huge part of first principles thinking we get obsessed with tactics.
+Huge.
+And Grandin's response was perfect.
+She didn't get defensive about the curve.
+She explained that the curve was just a tactic.
+It was never the principle.
+She asked, why did I curve them in the first place?
+There were two reasons.
+One, cows have a natural tendency to want to go back where they came from.
+And the curve tricks them into thinking they're circling back to the herd.
+And two, the solid high walls of the curve prevented them from seeing the people and
+the scary equipment up ahead.
+It blocked the distractions.
+So the curve was a solution to a specific set of problems.
+It was a tool, a method.
+Exactly.
+The first principle was never, shoots must be curved.
+The first principle was reducing stress to the animal is the most important factor.
+Stress damages the immune system, it lowers weight gain, and it's inhumane.
+As long as you satisfy that principle, low stress, the tactic doesn't matter.
+You can use a straight shoot if you block their vision and manage the flow to keep them calm.
+You could use a zigzag shoot if it works.
+But people had completely confused the map, the curved shoot design, with the territory,
+low-stress animal handling.
+And we do this all the time.
+We get so attached to our own curved shoots, maybe it's a specific meeting format at work.
+We have to do a stand-up meeting every morning at 9 a.m.
+Why?
+Because that's how agile development works.
+No, the principle is supposed to be efficiency and quick communication.
+The stand-up is just a tactic.
+If sitting down for five minutes is faster, sit down.
+If doing it over slack is faster, do that.
+Don't worship the tactic.
+There's a great quote from Harrington Emerson in the source that just sums this up perfectly.
+The man who grasps principles can successfully select his own methods.
+The man who tries methods, ignoring principles, is sure to have trouble.
+It's one of my favorite quotes.
+These are many principles or few methods always change.
+Principles never do.
+If you anchor yourself to the method, you become obsolete the moment the context changes.
+If you anchor to the principle, you can adapt forever.
+Let's apply this to one more area, and this one feels very futuristic.
+It's where first principle thinking starts to look a lot like science fiction, the future
+of feud, specifically meat.
+This brings us right back to that idea of innovation we started with.
+This is a classic first principles deconstruction, and it's not a hypothetical.
+It's happening right now in real time.
+Okay, so the assumption, the map we've had for what 10,000 years of agriculture has always
+been.
+Meat must come from an animal.
+You need a cow to get a steak.
+That's the package deal.
+You can't have one without the other.
+Right.
+It's a bundle.
+Cow eats grass, cow grows, slaughter cow gets steak.
+That's the method.
+It's the only one we've known.
+But if you apply for principles, you stop looking at the cow.
+You smash the Lego castle.
+You ask, what is meat?
+Basically, physically, at a molecular level, strip away the animal part.
+It's not magic.
+It's just chemistry and biology.
+Exactly.
+It is a specific collection of amino acids, lipids, which are fats, water, and trace minerals
+arranged in a specific fiber structure.
+And the taste, that incredible flavor of a seared steak, that comes largely from something
+called the Mayard reaction, the chemical reaction between amino acids and sugars when
+you apply heat.
+That's the browning.
+That's most of the flavor.
+So if you look at it that way, you start to see the cow very differently.
+If you look at it that way, the cow is just a technology.
+The cow is a bioreactor that is programmed to turn grass into amino acids and fats.
+And if you analyze that technology from an engineering perspective, it's actually a
+very inefficient bioreactor.
+It takes a huge amount of water, a huge amount of land.
+It produces a lot of methane just to arrange those molecules.
+It's a piece of technology that hasn't had a software update in millions of years.
+So the first principles thinker asks, can we arrange those same amino acids and fats
+without the cow?
+Precisely.
+Can we replicate the chemistry directly?
+Can we achieve the end product without the inefficient legacy middleman?
+And that is the exact thinking that leads to plant-based meats like Impossible Foods
+or lab-grown cultured meat.
+They are ignoring the method, farming an animal and focusing on the principle, the molecular
+composition of meat.
+They're asking, how do we get the amino acids and the Mayard reaction, not how do we grow
+a better cow?
+And regardless of how you feel about eating lab-grown meat, I know some people get squeamish
+about it.
+You have to admit, the thinking process is absolutely brilliant.
+It steps completely outside the constraints of history.
+That's the key distinction.
+Reasoning by analogy, which is the opposite of first principles, says, we've always used
+cows, so let's make a better cow.
+Maybe breed a fatter cow, maybe feed it better grass.
+That's incremental innovation.
+That might give you a 10% improvement.
+Whereas first principle says, we need amino acids arranged in a fiber structure.
+How can we do that?
+And that leads to radical innovation.
+That gives you a potential 10x or 100x improvement.
+It leads to paradigm shifts.
+It allows you to step outside of history.
+If you only look at what has happened before, you are reasoning by analogy.
+You're trapped.
+It's like x, so y will happen.
+But if you reason from first principles, you look at the fundamental laws of physics
+and chemistry.
+You ask, physics says this is possible, even if it has never, ever been done before.
+It reminds me of the sources section on creativity.
+We have this tendency to think creativity is this magical lightning bolt that just hits
+certain special people.
+You know, oh, she's so creative, but this suggests it's a process.
+It's just deconstruction.
+It's a process.
+We are all born creative.
+Watch a toddler play with the cardboard box.
+They don't see a box.
+That's the map.
+They see the raw material.
+They see a fort, a car, a helmet, a spaceship.
+They are looking at the first principles of the box.
+It's a container.
+It's strong.
+It's big enough to get inside.
+But then what happens?
+Then we go to school and we are told, no, that is a box.
+It is for storage.
+We are taught the maps.
+We are taught the recipes.
+We're taught the right way to do things.
+First principles thinking is just a way to unlearn all those maps and see the raw materials
+again.
+It's about remembering how to play with the bricks.
+I want to touch on the supporting mental models briefly, because the source material
+mentions a couple that really lock this all in.
+One is falsified ability.
+We touched on this with the stomach ulcer, guys, but it's so crucial for keeping ourselves
+honest, isn't it?
+It's the intellectual guardrail.
+The idea comes from the philosopher Karl Popper.
+And it's simple.
+For something to be scientific or even true in a useful way, it must be testable.
+You have to be able to clearly state the conditions under which it would be proven false.
+And if you can't state those conditions?
+If you can't, it's not a principle.
+It's an opinion or a belief or a dogma.
+If I say ghosts exist, but they are invisible and pass through walls and can't be detected
+by any scientific instruments, that is an unfalsifiable claim.
+It might be true.
+It might not be, but it's not useful knowledge we can build on in business or in life.
+If you have a strategy that you claim can't fail, you're in deep, deep trouble.
+You need to know what failure looks like so you can spot it early.
+You need to be able to say, if our sales don't go up by 10% next quarter after launching
+this feature, my hypothesis was wrong and we need to change course.
+Exactly.
+And then there is the turkey problem.
+I love this one.
+It's got a bit of dark humor, but it really sticks in your head.
+It shows the immense danger of relying on past trends.
+It's from Bertrand Russell, right?
+Bertrand Russell's chicken.
+Sometimes it's a turkey, but imagine a turkey on a farm.
+Every single day, the farmer comes out and feeds it.
+Day one, fed.
+The turkey thinks, this is great.
+The farmer loves me.
+This is a benevolent universe.
+Day one hundred, fed.
+The turkey's confidence goes way up.
+Day nine hundred, fed.
+By now the turkey has a nine hundred day track record of overwhelming success.
+So the turkey builds a model.
+It establishes a law of the universe in its little turkey brain.
+When the farmer peers, I get fed.
+The data is overwhelming.
+It's statistically significant.
+The turkey has a 99.9% confidence level.
+The data supports it.
+And then the day before Thanksgiving, the farmer comes out and he doesn't have food.
+He has an axe.
+The turkey mistook a trend for a law.
+And that's the punchline.
+We do this constantly.
+Housing prices in my city always go up.
+This stock has paid a dividend for 20 years, so it always will.
+My job is secure because I've been here for a decade.
+Just because something has happened for a thousand days in a row doesn't mean it's
+the first principle of the universe.
+It might just be a trend that is about to end very abruptly.
+And first principles thinking would ask.
+It would ask, why is the farmer feeding me?
+What is the underlying mechanism here?
+If the turkey had asked that, if it had looked for the root cause, not just the surface
+pattern, it might have realized the horrifying truth.
+He's not feeding me because he's kind.
+He's feeding me to fatten me up.
+That is a terrifyingly good point.
+You have to know the why, or you're just a well-fed turkey waiting for the axe.
+You're navigating with a map that says safe zone right up until the moment you walk off
+the cliff.
+Which leads directly to the final supporting model we should mention.
+The circle of competence.
+Because you can apply first principles to everything.
+You have to know the territory.
+You can't deconstruct the engine of your car down to its first principles if you don't
+even know what a pisting is.
+You'll just end up with a pile of useless metal on your garage floor that definitely
+doesn't run.
+Right.
+So you need a baseline of knowledge.
+You need curiosity.
+You need to always be working to expand your circle of competence, but you also need the
+humility to know when you are operating outside of it.
+If you don't know the basic facts of a domain, you can't find the principles.
+You have to do the hard work to understand the basics before you can earn the right to
+deconstruct them.
+Okay.
+So let's bring this all home.
+We've covered a lot of ground here.
+We've smashed the Legos.
+We've drunk the bacteria broth.
+We've managed the cows.
+We've built the lattice work.
+If the listener takes just one thing away from this deep dive into first principles,
+what should it be?
+What's the core practical takeaway?
+I would say this.
+The person with the fewest blind spots wins.
+Reality is going to happen whether you understand it or not.
+The bacteria is in the stomach whether you believe it's possible or not.
+The housing market will crash whether your model predicts it or not.
+First principle is thinking using tools like Socratic questioning and The Five Wise.
+These are the pickaxes we use to chip away the plaster of conventional wisdom and find
+the solid rock of reality underneath.
+So it's really about not blindly relying on the maps that are handed to you by others.
+It's about taking the time to verify the territory for yourself.
+And I think realizing that just because something hasn't happened yet doesn't mean
+it can't happen, the source material has this great line about how we tend to assume
+the worst thing that has happened is the worst thing that can happen.
+The turkey problem again.
+Exactly.
+We need to prepare not for what history has shown us, but for the extremes that are allowable
+by the laws of physics and chemistry.
+We need to look at what is truly possible, not just what is probable based on past events.
+That is a powerful thought to leave on.
+So here's my challenge to you listening right now.
+What is one core assumption in your life?
+Maybe in your job, maybe in a relationship, maybe about your health that you are treating
+as a law, but might actually just be a trend.
+Where are you the turkey?
+Ask why five times about that assumption.
+You might be really surprised by the answer.
+You might find out you've been following a recipe for a dish that nobody including you
+wants to eat anymore.
+Thanks for diving in with us.
+We'll see you next time.
+Be curious.

@@ -1,0 +1,731 @@
+There is this story, it's become a bit of a modern philosophical classic, mostly because
+David Foster Wallace told it so well in the commencement speech a few years back.
+It's simple, really.
+They're these two young fish swimming along, just minding their own business.
+They're swimming side by side, probably chatting about whatever young fish chat about.
+And eventually they happen to cross paths with an older fish who is swimming the other
+way.
+What a wise elder of the reef.
+Exactly.
+Fish nods at them sort of casually and says, morning boy, how's the water?
+And he keeps swimming.
+The two young fangs swim on for a bit, totally silent.
+And then eventually one of them looks over at the other, completely confused and goes,
+what the hell is water?
+It's such a sticky little parable.
+It just stays with you.
+It does.
+And I think the reason it sticks is that it's terrifyingly accurate about the human condition.
+We are swimming in something.
+We are surrounded by an environment, by forces, by context.
+But because it's everywhere, because it's the medium we live in, we stop seeing it.
+We become blind to the very things that are shaping our decisions in our lives.
+That's the core problem of perception, isn't it?
+We perceive the object, but we rarely perceive the lens through which we are viewing the
+object.
+We don't see the water.
+We just see the other fish.
+So that is our mission statement for today.
+We are going to try to answer the young fish's question.
+We are going to define the water.
+We're doing a deep dive into mental models.
+Now we have pulled from a massive stack of sources today.
+Specifically, we are looking at the supporting ideas found in the great mental model series.
+But we aren't just going to list definitions like we're reading a dictionary.
+We're going to try to build a toolkit.
+And toolkit is really the right word here.
+I think people often hear mental models and they think it sounds, I don't know, academic
+jargon.
+But a mental model is just a representation of how something works.
+That's it.
+A shortcut.
+It is.
+It's a shortcut.
+We can't relearn the laws of physics or the entire history of macroeconomics every
+single morning when we make coffee.
+That would be exhausting.
+You'd never get out the door.
+You wouldn't.
+Yeah.
+So our brains construct models.
+We chunk patterns together.
+We say, okay, this is how gravity works or this is how supply and demand works.
+Yeah.
+And we use those chunks to navigate the world efficiently.
+The problem arises when our models are wrong or when we only have one or two of them.
+I love the analogy used in the source material for this.
+It compares the brain to an engine.
+You might have a brain that is just raw processing power, a 400 horsepower engine.
+You're smart.
+You're quick.
+You have a high IQ.
+But if you only have one or two mental models, if you only view the world through, say, the
+lens of a hammer looking for a nail, you are stifling that engine.
+Oh, yeah.
+You're a 400 horsepower engine that's only outputting 50 horsepower.
+Because you have no transmission.
+You have no way to apply that power to the road.
+The efficiency comes from having a variety of models that can handle different trains,
+different problems.
+And this brings us to Charlie Munger.
+You can't talk about the stuff without bringing up Munger.
+He coined this term that I think is the skeleton key for this entire deep dive, the lattice
+work.
+The lattice work of mental models.
+It's such a beautiful image.
+A lattice isn't just a pile of wood.
+It's a structure where the pieces intersect and support each other.
+Right.
+And it's a brilliant one is that you can't just memorize isolated facts.
+The battle of Hastings was in 1066.
+Great.
+That's a piece of wood on the floor.
+It's useless on its own.
+It falls out of your head the second you don't need it for a test.
+Exactly.
+But if you hang that fact on a lattice work, if you connect the battle of Hastings to a
+model of military strategy or a model of political succession or a model of how languages
+evolve, suddenly it sticks.
+It becomes part of a structure.
+You want ideas from physics to reinforce ideas from art.
+You want biology to clarify economics.
+That is the lattice work.
+So here is our roadmap for today.
+We aren't going to talk about the headline acts.
+We aren't doing evolution or relativity or compounding.
+Those are the rock stars.
+Today we are looking at the supporting ideas.
+These are the unsung heroes in the mental map.
+We've pulled five specific tools from the lattice work and they come from totally different
+disciplines, which is perfect for the lattice work concept.
+You're pulling from all over.
+We've got subtext from the world of art.
+We've got falsifiability from science.
+We have causation versus correlation from logic.
+We have distributions from mathematics.
+And finally, we have the really mind-bending concept of chaos dynamics from systems thinking.
+It's a diverse mix, art, science, logic, math, systems.
+But the goal is to show how they all fit together, how they connect on that lattice
+to help us see the water.
+Let's jump right into the first one.
+Let's start with art.
+The model is subtext.
+I love starting with art because, you know, in the world of business and decision making
+and productivity, art often gets sidelined.
+People think it's just decoration.
+Yeah, luxury.
+A luxury.
+But art teaches us one of the most critical skills for survival, reading between the lines.
+The definition here is pretty straightforward, but the application is so deep in any work
+of art, a novel, a play, a painting.
+You have the text.
+That's what is explicitly stated, the words on the page, the paint on the canvas.
+And then you have the subtext.
+The subtext is the meaning conveyed without stating it.
+It's the meaning that exists beneath the surface.
+If I walk into a room and say, it's getting warm in here, the text is a report on the
+temperature.
+But depending on my tone, how I look at you, the subtext could be, I'm uncomfortable,
+or we need to leave, or I'm attracted to you.
+Right.
+It's the difference between the data and the actual message.
+And the source material highlights that this isn't just about writing good dialogue.
+It's about safety.
+It's about how human beings communicate when the truth is dangerous.
+Yes.
+Subtext is plausible deniability.
+Because it is implied, it is subjective.
+And because it is subjective, you can deny it.
+I didn't say that you just inferred it.
+That is a powerful shield.
+To illustrate this, we have to look at the crucible by Arthur Miller.
+Now, most people read this in high school, but I think we need to really set the stage
+here.
+It's 1953.
+What is the atmosphere in America?
+It is an atmosphere of absolute paranoia.
+This is the height of McCarthyism.
+Senator Joseph McCarthy is leading the House Un-American Activities Committee.
+They are hunting for communists or communist sympathizers in the government, in the military,
+and especially in Hollywood, in the arts.
+And it wasn't just, oh, you might lose your job.
+People were going to jail.
+Lives were being completely ruined.
+If you were called to testify, you were expected to name names.
+If you didn't, you were blacklisted.
+You'd never work again.
+It was a witch hunt.
+I mean, a literal ideological purge.
+And Arthur Miller, being a prominent playwright, was right in the crosshairs.
+He wanted to scream about the injustice of it.
+He wanted to write a play that said, this senator is a demagogue, and this hysteria is
+destroying the fabric of our society.
+But he couldn't.
+He couldn't.
+If you wrote that text, the play would never be performed.
+You would be arrested or blacklisted immediately.
+The text was too dangerous.
+So he turned to a mental model, subtext.
+He went back to the historical records of Salem, Massachusetts in 1692.
+When he wrote a play that, on the surface, the text is strictly a historical drama.
+It's about Puritan girls dancing in the woods and accusations of witchcraft and religious
+hysteria.
+If you just read the lines, there isn't a single communist in the play.
+Not one.
+But the subtext was screaming to the 1953 audience.
+When the characters in the play are pressured to name names to save themselves from hanging,
+every single person in the theater knew Miller was talking about the HUAC hearings.
+He used the safety of the past to critique the present.
+It's such a brilliant maneuver.
+He holds up a mirror, and the people in power McCarthy and his cronies, they're trapped.
+Because if they say, hey, this play is attacking us, they have to admit that they are the witch
+hunters.
+Exactly.
+They have to accept the subtext to attack it.
+And by doing so, they validate the critique.
+Miller used subtext to bypass the censorship of his reality.
+And this applies to us today.
+When you're in a high stakes meeting or listening to a political speech, the text is rarely
+the whole story.
+Usually the text is the least interesting part.
+It is.
+The text is the costume.
+The subtext is the body underneath.
+If you aren't reading the subtext, if you aren't asking why is he saying this now, what
+is he avoiding, then you are missing the actual conversation.
+Speaking of costumes, we have to talk about Willie Sutton.
+The source material refers to him as Willie the actor.
+I love this guy.
+And he was a criminal, so we shouldn't hear a worship him too much.
+But his application of subtext was just genius.
+Sutton was a bank robber in the mid 20th century.
+But he wasn't the type to run in with a Tommy gun and scream at everyone to get on the floor.
+He realized that violence brings heat.
+He preferred confusion and compliance.
+So he used disguises, but he didn't just put on a fake mustache.
+He understood the subtext of uniforms.
+He did.
+He addresses a policeman, a mailman, a maintenance worker, a window washer.
+When the brilliance is in the psychology, when we see a uniform, our brain runs a very
+fast, heuristic, a mental shortcut.
+We see the uniform, which is the text, and we immediately download this whole set of
+assumptions that comes with it, the subtext.
+Exactly.
+If you see a police officer standing at the door of a bank, what is the subtext?
+Authority, safety.
+He's supposed to be there.
+He's guarding the place.
+Right.
+You don't look at him and think threat.
+You think order.
+If you see a maintenance man with a toolbox, what is the subtext?
+Invisibility.
+He's just there to fix a light bulb or something.
+He's part of the furniture.
+You look right through him.
+Sutton weaponized that invisibility.
+He could walk right into a bank, past the guards, because his text, the uniform, was
+telling everyone a lie that they wanted to believe.
+There's a great quote from him in the notes.
+I was beginning to think of this as a drama with myself as director and main actor.
+That's the key, isn't it?
+He treated it like theater.
+He wasn't just wearing the clothes.
+He was inhabiting the role.
+He took it incredibly seriously.
+He said he considered casing a bank as important as actually robbing it.
+He wasn't just checking for alarms and cameras.
+He was studying the performance space.
+He needed to know the lighting.
+He needed to know the flow of the extras, the customers.
+He needed to know exactly where to stand so the illusion would hold up.
+It's social hacking.
+He's hacking the software running in the other people's brains.
+And we are all vulnerable to this, every day.
+We judge books by their covers and people buy their suits.
+It's efficient.
+We have to.
+But the mental model of subtext reminds us to pause.
+It reminds us to look at the policeman and ask, is that really a policeman?
+Or is it just a costume?
+It teaches us to question the surface.
+So art teaches us that the surface is often a lie, or at least a distraction.
+Let's pivot to our second tool.
+We're moving from the theater to the laboratory.
+We're going to talk about falsifiability.
+This is one of the heavy hitters.
+If you want to think like a scientist, or just think clearly in general, you have to
+get your head around falsifiability.
+It's a concept largely attributed to the philosopher of science, Karl Popper.
+Now falsifiability is a bit of a mouthful, and I think people get tripped up on the word.
+It sounds like it means this idea is false.
+Right.
+It sounds negative, but it's actually a requirement for truth.
+Popper was trying to solve what is called the demarcation problem.
+He wanted to draw a bright line between science and non-science, or pseudoscience.
+And his conclusion was that for theory to be scientific, it must be capable of being
+proven false.
+Exactly.
+It must be falsifiable.
+That doesn't mean it is wrong.
+It means that you can imagine a specific test or observation that, if it happened, would
+prove the theory wrong.
+The classic example is the swans.
+If I have a theory that says all swans are white, that is a scientific theory.
+Why?
+Because it's easy to test.
+All you have to do is find one single black swan.
+If you find one black swan, the theory all swans are white is destroyed.
+It is falsified.
+The theory sticks its neck out.
+It takes a risk.
+But let's look at the flip side.
+Let's look at a theory that isn't falsifiable.
+Okay.
+Let's take the ghost in the room theory.
+I claim that right now in this studio, there are invisible, intangible, silent ghosts floating
+around us.
+They don't emit heat.
+They don't reflect light.
+They can't be touched.
+Okay.
+So I say, let me get my thermal camera.
+I say, nope.
+They don't emit heat.
+Let me sprinkle flour on the floor to see footprints.
+I say, no, they float and they're intangible.
+So there's nothing I can do to prove you wrong.
+You cannot.
+There is no observation you could possibly make that would conflict with my claim.
+And because you can't prove it wrong, Popper would say that my claim is meaningless.
+It's not science.
+It's just noise or faith, but it's not knowledge.
+This feels like a superpower for navigating the modern world.
+We are constantly bombarded with claims from politicians, from marketers, from financial
+gurus.
+This diet is a miracle.
+This stock will go up forever.
+And the question you have to ask every single time is, what evidence would prove this wrong?
+I love that.
+It's an aggressive question.
+It's direct.
+It is.
+If you ask a financial guru, under what specific conditions would your investment strategy
+fail?
+And they say, oh, it never fails.
+It works in all markets.
+If it loses money, it's because you didn't follow the steps correctly.
+That's a red flag.
+A giant flashing neon siren right there.
+It is.
+That is a closed loop.
+It's unfalsifiable dogma.
+If a theory explains everything, it actually explains nothing.
+A real theory, a useful mental model, has to have boundaries.
+It has to say, I work in these conditions, but if this happens, I am wrong.
+It's about vulnerability.
+A good idea has to be vulnerable to reality.
+There's a quote in the source material, our failures to update from interacting with reality
+spring from not having the right perspective.
+If your model can't be falsified, it can never be updated by reality.
+It's a dead end.
+You're stuck with it forever, regardless of whether it works or not.
+So we use falsifiability to filter out the nonsense.
+Now let's slide from science into logic.
+This next one is a trap that I think every single human being has fallen into at some
+point.
+It's causation versus correlation.
+The classic.
+This is the bread and butter of critical thinking.
+We are pattern seeking machines.
+Our brains are designed to connect dots.
+That's how we survived on the savannah, rustling grass equals lion.
+We connect them.
+But sometimes we connect dots that have absolutely no business being connected.
+The definition is simple.
+Correlation is noticing that two things happen at the same time.
+Causation is concluding that one thing made the other thing happen.
+And mixing them up is so dangerous.
+The source material uses the visualization of a graph.
+If you have no correlation, the data points are just scattered everywhere like a sneeze,
+no pattern.
+But perfect correlation is when those dots line up in a perfect straight diagonal line.
+As variable A goes up, variable B goes up.
+And when we see that line, our brain just screams cause and effect.
+It's irresistible.
+The famous example is ice cream and shark attacks.
+It's famous because it's so clear.
+If you plot ice cream sales and shark attacks on a graph for a beach town, they look almost
+identical.
+In July, they both drop in January.
+So if you confuse correlation with causation, you might conclude that eating ice cream makes
+you delicious to sharks.
+Or that sharks attacking people makes everyone hungry for ice cream.
+Which is absurd.
+It is.
+But the reason they are correlated is a third factor, a confounding variable.
+That variable is the weather.
+When it's hot, people eat more ice cream.
+When it's hot, people go swimming in the ocean.
+The heat causes both.
+The ice cream and the sharks have nothing to do with each other.
+Now, that's funny when it's sharks.
+But in the business world or in medicine, this gets really, really tricky.
+It gets incredibly murky.
+Let's take a corporate example.
+A company hires a new CEO.
+Let's call her CEO amazing.
+The year she takes over, the company's stock price doubles.
+And everyone says, she's a genius.
+She caused the growth.
+Right.
+And she gets a massive bonus.
+She writes a book on leadership.
+But was it causation?
+Or was it just correlation?
+Maybe the entire industry boomed that year.
+Maybe a major competitor went bankrupt.
+And their customers had nowhere else to go.
+Maybe the interest rates dropped.
+Or maybe the previous CEO laid the groundwork for a new product that just happened to launch
+the month she arrived.
+Exactly.
+This is often called the halo effect.
+We attribute success to the visible figurehead.
+We assume causation.
+But if we are wrong, if it was just a correlation with a rising market, then we are making
+a terrible mistake.
+Because then we try to replicate it.
+We say, let's do exactly what CEO amazing did.
+But if her actions didn't cause the result, we're just cargo culting.
+We're going through the motions.
+And that leads to disaster.
+You see this in medicine too.
+For years, studies showed that people who took say, vitamin X were healthier.
+So doctor said, vitamin X causes health.
+But it turned out that people who take vitamins are generally more health conscious.
+They exercise more.
+They don't smoke.
+That was the cause.
+The vitamin was just a marker, a correlation.
+So how do we fight this?
+How do we separate the line on the graph from the actual truth?
+You have to go back to falsifiability in a way.
+You have to test the relationship.
+You have to play devil's advocate.
+You ask, if we remove the CEO, does the stock still go up?
+If we stop the ice cream, do the shark still bite?
+We have to constantly be hunting for that third variable.
+You have to be suspicious of the obvious narrative.
+Always.
+If two things move together, your first thought shouldn't be a caused b.
+It should be interesting coincidence.
+I wonder what's driving both of them.
+OK, we've covered art, science, and logic.
+Now we're going to open the drawer marked mathematics.
+And before anyone reaches for the skip button, this isn't about doing long division.
+This is about distributions.
+This is about seeing the shape of the world.
+Distributions are just a way of visualizing how data is spread out.
+If you don't know the distribution you're dealing with, you are flying blind.
+You can't make predictions.
+You can't assess risk.
+The two big ones we need to understand are the normal distribution, the famous bell curve
+and the power law or long tail.
+And the difference between them is everything.
+In a normal distribution of bell curve, most things are average.
+Think about human height.
+The average American man is maybe 5'9".
+You might meet someone who is 6'5".
+You might meet someone who is 5' tall.
+But you are never going to meet a man who is 100' tall or 1' tall.
+Exactly.
+The data clusters in the middle.
+The extremes are very close to the average.
+It's a stable, predictable world.
+But a power law distribution is a totally different animal.
+This is the world of winner take all.
+Right.
+In a power law, there is no meaningful average.
+A tiny number of events have a massive outsized impact.
+Think about wealth or book sales or Twitter followers.
+If you look at book sales, you have JK Rowling and Stephen King selling hundreds of millions
+of copies.
+And then you have millions of authors who sell, what, 14 copies to their grandmothers?
+And if you average JK Rowling with the million unknown authors, the average author sells
+a lot of books.
+But that average is a lie.
+It's totally misleading.
+It doesn't represent reality.
+In a power law, the tale is incredibly long.
+The outliers define the entire system.
+The source material has this incredible story that illustrates just how much data you need
+to really understand a distribution.
+It's the story of the Oxford English Dictionary, the OED.
+This is one of the greatest intellectual achievements in human history.
+And it's a story about sampling.
+It's a story about data collection.
+So back in the mid 19th century, a group of scholars in London decided they wanted to
+map the English language.
+They didn't just want a list of words.
+They wanted the biography of every single word.
+When did it first appear?
+How did the meaning change?
+Where did it come from?
+It was an insane ambition.
+There was no internet, no Google, no command F to search through books.
+How do you find every word in the English language?
+The crowd source it.
+They put out a call for volunteers.
+And they asked people to read books, just read whatever you have, old sermons, scientific
+journals, novels, cookbooks.
+And when you see a word, write it on a slip of paper.
+A standard slip.
+They had a format.
+The word, the sentence it appeared in, the date and the book title.
+And people started sending them in.
+They sent them to James Murray, the editor.
+He had this corrugated iron shed in his backyard called the scriptorium.
+It was lined with pigeonholes.
+You just imagine the scene.
+Sax of mail arriving every single day.
+Murray and his assistants sorting through thousands of these little slips of paper.
+Simon Winchester, who wrote a great book about this, noted the scale.
+Do you know how many slips they collected?
+It was an astronomical number, something like 6 million.
+6 million slips, 6 million data points.
+And that number is the key lesson here.
+Why did they need 6 million?
+Why not just 10,000 or 100,000?
+Because of the distribution.
+Exactly.
+If you want to know how the word, the, is used, you only need
+a few books.
+The is everywhere.
+It's the big fat middle of the bell curve of language.
+But if you want to find the word, gallamoffry or snolly-gosker, you need to cast a massive
+net.
+You need to sample the long tail of the language.
+If you only collected a small sample, you would assume those rare words didn't exist.
+You would have an incomplete map of reality.
+It took them 70 years to finish the first edition.
+70 years of collecting data just to understand the distribution of English.
+It's a profound reminder that our personal experience is a tiny, tiny sample size.
+That's the law of small numbers, right?
+Yes.
+We tend to generalize from our own small sample.
+Well, my grandfather smoked a pack a day and lived to be 90, so smoking isn't that dangerous?
+That is a sample size of one.
+That is a single data point on the far, far edge of the bell curve.
+It tells you absolutely nothing about the distribution of risk for smokers as a whole.
+Exactly.
+Understand the world, whether it's language or health or markets, you need to ask, what
+is the distribution?
+And do I have enough data to see the whole picture, or am I just looking at the slips
+of paper on my own desk?
+Okay, we've done art, science, logic, and math.
+We are heading into the final stretch.
+This is the deep end of the pool.
+We are going to talk about chaos dynamics from systems thinking.
+This is the most complex model we're covering, but also perhaps the most profound.
+It deals with the reality of non-linearity.
+The definition given in the source is sensitivity to initial conditions.
+Right.
+And to understand that, we have to understand the opposite first.
+We have to understand linearity.
+In a linear system, there is a proportional relationship between cause and effect.
+If I push a toy car a little bit, it rolls a little bit.
+If I push it hard, it rolls far.
+If I double the push, I double the distance.
+It's predictable.
+One to one.
+Correct.
+And we love linear systems.
+Our brains are wired for them.
+They make us feel in control, but the source material makes a crucial point.
+Most systems behave linearly, only when they are close to equilibrium.
+When things are calm, they are linear.
+But when things get messy, when we get away from equilibrium, we enter the realm of chaos.
+And in a chaotic system, the relationship between input and output completely breaks down.
+A tiny input can lead to a massive output, or a massive input can be absorbed and do nothing
+at all.
+This is where we get the butterfly effect.
+Yes.
+Edward Lorenz, the meteorologist, aims to pose the question.
+Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?
+Now, people use this as a cliche all the time.
+Oh, everything is connected.
+But what does it actually mean mechanistically?
+How does a butterfly cause a tornado?
+It's not magic.
+It's about amplification through feedback loops.
+The butterfly moves a tiny, tiny bit of air.
+That tiny bit of air pushes a slightly larger pocket of air, which changes the thermal gradient
+slightly, which shifts the cloud formation and the system feeds back on itself.
+The change compounds and compounds.
+It's like an avalanche.
+A single snowflake falls.
+It's just a snowflake.
+But if it hits the snowpack in just the wrong or right spot, it triggers a chain reaction
+that brings down the whole mountain.
+Exactly.
+The system is sensitive to initial conditions.
+If that snowflake had landed two inches to the left, absolutely nothing would have happened.
+This leads to a quote in the source material that really stopped me in my tracks.
+It says, no moment is any more significant than any other.
+It's a heavy thought.
+We are trained to look for turning points in history.
+We say the signing of the Declaration of Independence was a significant moment.
+And historically, yes, it was.
+But from a systems perspective, from a chaos perspective, the moment Thomas Jefferson woke
+up that morning and decided what to have for breakfast was just as significant.
+Because if he had choked on his bacon.
+Or if he had slipped getting out of bed.
+Or if his horse had thrown a shoe on the way to the hall.
+If any of those insignificant initial conditions change, the entire future trajectory changes.
+The signing doesn't happen.
+The war changes.
+The world we live in changes.
+It's terrifying, but also kind of liberating.
+It means everything matters.
+It does.
+It means that the separation between big events and small events is an illusion we create.
+In a chaotic system, they're all just events in the feedback loop.
+And this explains why prediction is so hard.
+It explains why long term prediction is impossible.
+We could predict the weather tomorrow because the system doesn't have time to diverge too
+much.
+It's linear-ish.
+But three weeks from now, the butterfly is flapped.
+The feedback loops have spun out of control.
+We cannot know.
+So if we can't predict, what is the point of the model?
+Why bother studying chaos?
+The utility isn't in prediction.
+It's in preparation.
+It's in humility.
+If you know you are dealing with a chaotic system like the stock market, or a startup,
+or even a relationship, you stop trying to control it with rigid linear plans.
+You stop assuming that if you push the button, the car will go forward.
+Exactly.
+You build in margins of safety, you become adaptable, you recognize that small changes
+can have huge consequences, so you pay attention to the details, you respect the complexity
+of the system.
+Okay.
+We have unpacked five massive tools here.
+Let's look at the toolkit we've built.
+We have subtext from art looking for the hidden meaning and the safety of the implied.
+We have falsifiability from science asking, how could I be proven wrong?
+We have causation versus correlation from logic checking if the connection is real or
+just a coincidence.
+We have distributions from math understanding the spread of data, the need for sample size,
+and we have chaos dynamics from systems respecting the power of small changes and feedback loops.
+It's a formidable set, but I want to introduce a warning here, a caveat.
+What's the catch?
+The catch is the man with a hammer syndrome.
+To the man with only a hammer, every problem looks like a nail.
+Right.
+If you only love subtext, you become a paranoid conspiracy theorist who thinks every hello
+is a secret code.
+And if you only love chaos, you become a nihilist who thinks nothing matters, it's all random.
+Why bother planning?
+We need the balance.
+We need the lattice work.
+We need to synthesize.
+We need to use math to check our art.
+We need to use logic to check our systems thinking.
+That's the whole point of the lattice work.
+To ground this, I want to end with the myth of Antaeus.
+This was in the source material, and I think it is the perfect visual for what we are trying
+to do here.
+It's a great myth.
+Antaeus was a giant in Greek mythology.
+He was a wrestler.
+And he was nasty.
+He would challenge travelers to a wrestling match, kill them, and use their skulls to
+build a temple to his father, Poseidon.
+Classic Greek villain behavior.
+But he had a secret weapon.
+His mother was Guy of the Earth.
+And as long as Antaeus was touching the ground, he was invincible.
+If you threw him down the contact with the Earth rejuvenated him, he came back stronger.
+So the harder you slammed him, the stronger he got.
+Right.
+He was drawing power from his source.
+So long comes Hercules.
+And Hercules tries to wrestle him.
+He throws him down.
+Antaeus pucks back up, ready to go.
+Hercules realizes the trick.
+He figures out the connection.
+He sees the system.
+So Hercules lifts Antaeus up.
+He holds him high in the air, bear hugging him, keeping his feet off the ground.
+And severed from the Earth, Antaeus's power drains away.
+Hercules crushes him in mid-air.
+That is a brutal image.
+But apply it to us, apply it to mental models.
+The lesson is that our mental models, our theories, our ideas, our lattice work, are
+like Antaeus's strength.
+They are powerful tools.
+But they're only powerful if they have constant contact with the Earth.
+And the Earth is reality.
+Yes.
+The Earth is the messy, complex, real world.
+If we get too lost in the theory, if we get stuck in the abstract air of our models, we
+become weak.
+We become vulnerable.
+We start believing our models more than we believe our eyes.
+Exactly.
+The source material says, our failures to update from interacting with reality spring
+from not having the right perspective.
+We have to constantly test our models against the ground.
+Does this subtext match the outcome?
+Does this correlation hold up to testing?
+Is this distribution actually a bell card, or did I just assume it was?
+If your mental map doesn't match the territory, the territory wins every single time.
+Reality is the ultimate referee.
+Always.
+So keep your feet on the ground.
+Use the models to understand the Earth not to escape it.
+So how do we apply this?
+We've thrown a lot at the listener today.
+It's a lot to digest.
+My advice.
+Don't try to use them all at once.
+Pick one.
+Just one.
+Take subtext for this week.
+Look at the news.
+Look at your emails.
+Play your boss talks and meetings.
+Just try to identify the subtext.
+Don't even act on it yet.
+Just spot it.
+Say to yourself, the text is X, but the subtext is Y.
+Or take falsifiability.
+Make it a game.
+When you hear a rumor, just whisper to yourself, what would prove this wrong?
+It's going to feel slow at first.
+It's clunky.
+You're learning a new language.
+But eventually it becomes muscle memory.
+It builds that latath work.
+And suddenly you aren't just seeing the text anymore.
+You're seeing the distribution, the feedback loops, the hidden causes.
+You're seeing the water.
+You're seeing the water.
+And that is where the 400 horsepower engine really kicks in.
+One final thought to leave you with.
+It's a famous quote from the statistician George Box.
+All models are wrong, but some are useful.
+I love that.
+We aren't looking for perfection here.
+We aren't trying to find the ultimate truth with a capital T. We're just trying to find
+tools that are useful.
+We're trying to wash the dust of daily life off our thinking.
+We're trying to be slightly less blind than we were yesterday.
+Let's keep washing off the dust.
+Let's keep building that lattice work.
+Thanks for diving deep with us.
+Thank you.

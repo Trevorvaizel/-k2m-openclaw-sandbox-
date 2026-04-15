@@ -1,0 +1,1047 @@
+Welcome back to the Deep Dive.
+We have a massive session ahead of us today.
+We are crapping open a toolkit,
+but, and I know this might sound a little bit cliche,
+it is not the kind you keep in the garage
+next to the lawnmower.
+Not at all.
+We are looking at the machinery of the mine.
+We are digging into the great mental models, volume one.
+And specifically, we are going to look at
+how to upgrade the quality of your thinking.
+It is good to be back.
+And you know, you're right,
+toolkit is a bit of a buzzword these days,
+but in this case, it's really the only word that fits.
+We're talking about the operating system for your brain.
+The OS, I like that.
+Yeah, it's a fascinating topic,
+because we tend to think of intelligence as a fixed trait.
+You know, you're born with a certain IQ,
+you have a certain amount of horsepower in your brain,
+and that's it.
+That's your lot in life.
+Exactly.
+But the core premise of this book,
+and really of the whole mental models movement,
+is that the quality of your thinking
+doesn't just depend on your raw IQ.
+It depends on the models,
+the frameworks that you've installed in your head.
+Right.
+And the source material makes this really bold claim
+right off the bat.
+It says, essentially, that in life and in business,
+the person with the fewest blind spots wins.
+And that really hit me.
+It's a powerful statement.
+Because it's a terrifying thought, isn't it?
+A blind spot, by its very definition,
+is something you cannot see.
+You can be the smartest person in the room,
+high IQ, Ivy League education, decades of experience,
+and still walk right off a cliff.
+Because you literally don't see it.
+You don't see it.
+Your mental model of the world didn't include the cliff.
+Exactly.
+And the problem with blind spots
+is that you don't know they're there
+until you have already crashed.
+You think you're seeing the whole picture,
+but you're actually looking through a very narrow lens.
+A keyhole.
+A keyhole.
+And this is where the concept of the lattice work comes in.
+This is a metaphor that Charlie Munger,
+the legendary business partner Warren Buffett, made famous.
+I love this analogy.
+Let's really unpack the lattice work,
+because I think it is the key to everything
+we're going to talk about today.
+The idea is that relying on just one way of thinking like,
+if you're an economist and you only look at the world
+through supply and demand curves is dangerous.
+It's inefficient and it's dangerous.
+Munger's argument is that if you only have one model,
+you're like a person with a 400 horsepower brain.
+Right.
+But you're only generating 50 horsepower of output.
+The transmission is broken.
+You aren't engaging with reality as it actually is.
+You're just spinning your wheels.
+You're spinning your wheels.
+Oh yeah.
+To reach your full potential, you need a lattice.
+You need a framework where you hang your experience
+on a network of models from different disciplines.
+So you can't just read business books
+if you want to be a good business leader.
+Absolutely not.
+That's a huge mistake.
+You need a bit of biology to understand natural selection
+and adaptation.
+You need a bit of physics to understand critical mass
+and leverage.
+History, psychology.
+History, psychology, engineering.
+When these models connect and reinforce each other,
+that is when you start to see the world in 3D.
+That's when you get the full 400 horsepower.
+It's the old saying.
+If you only have a hammer.
+Everything looks like a nail.
+Exactly.
+Everything looks like a nail.
+But if you have a hammer, a screwdriver, a level,
+and a tape measure, suddenly you can build a house.
+You can handle complexity.
+You see the world for what it is.
+Now, the source material covers a lot of models.
+I mean, we have first principles, second order thinking,
+probabilistic thinking.
+We could spend 10 hours just listing them.
+It's a dense book.
+It is.
+But for this deep dive, we are going
+to do something a little special.
+We are going to zoom in and focus strictly
+on one core mental model that I think
+is the most fun to play with, but also maybe
+the most misunderstood.
+It's certainly the most imaginative.
+We are talking about thought experiments.
+Yes.
+Devices of the imagination.
+The mission for today is to explain
+how we can use these devices, these little simulations
+in our heads, to investigate the nature of things,
+to learn from the states we haven't even made yet.
+That's the big one.
+And maybe most importantly, to figure out
+what we really want.
+Because on the surface, thought experiment
+sounds a lot like sitting in a chair and daydreaming.
+Right, just staring out the window.
+But the claim here is that these are rigorous tools.
+It is a powerful tool.
+And it is not just about daydreaming or fantasy.
+It is about rigor.
+It's a lab.
+It is a laboratory where you don't need funding.
+You don't need safety equipment.
+And you can run dangerous simulations
+without hurting anyone.
+I like that, a lab in your head.
+But before we get to the mechanics
+of how to run a thought experiment,
+I think we need to lay the foundation.
+We need to understand why we need mental models
+in the first place.
+Let's do it.
+Let's go to the foundation.
+And this starts with a distinction that seems simple
+but is actually pretty deep.
+Reality versus perception.
+Or, as the book puts it, the first mental model.
+The map is not the territory.
+This is the OG mental model.
+The phrase comes from Alfred Krizipski.
+The idea is that a map of a city is useful
+precisely because it's not the city.
+Right, it's an abstraction.
+It's an abstraction.
+If you had a map that was a 1.1 scale of New York City,
+you would be useless.
+It would be the size of the city.
+You couldn't fold it.
+You couldn't put it in your pocket.
+You couldn't get a bird's eye view.
+You couldn't get a bird's eye view.
+It wouldn't help you navigate
+because it would contain too much information.
+It would be a nightmare.
+You'd be standing on the corner of Fifth Avenue
+holding a map that is the size of Fifth Avenue.
+That's a funny image.
+So, a map is a reduction.
+It's a simplification.
+It highlights certain things like roads or subway lines
+and ignores others.
+Like the color of the buildings
+where the smell of the hot dog stands or the potholes.
+Millions of details are left out.
+Millions.
+Yeah.
+And mental models are the same thing.
+We cannot carry the complexity
+of the entire world in our heads.
+It's too much.
+So we use models maps to navigate.
+The danger, though, is when we forget we are holding a map.
+Yes.
+And we start thinking we are holding reality.
+That's it.
+We confuse the menu with the meal.
+We think our simplified explanation of the world
+is the world.
+And that is where the blind spots open up.
+There is this great anecdote in the source material,
+originally from David Foster Wallace,
+that illustrates this blindness perfectly.
+It's the story of the fish.
+Oh, the water story.
+It's a classic.
+It's so good.
+Yeah.
+So, just to set the scene.
+There are these two young fish swimming along,
+just mining their own business.
+They are chatting, looking for food,
+living their fishy lives.
+And they happen to meet an older fish swimming the other way.
+The older fish nods at them and says,
+morning boys, how's the water?
+Simple question.
+And the two young fish swim on for a bit, totally silent.
+And then eventually one of them looks over at the other
+and goes, what the hell is water?
+It is such a profound little story.
+Because the point is, the most obvious, ubiquitous,
+important realities are often the ones
+that are hardest to see and talk about.
+We don't see the water because we are in it.
+Exactly.
+We are swimming in a system, a system of beliefs,
+of assumptions, of this is just how things are done
+in our company or our family or our country.
+And we don't even notice it.
+That is our water.
+We're so immersed in our own perspective
+that we forget it is a perspective.
+We think it's just reality.
+But it's not.
+Mental models are tools to help us step out of the fishbowl,
+look back and say, oh, that is water.
+That is the medium I am operating in.
+They help us see the perspective blind spots.
+And staying connected to reality,
+seeing the water is crucial.
+There is another story in the book,
+a Greek myth that really drives this home,
+the myth of Antaeus.
+Antaeus, the giant.
+This is a great metaphor for leadership and strategy.
+Yeah, the wrestlers.
+Son of Poseidon and Gaia, Gaia being the Earth mother.
+Right.
+So this guy, Antaeus, was a beast.
+He was invincible.
+He would challenge anyone who passed through his country
+to a wrestling match, and he always won.
+Always undefeated.
+He was crushing people literally.
+And the secret to his power was his mother, the Earth.
+As long as he was touching the ground,
+he was invincible.
+His strength was limitless.
+It was renewable.
+He's basically being recharged every time he makes content.
+Exactly.
+But then he meets Heracles, or Hercules,
+depending on your translation.
+And Heracles is not just strong, he's smart.
+He's smart, he figures it out.
+He realizes he can't beat Antaeus by slamming him
+into the ground, because that just recharges him.
+Every time Antaeus hits the mat, he pops back up stronger.
+So what does he do?
+He lifts him up, he wraps him in a bear hug,
+and lifts him into the air, separating him from the Earth.
+And instantly, Antaeus's power drains away.
+Gone. Just gone.
+He becomes weak, and Heracles crushes him.
+It is a violent image, but the metaphor
+is incredibly important for decision-making.
+Antaeus represents us when we are grounded in reality.
+When our ideas, our strategies, our beliefs
+are in contact with the Earth, with real-world feedback,
+with actual data, with the way things really
+work on the front lines, we are powerful.
+We're effective.
+We are effective.
+We are strong, like Antaeus.
+But when we get lifted up.
+When we get lifted into the clouds of theory,
+or ideology, or this is how I want the world to be,
+rather than how it is, we lose our power.
+We lose contact with our source of strength.
+Yes.
+We become vulnerable.
+This happens to CEOs who stop visiting the factory floor
+and start making decisions based on spreadsheets
+that hide the messy reality.
+It happens to generals who sit in bunkers
+far from the front lines.
+It happens to politicians who only talk to their donors.
+When your understanding separates from reality, you lose.
+You get crushed.
+So the goal is to keep our feet on the ground,
+to constantly test our ideas against reality.
+We need to be like Antaeus constantly touching the Earth.
+But, and here's the pivot point for this entire episode.
+Sometimes we can't test our ideas against reality.
+Right.
+Sometimes the stakes are too high.
+I can't crash a plane just to see if the safety systems work.
+I can't bankrupt my company just to see if a new pricing
+strategy is a bad idea.
+Or it's physically impossible.
+You cannot rewind time to see what would happen
+if you made a different choice in history.
+You can't see what might have been.
+Exactly.
+So if we can't always touch the Earth physically,
+how do we test our ideas?
+How do we stay grounded without the risk of ruin?
+Enter the thought experiment.
+This is the simulator.
+This is how you touch a virtual Earth.
+Let's unpack this.
+Because when I hear thought experiment,
+I admit, sometimes I just think of daydreaming.
+I think of sitting in a chair, staring out the window,
+wondering, what if I won the lottery?
+But the source material is very clear
+that this is not just fantasy.
+No, it is not idle speculation.
+A true thought experiment requires rigor.
+The text defines it as devices of the imagination
+used to investigate the nature of things.
+It is a lab.
+It is a laboratory inside your head.
+So it's not just making things up.
+Not at all.
+And just like a real lab, you have to follow a method.
+You can't just guess.
+It actually lists out the steps, almost
+like the scientific method, which I found really interesting.
+It forces you to be disciplined.
+So step one, you have to start with a specific question,
+not just what if, but a focused inquiry.
+OK, what would happen to our sales if we doubled our price?
+That's a question.
+That's a question.
+Then, and this is the part people skip,
+you have to conduct background research.
+You cannot simulate what you don't understand.
+If you don't know the rules of physics,
+you can't run a physics thought experiment.
+If you don't know the rules of basketball,
+you can't simulate a game.
+You need to know your customers, your market,
+your competitors, all of it.
+You need the raw materials for the simulation.
+Then you construct a hypothesis.
+I predict our sales will drop by 30%,
+but our profit margin will increase by 50%.
+OK.
+Question, research hypothesis, then what?
+Then you run the experiment, the simulation, in your mind.
+You play it out, what do customers do, what do competitors
+do, you analyze the outcomes.
+And then, crucially, you compare it to your hypothesis
+and adjust your model.
+It's a loop.
+It's iterative.
+It's an iterative loop of disciplined imagination.
+I think the best way to explain this
+is the basketball analogy from the book.
+I laughed when I read this, but it's actually
+a brilliant way to explain the difference between a deterministic
+outcome and a probabilistic one.
+The LeBron James scenario.
+This is the simulation versus reality check.
+Right.
+So scenario way, I ask you.
+Who wins a game of one-on-one?
+LeBron James.
+Or Woody Allen.
+Well, assuming we were talking about the filmmaker Woody Allen
+and not some secret NBA prospect named Woody Allen.
+Yes, the filmmaker.
+And assuming Woody Allen doesn't have a hidden exoskeleton
+or a laser gun, the answer is obvious.
+It's LeBron.
+We don't need to play the game.
+We don't need to fly them to a court, rent the gym,
+get a referee.
+The disparity in skill and athleticism
+is so massive that the mental simulation gives us
+a 100% clear answer.
+Woody Allen gets crushed.
+Unless LeBron has a sudden medical emergency, yes.
+The simulation yields a deterministic result.
+The range of outcomes is incredibly narrow.
+Exactly.
+But now scenario B. Who wins one-on-one?
+LeBron James.
+Or Kevin Durant.
+Now that is much harder.
+That's a real question.
+Right, both are NBA champions, both are MVPs.
+Similar size, incredible skill you can't just know.
+In this case, running the simulation once in your head
+doesn't give you a definitive answer.
+You can imagine LeBron bullying his way to the rim and winning.
+You can also easily imagine Durant hitting those
+unguardable fadeaways and winning.
+So what is the value of the thought experiment
+if it doesn't give us the answer?
+If I run it and I still don't know who wins,
+have I wasted my time?
+No.
+That failure to find a single answer is actually the insight.
+The value isn't predicting the single outcome.
+The value isn't running the simulation 100,000 times
+in your head.
+Explain that.
+What does that mean?
+Run it 100,000 times.
+It means you're not just trying to guess the winner.
+You're trying to understand the probability space.
+In the Woody Allen scenario, you run it 100,000 times.
+Woody wins maybe once.
+If LeBron slips on a wet spot and knocks himself unconscious.
+A freak accident.
+A freak accident, sure bet.
+But in the Durant scenario, maybe LeBron wins 52,000 times.
+And Durant wins 48,000 times.
+Or maybe it's 55, 45.
+Who knows?
+OK, I see.
+So it helps us understand the probability.
+It's close.
+It helps us understand the spectrum of possibilities.
+It helps us see that the outcome isn't guaranteed.
+It tells us that let go play a huge role.
+It tells us that if we are betting on this,
+we shouldn't bet the farm.
+It reveals the volatility of the situation.
+That is a key takeaway.
+It's not about predicting the future with crystal ball certainty.
+It's about understanding the range of what could happen.
+Precisely.
+It moves you from thinking in binaries.
+He will win, or he will lose, to thinking in distributions.
+And that is a massive upgrade in thinking.
+Now let's take this from the basketball court
+to the absolute edge of physics.
+Because the master of the thought experiment
+was undoubtedly Albert Einstein.
+He really was.
+He used them to break physics.
+He used them to destroy the old maps of the universe
+and draw new ones.
+He used them to solve problems that were physically
+impossible to test.
+I mean, back in the early 1900s, you
+couldn't hop on a spaceship and fly in
+you're a black hole to test gravity.
+No, you couldn't travel at the speed of light.
+You couldn't even build the equipment
+to measure some of this stuff.
+He barely had a lab.
+He was working in a patent office in burn.
+But he had the most powerful lab in the world inside his skull.
+And the most famous experiment he ran involves an elevator.
+The elevator thought experiment.
+This is how we arrived at the general theory of relativity.
+I want to walk through this slowly, because it is mind-bending.
+Let's do it.
+It's one of the most beautiful pieces of reasoning ever.
+OK, imagine you are in an elevator.
+But this isn't a glass elevator in a hotel.
+It's a box.
+No windows.
+You cannot see outside.
+It is completely sealed.
+Total sensory deprivation.
+And for the sake of the experiment,
+imagine your feet are glued to the floor.
+OK, I am stuck in a box.
+I have no reference point for the outside world.
+No, imagine you have a set of keys in your hand.
+You drop them.
+They fall to the floor.
+Clang.
+You feel a force pushing your body down into the floor.
+You feel weight.
+Right.
+Standard experience, I feel this every day.
+Now Einstein asked a simple question.
+Based only on that experience inside the box,
+the keys falling, the pressure on your feet,
+can you tell me where you are?
+Well, my first assumption is I am on Earth
+or some planet with gravity.
+That's what gravity feels like.
+But here is the trick.
+Here's the core of the experiment.
+Einstein proposed two scenarios.
+Scenario one.
+You are sitting still on Earth, and gravity
+is pulling you and the keys down.
+OK, it makes sense.
+Scenario two.
+You are out in deep space, far from any planet, zero gravity.
+But there is a giant hook on the roof of the elevator,
+and a cable is pulling you upwards
+at an accelerating rate, specifically 9.8 meters
+per second squared.
+Which is the same rate as Earth's gravity.
+The exact same rate.
+So in one scenario, gravity pulls me down.
+In the other, the elevator rushes up to meet my feet.
+Exactly.
+Can you tell the difference?
+If the acceleration is perfectly smooth,
+and I can't see outside, no, I don't think I could.
+The keys would appear to fall because the floor is accelerating
+up to hit them.
+My stomach would feel heavy because the floor is pushing into me.
+The feeling would be identical.
+Einstein's conclusion was you cannot tell the difference.
+The experience is identical.
+The physics inside the box are the same.
+And because the experience is indistinguishable,
+Einstein made the massive intuitive leap
+that the forces must be equivalent.
+Gravity and acceleration are actually the same force.
+He called it the principle of equivalence.
+That is mind-blowing.
+He unlocked a fundamental truth about the universe.
+That gravity isn't just some magical magnetism.
+It's indistinguishable from acceleration
+without ever leaving his desk.
+He trusted the logic of the simulation.
+He removed the noise of the real world,
+the air resistance, the windows, the scenery,
+and focused on the pure forces.
+That is the power of a lab of the mind.
+He isolated the variable.
+And while we aren't all trying to rewrite the laws of physics,
+we actually use this kind of thinking in everyday life, don't we?
+We have idioms that are basically
+Einsteinian thought experiments.
+We do.
+Think about the phrase, if money were no object.
+Oh, right.
+If money were no object, what would you do with your life?
+We ask this at dinner parties.
+We ask this in career counseling.
+That is a thought experiment.
+Because in reality, money is always an object.
+You cannot physically remove that variable in the real world.
+You have bills.
+You have rent.
+It's a huge constraint.
+It's a massive constraint.
+But in your head, you can.
+You can zero out that variable to see what remains.
+And what remains is usually your true values,
+your intrinsic motivation.
+Exactly.
+When you remove the constraint of money,
+you find out what you actually care about.
+Do you want to paint?
+Do you want to travel?
+Do you want to help people?
+Do you want to just sleep?
+The thought experiment clarifies your values
+by removing the noise of practical constraints.
+It isolates the variable of desire
+from the variable of necessity.
+Or take the phrase, if you had all the time in the world.
+Same thing.
+What project would you finish?
+What book would you write?
+It helps you prioritize.
+It signals where you should focus your energy,
+even if you can't actually live in that unconstrained world.
+It tells you what direction to walk in.
+It acts as a compass.
+It does.
+It gives you a true more.
+So thought experiments can help us understand physics,
+and they can help us understand ourselves.
+But they can also help us understand the past.
+And this is where we get into the what if game.
+Reimagining history.
+The technical term is counterfactuals.
+Counterfactuals.
+Facts that run counter to what actually happened.
+I feel like this is half the content on the history channel.
+Probably is.
+What if the South won the Civil War?
+What if the dinosaurs never went extinct?
+Right.
+If X hadn't happened, would Y have occurred?
+This is a favorite pastime for historians.
+And honestly, anyone who watches movies or thinks
+about their own regrets.
+The classic example, and the book goes deep on this,
+is World War I.
+The assassination of Archduke Franz Ferdinand.
+The spark that burned down the world.
+June 28, 1914.
+Sarajevo.
+Gavrilo Princip shoots the Archduke.
+And the dominoes fall.
+Austria declares war on Serbia.
+Russia mobilizes.
+Germany invades France.
+Boom, the whole world is on fire.
+Millions die.
+It's a clear chain of events.
+A very clear chain.
+So the question historians ask is,
+was that bull at the cause?
+Or was the war inevitable?
+It was just a matter of time.
+So we run the thought experiment.
+We replay the tape.
+Imagine Gavrilo Princip wakes up that morning
+with a terrible stomachache.
+He eats a bad sandwich.
+A bad, full awful.
+He stays in bed.
+He doesn't go to the parade route.
+The Archduke's car drives by safely.
+No shots fired.
+The Archduke goes home, has a nice dinner.
+Does World War I still happen?
+It is a fascinating question.
+And to answer it, you have to do the research.
+Just like we said, you have to look at the context.
+You can't just guess.
+You can't just guess.
+You have to test the hypothesis.
+At that time, tensions in Europe were incredibly high.
+Alliances were already formed.
+The triple entend, the central powers.
+Military plans were drawn up and sitting on desks.
+Nationalism was surging.
+It was a powder keg.
+Exactly.
+The whole continent was a powder keg waiting for a match.
+So if it wasn't the assassination,
+maybe it would have been a border dispute two months later.
+Or a naval incident six months later.
+That is the likely conclusion of the thought experiment.
+The assassination was the spark.
+But the pile of dry wood was already stacked to the sky.
+By removing the spark in our mind,
+we see the wood more clearly.
+Yes, you understand the weight of the political climate
+versus the weight of the single action.
+It shifts our understanding of causality.
+It tells us that the system was the cause,
+not just the man with the gun.
+But this gets tricky, doesn't it,
+because of the chaos problem?
+The butterfly effect, yes.
+This is the big caveat with historical counterfactuals.
+Well, you've all seen him back to the future.
+Marty McFly goes back, bumps into a tree or something,
+and suddenly he comes back to the future
+and his dad is cool and biff his wax in the car.
+Right, or in the sequel, biff is running the country.
+Small changes can have massive, unpredictable effects.
+History, like weather, is a chaotic system.
+A butterfly flaps his wings in Brazil
+and causes a tornado in Texas.
+So if Prince Obse doesn't shoot the archduke,
+maybe the tension simmers down.
+Maybe a diplomat signs a treaty the next week.
+Maybe the Kaiser dies of a heart attack.
+We don't know.
+We can't know for sure.
+That is the paradox.
+And that is why the book has this beautiful hunting line.
+History is a deck of cards dealt only once.
+That is such a powerful image.
+We only see the hand that was played.
+We don't see the millions of other hands
+that could have been played if the dealer had shuffled
+slightly differently.
+So the thought experiment lets us peak at the rest of the deck.
+It helps us realize that what happened
+wasn't the only thing that could have happened.
+It wasn't destiny.
+It wasn't destiny.
+It helps us separate process from outcome.
+Just because something happened,
+it doesn't mean it had to happen.
+And that's crucial for avoiding hindsight bias.
+I love that.
+It makes history feel less like destiny
+and more like probability.
+It keeps us humble.
+It absolutely should.
+Okay, so we have physics.
+We have history.
+Now let's get into the messy stuff.
+Ethics, morality.
+How do we make the right decisions
+when people's lives are at stake?
+This is where thought experiments are not just useful.
+They are essential.
+Because again, you cannot run real world experiments
+on ethics without becoming a monster.
+Let's kill five people and see how everyone feels about it.
+Yeah, no, we can't do that.
+You can't do that.
+So we use the trolley problem.
+The classic, I feel like everyone has heard this,
+but let's set the stage just in case
+because the nuance is really in the variations.
+Right.
+The basic setup from Philippa Foot.
+A trolley is barreling down a track out of control.
+The brakes have failed.
+Ahead, there are five people tied to the track.
+They are gonna die.
+That's a terrible situation.
+You're standing next to a lever.
+If you pull the lever, the trolley switches to a side track.
+But on that side track, there is one person tied down.
+So the choices do nothing and five people die.
+Or act, pull the lever and kill one person to save five.
+What do you do?
+Well, this is a test of utilitarianism,
+the greatest good for the greatest number.
+And most people, when you ask them this
+in a thought experiment, say pull the lever.
+They do.
+It feels tragic, but necessary.
+Five lives are mathematically worth more than one.
+It seems like simple math, five one.
+But then, there's the variation.
+And this is where it gets uncomfortable.
+This is where Judas Jarvis Thompson comes in.
+The fat man on the bridge variation.
+Let's do that one.
+Same runaway trolley, same five people on the track.
+This time, you're on a foot bridge over the track.
+There's no lever.
+But next to you is a very large man.
+Okay.
+You realize that if you push him off the bridge,
+his body is large enough to stop the trolley.
+He will die, but the five people will be saved.
+The math is identical.
+Push one to save five.
+The math is identical.
+But now, almost everyone says, no, I can't do that.
+Why?
+Why is that different from pulling the lever?
+This is why the thought experiment is so revealing.
+It exposes that our morality is not just math.
+It reveals deep-seated instincts about agency,
+about using a person as a means to an end.
+We feel that pulling a lever to redirect a threat
+is fundamentally different from actively putting your hands
+on someone and killing them.
+It feels like murder.
+The other one feels like tragic collateral damage.
+Exactly.
+Or the doctor variation.
+Let's do that one too.
+Imagine you are a brilliant surgeon.
+You have five patients dying of organ failure.
+One needs a heart, one needs a lung,
+one needs a liver, et cetera.
+If they don't get organs today, they die.
+Okay.
+A desperate situation.
+A healthy young guy walks into your clinic
+for a routine checkup.
+You run some tests and realize,
+he's a perfect match for all five patients.
+Oh boy, I see where this is going.
+The thought experiment is,
+do you kill the one healthy guy, harvest his organs
+and save the five dying patients?
+And almost everyone recoils at this.
+They scream, no, that's murder.
+That violates the Hippocratic oath.
+Of course, but the math is the same.
+Kill one to save five.
+In the first trolley problem,
+you pulled the lever to kill one and save five.
+Why is this different?
+It shows us our ethical boundaries are not purely logical.
+It reveals the boundary between letting die and killing.
+It's about our role in the causal chain.
+Precisely.
+The thought experiment allows us to map the boundaries
+of our ethics without hurting anyone.
+It shows us where our lines are drawn
+and that those lines are sometimes emotional
+and intuitive, not just rational.
+There's another ethical thought experiment in the book
+that I think is even more practical for our listeners,
+especially those in leadership or management.
+It's from the philosopher John Rawls,
+the veil of ignorance.
+This is one of the most powerful ideas
+in political philosophy.
+It is a tool for designing fairness.
+It's genius.
+So the setup is you are designing a new society.
+You get to write the laws, the economy,
+the social structure, the tax code, everything.
+You're a family father or mother.
+You have total control.
+But there is a catch.
+The catch is you do not know
+who you are going to be in this society.
+You are behind a veil of ignorance.
+You could be born into the richest family
+or the poorest.
+You could be a genius or you could have a learning disability.
+You could be male, female, healthy, sick.
+You could be incredibly talented
+or you could have no marketable skills.
+You don't know where you will land.
+So knowing that, how do you design the rules?
+Well, if I don't know if I'm gonna be the poorest person,
+I'm gonna make sure the poorest person
+is treated pretty well.
+I'm not gonna design a system
+where the poor starve to death because that might be me.
+Exactly.
+Self-interest drives you to fairness.
+If there is a 10% chance you end up destitute,
+you are going to design a safety net.
+You're going to ensure equal opportunity.
+You're going to make sure the justice system
+isn't rigged against the weak.
+It forces you to empathize
+not because you are a nice person,
+but because you are selfish.
+It aligns selfishness with the calm and good.
+It creates a minimax strategy.
+You wanna maximize the minimum position.
+You want the worst case scenario to still be livable
+because you might be living it.
+And you can apply this to your office.
+This isn't just for creating nations.
+This is for today.
+Right.
+If you were rewriting your team's HR policies,
+vacation time, remote work, hiring practices,
+but you didn't know if you were gonna be the boss
+or the intern.
+You would design different rules.
+You wouldn't make rules that exploit the interns
+if you might be the intern.
+You wouldn't mandate 80-hour work weeks
+if you might be the single parent who needs to pick up kids.
+You wouldn't create a bonus structure
+that only benefits the top salespeople
+if you might be in customer support.
+That is a killer tool for management.
+Just pause and ask if I didn't know my job title,
+would I agree to this policy?
+It creates instant objectivity.
+It strips away the bias of your current privilege.
+It's a fairness machine.
+Okay, moving to our final big bucket, overcoming chance.
+We touched on this with the deck of cards in history,
+but I wanna talk about the distinction
+between process and outcome because in business,
+we are obsessed with outcomes.
+We are results-oriented creatures.
+If it worked, it was right.
+If it failed, it was wrong.
+But thought experiments show us that this is a fallacy,
+a dangerous one.
+Let's use the Google stock example from the book.
+I think it's a great illustration.
+Okay, so imagine a scenario.
+You decide to buy $100,000 of a volatile tech stock.
+Let's say Google in the early days.
+But you don't just buy it with your savings.
+You buy it on margin.
+You borrow money to buy it.
+Which is incredibly risky.
+If the stock goes down even a little,
+the broker calls the loan and you have to sell.
+You lose everything.
+It's a high leverage, high risk bet.
+But in this scenario, the one we are actually living in,
+it works.
+Google stock doubles.
+You pay back the loan.
+You pocket a massive profit.
+You look like a genius.
+You buy a boat.
+The outcome was good.
+The outcome was fantastic.
+So was the decision good?
+That is the trap.
+Most people would say yes.
+The results speak for themselves.
+But let's run the thought experiment.
+Re-run that decision 100 times in parallel universes.
+Okay.
+Let's bring the reset button on the universe 100 times.
+What happens?
+In how many of those universes does the market dip just slightly on a Tuesday?
+In how many does a competitor announce a product that scares investors?
+In how many does a recession hit?
+In a volatile stock, probably a lot of them.
+If you are on margin, a dip wipes you out.
+So maybe in 90 out of 100 universes, you go broke.
+You lose your house.
+You're ruined.
+But in this one universe, the one you happen to live in, you got lucky.
+So I essentially played Russian roulette and the gun didn't go off.
+Exactly.
+You put a gun to your financial head, pulled the trigger, and heard a click.
+That doesn't mean playing Russian roulette is a smart process.
+It just means you got lucky.
+That is a hard pill to swallow because we judge people by their results.
+If a CEO takes a huge risk and it pays off, they're on the cover of Forbes.
+We call them visionaries.
+We do.
+If it fails, they are fired, we call them reckless.
+But the process was the same in both cases.
+Which is why thought experiments are the antidote to outcome bias.
+They allow us to separate the quality of the decision from the quality of the result.
+You can make a terrible decision and get a good result.
+That's dumb luck.
+You can make a great decision and get a bad result.
+That's bad luck.
+To improve your thinking, you have to focus on the process.
+You have to look at the other 99 universes.
+And this ties into the concept of anti-fragility and asymmetry.
+We want to find situations where the odds are in our favor across all the universes.
+Yes, you want to look for situations with positive asymmetry.
+This is a concept from Nussim Talib.
+The book mentions the cocktail party example.
+Right.
+Contrast the cocktail party with estimating traffic.
+Okay.
+I'm going to a cocktail party.
+I don't really want to go.
+I'm tired.
+What is the downside?
+Run the simulation.
+Worst case scenario.
+It's boring.
+The wine is cheap.
+I get cornered by a guy talking about his crypto portfolio.
+I waste two hours of my life.
+Okay.
+Low downside, annoying, but not fatal.
+Now what is the upside?
+Best case scenario.
+I meet the love of my life.
+I meet a business partner who changes my career.
+I get a great idea that leads to a new project.
+I make a lifelong friend.
+The upside is potentially infinite.
+The downside is capped.
+That is positive asymmetry.
+You have upside optionality.
+You want to collect as many of those tickets as possible.
+Now contrast that with trying to make a flight.
+You try to leave for the airport at the last possible minute to minimize wait time at
+the gate.
+Downside.
+You hit traffic.
+You missed the flight.
+You missed the big meeting.
+You lose the client.
+You lose your job.
+Massive downside.
+Potentially catastrophic.
+And the upside.
+What's the best that can happen?
+I spend 15 less minutes sitting at the gate, scrolling on my phone.
+Tiny upside.
+Huge downside.
+That is negative asymmetry.
+And yet people do this all the time.
+Thought experiments help you spot these traps.
+You just run the simulation.
+What is the worst that can happen?
+What is best that can happen?
+And if the worst is ruined and the best is a free bagel, don't do it.
+It seems so obvious when you say it, but we sleep walk into these negative asymmetries
+because we are optimistic.
+We assume the best case.
+We look at the most likely outcome.
+I make the flight.
+Rather than the distribution outcomes, the small but fatal chance of missing it.
+The thought experiment forces you to look at the tails of the curve, the low probability
+high impact events.
+So we have covered a huge amount of ground here.
+We have gone from fish detecting water to giant wrestlers losing their power to elevators
+in space to trolleys on tracks to Russian roulette.
+It's a journey through the mind, a real tour of this one mental model.
+If we have to synthesize this, if we have to wrap this up into a takeaway for the listener,
+what is the so what here?
+Why should someone start doing thought experiments tomorrow?
+I think it moves you from fragile knowledge to robust knowledge.
+Thought learning, just memorizing facts is fragile.
+If the situation changes slightly, you are lost.
+You only know the map, not the territory.
+You know the answers to the test, but you don't know the subject.
+Exactly.
+But deep understanding, knowing the principles, knowing the why, the eds robust, it's antifragil,
+it gets stronger with new information.
+It's the difference between knowing the answer to a specific math problem and knowing how
+to do the math.
+That's a perfect way to put it.
+When thought experiments are how you practice doing the math, they allow you to anticipate
+second order consequences.
+They let you see the effects of the effects.
+The ripple effects.
+The ripple effects.
+They let you fail safely in your head so you don't have to fail in real life.
+They are the simulator for being a better decision maker.
+And like any simulator, the more you use it, the better you get.
+You start to see the water, you build the intuition.
+Yes.
+You build that lattice work.
+You start to connect ideas from different fields.
+You start to see the world in 3D.
+So here is our challenge to you, the listener.
+We want to leave you with a final provocation, something to mull over this week.
+We are going back to the veil of ignorance.
+I want you to look at your current team at work, or your family structure, or your community
+rules.
+Pick one.
+And I want you to imagine you had to redesign it from scratch.
+But you don't know what role you will play.
+You don't know if you will be the manager or the lowest paid employee.
+You don't know if you will be the parent or the rebellious teenager.
+You don't know if you will be the landlord or the tenant.
+If you had to redesign the rules without knowing who you would be, what is the first rule you
+would change?
+That answer.
+That is where your blind spots are hiding.
+That is where the system is unfair.
+And you just haven't noticed because you are currently winning.
+I love that.
+Think about it.
+Because, as the book says, the quality of your thinking depends on the models in your
+head.
+Go upgrade your models.
+Thanks for diving deep with us.
+We'll see you next time.
+Bye.

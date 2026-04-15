@@ -1,0 +1,1089 @@
+I want you to picture a scenario.
+It's, I don't know, a Tuesday.
+You're at home just staring at your phone.
+Okay.
+And you're waiting for your partner,
+or maybe a friend, to come over for dinner.
+They said seven o'clock, it is now 7.25.
+You call.
+Straight to voicemail.
+Straight to voicemail.
+I know you know where this is going.
+Oh, I know exactly where this is going.
+My brain is already there.
+Right, because logically, rationally,
+you know there's traffic, you know,
+phone batteries die, you know, people just, you know,
+run late.
+That's the boring logical part of your brain.
+But where does your actual brain go?
+Does it go to traffic?
+No.
+No, it goes to car crash instantly.
+It goes to, they are in a ditch.
+Or if you're maybe a little insecure like me,
+it goes straight to, they've decided they hate me,
+they're ghosting me, they have left the country,
+and I'm going to die alone.
+The escalation is just, it's immediate.
+It's zero to 100 in, what, a split second?
+Instant.
+And it's not just about relationships.
+You wake up with a headache.
+Do you think, hmm, I should probably drink some water?
+No.
+You think brain tumor.
+You go on WebMD and suddenly you're absolutely convinced
+you have some rare tropical fungus
+that has only been seen like twice since 1904.
+It's never just dehydration.
+It's always the catastrophe, always.
+Why do we do that?
+Why is the human brain seemingly, I don't know,
+hardwired to jump over the simple boring answer
+and land directly on the most catastrophic,
+complex, movie script explanation possible?
+Well, because we are narrative machines.
+I mean, fundamentally, we are just addicted to the story.
+And he hit traffic isn't a very good story.
+He's been kidnapped by a cartel, now that is a story.
+I need water, is not a story.
+I am the tragic victim of a rare disease.
+That's a story you can get behind.
+Right, it makes you the main character.
+Exactly, the problem is that addiction to the big story,
+it's blinding us, it's just noise,
+clutter's our thinking and it totally ruins our decision-making.
+It's exhausting is what it is.
+And that's actually why today we are going to talk about
+how to cut through all of that noise.
+We are diving deep into a massive stack of books
+that I have been absolutely devouring lately.
+It's the Great Mental Models series from Farnham Street.
+Fantastic series.
+We're talking volumes one through four here.
+So these are some heavy hitters.
+We're covering general thinking concepts,
+physics, biology, systems.
+I mean, it's a lot.
+It is a lot and the mission today isn't to summarize them
+because we'd be here for a week.
+The mission is to look at one specific tool,
+mental razor, if you will, that is designed to just slice
+through that complexity and that drama
+we were just talking about.
+But before we get to the razor itself,
+we have to understand the toolkit.
+We need to define what we're actually doing here.
+Right, we need to set the stage first.
+So mental models, it's become a bit of a buzzword, hasn't it?
+You hear it on tech podcasts and business meetings,
+oh, what's your mental model for that?
+Let's actually unpack it for real.
+What exactly is a mental model?
+A mental model is, well, it's simply a representation
+of how something works.
+That's it.
+It isn't the thing itself.
+It's a map of the thing.
+Okay, a map.
+It's a concept or a framework.
+You carry around in your head to help you understand the world
+and predict outcomes.
+Think about it this way.
+The world is infinitely complex.
+Way too complex to process.
+Raw, you couldn't do it.
+It's impossible.
+You can't possibly remember every single detail
+of every single interaction or re-derive every physical law
+every time you wake up in the morning.
+Right.
+I mean, if you had a consciously process
+how gravity works, every time you wanted to get it at bed,
+you'd never get up.
+Yeah.
+You'd be completely paralyzed by data.
+You'd be overwhelmed.
+Exactly.
+So to function, our brains chunk patterns.
+We create these little models.
+We have a mental model for gravity.
+But drop this pen, it goes down.
+I don't need to look at Newton's equations.
+I just use the model.
+We have a model for supply and demand.
+We have a model for trust.
+We use these models to navigate the world efficiently.
+But here's the catch.
+And this is really the core argument of the source material.
+Most of us only have a few models.
+And they usually come from our specific job
+or our college degree.
+So it's the law of the instrument?
+Yes.
+Exactly.
+The old saying to the man with a hammer,
+every problem looks like a nail.
+Right.
+If you're an economist, everything you see is about incentives.
+If you're a psychologist, you see everything
+as, I don't know, childhood trauma.
+Precisely.
+If you're a biologist, you're seeing
+everything is evolution or survival of the fittest.
+Ah.
+But reality.
+Reality doesn't care about your college major.
+No, it doesn't.
+Reality is multidisciplinary.
+A business problem might be 20% psychology,
+30% economics, 50% systems theory.
+If you only have the economics hammer,
+you're just going to mash your thumb.
+So the concept here, which the sources
+attribute largely to Charlie Munger
+is this idea of a lattice work.
+Lattice work of mental models.
+I really love that visual.
+It's not just a pile of tools honed in a bag.
+It's an actual structure.
+Yes.
+You need models from physics, from biology,
+from history, from psychology.
+And you need them all connected together.
+The analogy they use in the text,
+and it's a classic for a reason,
+is the parable of the blind men and the elephant.
+Oh, I know this one.
+But walk us do it for anyone who hasn't heard it.
+Sure.
+So you have a group of blind men,
+and they come across an elephant.
+They've never encountered one before.
+One of the blind men touches the elephant's leg.
+It's sturdy.
+It's round.
+It's rough.
+So he says, an elephant is like a tree.
+Which makes sense from his data points.
+Totally.
+Another one touches the trunk.
+It's squishy.
+It's long.
+It's flexible.
+And he says, no, you idiot.
+An elephant is like a snake.
+Right.
+A third one touches the side and says, it's a wall.
+Another touches the tail and says, it's a rope.
+They're all right, technically speaking.
+They are all partially right based
+on their specific limited model.
+But they are all totally completely wrong
+because they don't have the whole picture.
+They're missing the lattice work.
+They lack the lattice work.
+They're seeing the world through a straw.
+So our goal today is to start building that lattice
+so we don't end up thinking the elephant is just a wall.
+And we are going to start with the most famous cutting tool
+in the entire box.
+Occam's razor.
+Occam's razor.
+It sounds like something from a suspense movie, you know,
+or a weapon in a video game.
+It does have a cool name.
+It really does.
+But it's actually a tool for logic.
+So let's get into the core of this.
+The classic definition is essentially
+simpler explanations are more likely to be true
+than complicated ones.
+Correct.
+It's named after William of Occam,
+who was a medieval logician from the 14th century.
+Now, he didn't exactly invent the idea.
+It actually goes all the way back to Aristotle and antiquity.
+But he's the one who got the branding rights, so to speak.
+He got the name on the box.
+Exactly.
+His actual maxim was a plurality is not
+to be posited without necessity.
+A plurality is not to be posited without necessity,
+which is a very fancy, you know, medieval way of saying,
+don't add moving parts if you don't absolutely have to.
+Exactly that.
+If you have two competing explanations
+for why something happened, and one of them
+requires, say, three unlikely coincidences
+to line up perfectly, and the other one just requires
+one standard, everyday event, you should probably
+bet on the simple one.
+OK, but why?
+I think that's what I struggled with at first
+when I was reading this.
+Is it just like an aesthetic thing?
+Do we just like simplicity because it feels elegant?
+Or is there a hard logical reason why simple is actually better?
+It's mathematical.
+And this is where the deep dive gets really interesting.
+It's not about minimalism for the sake of minimalism.
+It's all about probability.
+The source material breaks this down,
+but I want to expand on it with an example
+because this is really the aha moment for a lot of people.
+OK, lay it on me.
+So to really understand why we have to look at the math,
+and don't worry, we're not doing calculus here.
+It's just basic probability.
+Thank goodness.
+Let's use a thought experiment.
+Let's say I lost my car keys.
+OK, a classic scenario happens to the best of us.
+It does.
+So we have two competing theories.
+Scenario A, I left them in the kitchen
+when I came in with the groceries.
+I was distracted.
+I put them down.
+And now they're hiding behind the cereal box.
+Boring, but plausible.
+That's Scenario A.
+Scenario B. A highly trained ninja broke into the house.
+He needed to distract my dog so he grabbed my keys
+to jingle them.
+He then managed to unlock the back door, slipped out,
+but then realized he still had the keys.
+So he snuck back in and dropped them in the kitchen
+before vanishing into the night.
+OK, I'm definitely voting for Scenario A,
+but I see where you're going with this.
+Obviously, Scenario A just feels right.
+But mathematically, why is that?
+We have to look at the variables, the assumptions.
+Scenario A has maybe one or two variables.
+I am forgetful, and I came into the kitchen.
+That's pretty much it.
+Both are very high probability events.
+Extremely high.
+Now Scenario B, variable one.
+A ninja exists in my specific suburb.
+Variable two, he picked my house specifically.
+Variable three, he cares about not hurting my dog.
+Variable four, he made a mistake and accidentally
+took the keys.
+Variable five.
+He decided for some reason to risk coming back to return them.
+It's a chain.
+It's just this long, long chain of ifs.
+It is a chain.
+And here is the killer rule of probability
+that makes this all make sense.
+Joint probability is the product of individual probability.
+If it translates off for me.
+It means you have to multiply the odds together.
+So let's be incredibly generous to the ninja theory.
+Let's say there is a 99% chance that each part of that story
+is true.
+So that's 0.99 times 0.99 times 0.99.
+The number just keeps getting smaller.
+It gets smaller, fast.
+It's like a water pipe with a bunch of joints in it.
+Every single time you add a new assumption, a new variable,
+you create a place for the water to leak out.
+I like that.
+Scenario A has one joint, mental leakage.
+Scenario B has 30 joints.
+By the time you get to the end of that pipe,
+there is no water left.
+The probability is effectively 0.
+So complexity is like a leak in the system.
+Yes.
+Every added assumption leaks probability.
+That is why Occam's razor isn't just a style choice
+or a preference.
+It's a statistical safety rail.
+The simple story is just safer because it has fewer places
+to leak.
+Wow.
+The explanation with 30 moving parts
+has an exponentially higher chance of being wrong,
+simply because there are just more places for it to be wrong.
+That makes so much sense.
+And it creates a really strong visual.
+You want the pipe with the fewest seams possible.
+Exactly.
+And this logic, it applies to some really heavy philosophical
+stuff too, right?
+The source talks about the philosopher David Hume.
+Yes, Hume is a heavy hitter here.
+He applied this exact logic to the idea of miracles.
+Which is a bold move.
+A very bold move, especially at the time, he argued.
+What is a miracle?
+By definition, a miracle is a suspension
+of the laws of nature, a dead man coming back to life,
+a statue weeping blood.
+For that to be true, the fundamental physics
+of the entire universe have to just stop working for a moment.
+That's a massive assumption.
+I mean, that is a huge variable to add to your equation.
+The biggest variable you could possibly add.
+Now, what is the alternative explanation?
+The alternative is that the person telling you
+about the miracle is mistaken, or they're lying.
+Or maybe they're being tricked.
+And we know people lie.
+We know people get tricked.
+I mean, that happens every single day.
+Exactly.
+We have thousands, millions of data points for people lie.
+We have zero verifiable data points for physics stopped working.
+Right.
+So Hume argued that it is always, always more probable
+that a person is lying or mistaken than that the laws of nature
+were suspended.
+The simple explanation, human error wins every time.
+That is some ruthless logic, but it holds up.
+OK, let's bring this down to Earth a bit, though.
+Or maybe I should say down to the doctor's office.
+Because we touched on this in the intro of the whole headache
+versus brain tumor thing.
+The medical field relies on this principle heavily, doesn't it?
+They live by it.
+There is a famous aphorism they teach in medical school.
+When you hear hoofbeats, think horses, not zebras.
+Unless you're in the Serengeti, I guess.
+Well, yes.
+And we will absolutely get to context later.
+That's a very, very important caveat.
+But for a doctor in New York or London,
+if a patient walks in with a cough, a fever, and body aches,
+could be a rare tropical parasite.
+Could it be the bubonic plague?
+I mean, theoretically, it's possible.
+It is possible.
+But it is overwhelmingly, statistically,
+more likely to be influenza or COVID, or just a bad cold.
+And this really matters, because testing for the zebra
+is expensive.
+And it's scary.
+It's incredibly expensive.
+It wastes precious time.
+And it causes so much panic.
+If a doctor tested every single headache for brain cancer
+first, the health care system would completely collapse.
+Resources are finite.
+And patients would be in a constant state of terror.
+Occam's razor in medicine is a tool for resource allocation
+and for sanity.
+It reduces that hypochondria we talked about.
+It keeps the doctor from chasing ghosts.
+But there is a twist here, isn't there?
+Yeah.
+This is where I got a little tripped up in the reading.
+Because sometimes this simple explanation
+seems really complicated to a lay person like me.
+The source material brings up dark matter.
+This blew my mind a little bit.
+This is a fantastic example.
+It really challenges your definition
+of what simple even means.
+It shows how simplicity is always
+relative to the system you're studying.
+So set the scene for us.
+Where does the story start?
+OK, we have to go to space.
+We have to talk about an astronomer named Vera Rubin.
+This brings us to the 1970s.
+OK.
+Vera Rubin is studying spiral galaxies.
+Now, basic physics, you know, Kepler, Newton,
+tells us that the stuff in the middle of a spinning object
+moves fast and the stuff on the edges moves slower.
+Think of our solar system.
+Right.
+Mercury is zipping around the sun because it's so close.
+And Pluto is way out there just, you know,
+leisurely strolling along.
+Exactly.
+There's less gravity on the edge.
+So you need less speed to stay in orbit.
+So Rubin points her telescope at the edges
+of these distant galaxies, expecting
+to see the stars moving slowly.
+But she doesn't.
+What does she see?
+They're tearing around.
+They're moving just as fast as the stars
+in the very middle of the galaxy.
+Makes no sense at all.
+So what does that mean?
+It means that by all the known laws of physics,
+these galaxies should be flying apart.
+They should be able to hold on to those stars
+at that incredible speed.
+It'd be like spinning a merry-go-round at 100 miles
+an hour, and somehow nobody falls off.
+So she's staring at a physical impossibility.
+The math is just broken.
+The math is broken.
+So scientists at the time had two choices, option A.
+There is some invisible stuff out there
+that we can't see or touch, but it has mass,
+and there's a lot of it.
+And it's holding the galaxy together.
+We'll call it dark matter.
+OK.
+Or option B.
+Option B.
+Our fundamental understanding of gravity, Newton, Einstein,
+everything we know is wrong.
+Now, hold on.
+To me, invisible ghost matter sounds
+like the complicated explanation.
+It sounds like you're just making stuff up.
+That sounds like the ninja.
+It absolutely does on the surface.
+It sounds like a plurality posited without necessity.
+It sounds like a cheat code.
+Yeah.
+But you have to consider the alternative.
+Which is?
+To rewrite the laws of gravity.
+That would require upending physics that explains
+everything else in the universe perfectly.
+Like falling apples.
+Falling apples, planetary orbits, how GPS satellites work,
+the tides, all of that works perfectly on the current model.
+If you throw out gravity just to explain the galaxy rotation
+problem, you break everything else.
+That is a massive, massive complication.
+I see.
+OK.
+So inventing one new variable, this dark matter,
+is actually the simple solution compared to throwing out
+300 years of established physics.
+Exactly.
+In this specific scenario, dark matter is the horse.
+Rewriting Einstein is the zebra.
+Now, scientists are still testing it, of course.
+We haven't found a particle yet, which is a problem.
+But for now, Occam's razor points to the invisible stuff
+because it preserves the rest of the system.
+That is such a cool inversion of the idea.
+Simplicity isn't always what looks simplest on the surface.
+It's what disturbs the existing system the least.
+You got it.
+The question to ask is, which explanation
+requires me to destroy the least amount of existing proven
+knowledge?
+OK.
+So if this tool is so powerful, and if the math proves that
+simpler is usually better, why are we so bad at using it?
+Why did I assume my late friend was in a car crash?
+Why do conspiracy theories go viral?
+Why do we always choose the ninja?
+Now we're getting into the psychology of it.
+This connects directly to volume two of the series, which
+deals with biology and the brain.
+And we have to understand that our brains are fundamentally
+energy minimizers.
+We're lazy.
+Efficient is the polite term.
+But yes, fundamentally lazy.
+The brain consumes a massive amount of the body's energy,
+something like 20% of your daily calories,
+even those only 2% of your body weight.
+Wow.
+So evolution is designed us to conserve those calories.
+And to do that, we use heuristics, metal shortcuts.
+But wait, that seems like a contradiction.
+If we're lazy, shouldn't we love the simple explanation?
+Shouldn't we just love Occam's razor?
+The ninja theory has, what, 30 variables?
+That sounds like hard work to think about.
+You would think so.
+But here is the great paradox of the lazy brain.
+Sometimes a dramatic narrative is actually easier
+for the brain to process than a boring, uncertain reality.
+How is that easier?
+It's what Nossing Taleb calls the narrative fallacy,
+a story with a clear villain, a clear victim,
+and a dramatic plot.
+It connects all the dots for us.
+It's like a pre-packaged meal.
+It's a package deal, exactly.
+We don't have to do the math.
+We don't have to sit with the discomfort of, I don't know,
+the idea of random chaos is actually
+very hard for our brains to compute.
+A villain is easy to picture, so we latch onto the store
+because it feels complete.
+So an explanation like the government engineered the storm
+is actually a tighter, easier mental package
+than atmospheric pressure systems are incredibly complex
+and chaotic and sometimes bad things just happen.
+Precisely, chaos is a high cognitive load.
+A conspiracy, ironically, is a low cognitive load.
+There was a study mentioned in the book about firefighters
+that I thought was fascinating regarding this lazy brain
+or efficient brain concept.
+Yes, that's Gary Klein's work.
+He studied how experts make high states decisions
+under pressure.
+He looked at firefighters.
+Now, the old assumption, the sort of academic view,
+was that a fire commander looks at a burning building,
+comes up with option A, option B, option C,
+compares them all, weighs the pros and cons,
+and then picks the best one.
+Right, that's what they teach you in business school.
+You make the decision matrix.
+Exactly, but in reality, under that kind of pressure,
+that's not what happens at all.
+The firefighter looks at the fire,
+matches it to a pattern stored in his head,
+a mental model from past experience,
+and goes with the first option that seems like it worked.
+So he doesn't compare them.
+He doesn't compare, he satisfies.
+Satisfices, so that satisfy plus suffice.
+Exactly, it's a mechanism to lower the cognitive load.
+If he stood there calmly comparing 10 different options,
+the building would burn down.
+His brain just grabs the first good enough pattern
+it recognizes.
+Which is great for finding a fire critical even.
+It's great for survival.
+But when we apply that same mechanism
+to complex modern problems,
+it can lead us astray if we aren't careful.
+We grab the first dramatic pattern available,
+the conspiracy theory, the car crash,
+instead of doing the work to find the simple truth.
+We satisfy some of the drama
+because the drama feels right
+to our ancient pattern matching brains.
+And this neglect of simplicity,
+it can actually destroy entire systems.
+There is a concept in Volume Three
+called multiplying by zero.
+I love this mental model because it's just so brutal.
+It is the ultimate reality check.
+It's based on the idea that in any system,
+some components are additive, but some are multiplicative.
+Can you explain the difference?
+Sure, if you're building a house
+and the carpenter is great, but the painter is just bad.
+You still have a house, it's just an ugly house.
+That's an additive system.
+But in a multiplicative system,
+the components are all linked together in a chain.
+If any one of them is zero, the total output is zero.
+Give me a business example of that.
+Okay, imagine a company.
+You have a fantastic product, best in the world.
+They have a huge marketing budget.
+They have great funding from investors.
+But the CEO is a fraud
+who is secretly stealing all the money.
+The result is zero.
+The whole thing goes to zero.
+The company collapses.
+It doesn't matter how good the marketing was.
+10 times 10 times 10 times zero is zero.
+Okay, so how does this connect back to Occam's razor
+and our preference for simplicity?
+Because complexity hides the zeros.
+If you build a giant Rube Goldberg machine
+with a thousand moving parts,
+it is very, very hard to spot the one loose screw
+or the one bad actor that's gonna jam the whole thing up.
+So the simpler the system,
+the harder it is for a zero to hide from you.
+Exactly.
+If you keep your system simple, few removing parts,
+fewer dependencies, the weak links are obvious.
+You can see them.
+You can fix them before they multiply everything by zero.
+Simplicity isn't just about finding the truth.
+It's about safety and resilience.
+Okay, so we've covered physical systems.
+We've covered the math of simplicity
+and we've covered why our brains fight it.
+But let's talk about people.
+Because people are, well, they're messy.
+Extremely messy.
+We aren't galaxies or viruses.
+We have moods, we have egos, we have bad days.
+And that brings us to Occam's razor's social cousin,
+Hanlon's razor.
+Right.
+Never attribute to malice,
+that which is adequately explained by stupidity.
+It is such a liberating concept.
+I mean, think about road rage.
+You're driving and someone just cuts you off,
+right out of nowhere.
+What is your immediate gut reaction?
+That jerk, he saw me, he wanted to cut me off.
+He is disrespecting me.
+Right.
+You assign malice.
+You assign high intent.
+You assume this person woke up this morning,
+got in their car, plotted a course and decided,
+you know what, today I'm gonna ruin the host speaker's day.
+Right.
+That requires a lot of energy.
+It requires planning and intent.
+So what's the alternative explanation?
+Stupidity or more kindly just ignorance or distraction.
+They were distracted.
+They were looking at their GPS.
+They spilled coffee on their lap.
+They didn't check their blind spot.
+These are all low energy explanations.
+They require no planning, no intent,
+just a moment of incompetence.
+Okay, I wanna push back on this one a little bit.
+Please go for it.
+Never attribute to malice,
+that which is adequately explained by stupidity.
+I mean, that sounds great on a coffee mug.
+But isn't that a little naive?
+How so?
+Well, some people are malicious.
+Some people are jerks.
+If I'm in a toxic workplace
+and my boss is actively sabotaging me
+and I just sit there telling myself,
+oh, he's just forgetful.
+He's just stupid.
+Aren't I just making myself a victim?
+Isn't Hanlon's razor just a way to gaslight yourself
+into tolerating bad behavior?
+That is a totally fair and important critique.
+And you're right, if you use it blindly,
+it can be really dangerous.
+You don't wanna be a doormat.
+But here's the nuance that the source material highlights.
+It's not about denying that evil exists.
+It's about probabilities.
+So we're back to the math again.
+We're always back to the math.
+Most people are not waking up in the morning,
+plotting your destruction.
+They're waking up thinking about their coffee,
+their commute, their mortgage, their back pain.
+They are self-absorbed, not evil.
+So it's not that malice is impossible.
+It's just that it's high energy.
+It's rare.
+Right.
+Being evil takes effort, being distracted
+is the default human state.
+I see.
+So the probability is on the side of,
+they just weren't thinking about me at all.
+Exactly.
+And think about the outcome for you.
+If you assume malice, you get defensive.
+You get angry.
+You send a nasty email back.
+You create a feud.
+You multiply your day by zero.
+If you assume stupidity or error,
+you just forward the email and say,
+hey, I think you might have missed me on this.
+Problem solved.
+Hanlon's razor prevents us from sliding
+into paranoia and conflict.
+It strips away all the drama.
+And speaking of adding drama,
+there is a famous experiment that illustrates
+how badly we wanna add that drama.
+The Linda problem.
+This is a classic from quantum and in Tversky.
+Yes, the conjunction fallacy.
+Yeah, yeah.
+It perfectly demonstrates how we fail
+at the basic math of simplicity.
+So walk us through the experiment.
+Test me on it.
+Okay, I'm gonna describe a woman named Linda.
+Linda is 31 years old, single, outspoken, and very bright.
+She majored in philosophy.
+As a student, she was deeply concerned
+with issues of discrimination in social justice.
+And she also participated in anti-nuclear demonstrations.
+Okay, I have a picture of Linda in my head.
+I feel like I know Linda.
+Exactly.
+The vivid details invoke a stereotype, a pattern.
+Now here's the question.
+Which of these two scenarios is more probable?
+Option one, Linda is a bank teller.
+Option two, Linda is a bank teller
+and is active in the feminist movement.
+Okay, my gut instinct, my gut is screaming option two.
+Because of the description,
+she cares about social justice.
+She was an activist.
+It just feels right that she would be a feminist.
+A bank teller by itself sounds way too boring for her.
+And that is the trap and you're not alone.
+Roughly 85% of people in the original study
+chose option two.
+But logically, mathematically,
+it is impossible for option two
+to be more probable than option one.
+Because option two contains option one within it.
+Right, think of it as a Venn diagram.
+Imagine a big circle called all bank tellers in the world.
+Now imagine a smaller circle completely inside that one
+called feminist bank tellers.
+Linda has to be in the big circle
+to even have a chance of being in the small circle.
+Exactly.
+Every feminist bank teller is, by definition, a bank teller.
+But not every bank teller is a feminist.
+Being one thing is always, always more likely
+than being two things simultaneously.
+But the story was so good.
+We wanted her to be a feminist.
+The description was a representative heuristic.
+We matched her to a pattern
+and we just completely ignored the math.
+We ignored Occam's razor.
+We added a variable feminist
+because it made the narrative more satisfying.
+But every time you add a variable,
+every time you add a condition, the probability goes down.
+Occam's razor helps us strip away
+those vivid, seductive details
+and just look at the cold, hard base rate.
+So we've been praising simplicity for the last, what, 40 minutes?
+We've bashed the ninja theory.
+We've praised the simple medical diagnosis.
+But we have to be careful.
+Your profile says you are the voice of reason.
+So I'm expecting you to drop the butt right about.
+Now, what is simple?
+Just wrong.
+The butt is absolutely crucial.
+We cannot use Occam's razor as a blunt instrument.
+There's another mental model for that.
+The law of the instrument.
+If you run around slashing everything with a razor,
+you're eventually gonna cut some things
+that need to remain whole.
+The source material mentions something called
+irreducible complexity?
+Yes.
+Some things are complex.
+That's just a fact.
+And if you simplify them too much,
+you lose the essence of what they are.
+The source uses the example of fraud, like a Ponzi scheme.
+Think about Bernie Madoff.
+Right.
+The same is designed to look simple from the outside.
+Invest your money with me and you'll get 10% returns
+every single year.
+Steady, reliable.
+Exactly.
+That was Madoff's big pitch.
+It was simple.
+It was consistent.
+A real market is complex.
+It goes up, it goes down, it's volatile.
+Madoff offered a simple, straight line pointing out.
+So if you applied a really superficial simplicity filter,
+you might say, well, the simplest explanation
+is that this guy is just a genius investor.
+Right.
+He just knows what he's doing.
+Yeah.
+Simple.
+But the reality was an incredibly complex web
+of deception, of paying old investors with new investors
+money, cooking the books, creating fake statements.
+If you stick to that surface level,
+simple explanation, you get scammed.
+You have to look deeper.
+Sometimes the simple story is actually the lie.
+Another great example they used was computer code.
+There's a reference to Louis V. Gerstner from IBM.
+You can simplify code, sure.
+You can delete lines.
+But at a certain point, the software just stops working.
+That is the floor of its complexity.
+You need a certain amount of code to perform the function.
+If you come below that, you don't have a simpler program.
+You have a broken program.
+You can't simplify a car engine by removing the pistons
+and calling it more elegant.
+And then there are things that are complex
+because they are adaptive, like an ant colony
+or the stock market.
+This is Emergence, which is a key concept from Volume 3.
+If you look at a single ant, it's a pretty simple creature.
+It follows basic chemical trails.
+It picks up food, it drops food.
+It's not a genius, that's for sure.
+No.
+But if you put a million of those simple ants together,
+they build bridges, they farm fungus, they wage war,
+they regulate the temperature of the hive
+to within a degree, the colony has an intelligence
+that the single ant does not possess.
+The whole is greater than the sum of its parts.
+They're stoddle again.
+If you try to understand the behavior of the colony
+by just looking at the simple ant, you will completely fail.
+You can't use Occam's razor to say,
+well, the ant is dumb, so the colony must be dumb.
+That's a dangerous oversimplification.
+You have to respect the complexity of the system.
+There's also the issue of trade-offs,
+which Volume 4 talks about.
+We want to optimize for simplicity,
+but that optimization isn't free, is it?
+Nothing is free.
+Economics teaches that making a choice
+means giving up something.
+That's a great quote from Russ Roberts,
+the example of desire paths is perfect for this.
+Oh, I love desire paths.
+Explain what those are for anyone who hasn't heard the term.
+So imagine a new university campus.
+The architects designed the Central Park.
+They put in these nice, square, paved walkways.
+It's all geometric, it's simple, clean lines.
+It looks great on the blueprint.
+It looks perfect on the blueprint.
+But then the students show up,
+and the students, as we've established,
+are energy minimizers.
+They want to get from their dorm to the dining hall.
+They don't want to walk in a perfect square.
+They want to cut the corner.
+So they just walk across the grass.
+And over time, they kill the grass.
+They create a muddy trail, a desire path.
+The architects created a simple design on paper.
+But the humans created a path that
+reflected the reality of energy conservation.
+So the architects version of Simple,
+which was straight lines,
+clashed with the human version of Simple,
+which was save calories.
+Exactly.
+And the desire path always wins.
+If you over-optimize for your version of simplicity
+without understanding the actual users,
+the system will fight back
+and create its own messier simplicity.
+Okay, so we have these powerful razors,
+Occam and Hamlin.
+But we also have these serious warnings
+about oversimplifying.
+How do we actually use this stuff without cutting ourselves?
+We need a toolkit.
+How do I know when to use the razor
+and when to start looking for the invisible dark matter?
+We need to synthesize.
+And this brings us right back to the lattice work.
+And specifically to Peter Kaufman's
+three buckets of knowledge.
+This is one of the most practical
+and useful frameworks in the whole series.
+The three buckets.
+I found this super helpful.
+Can you break them down for us?
+Kaufman asks a simple question.
+What are the biggest, most relevant sample sizes we have
+for how the universe actually works?
+And he says, we have three buckets.
+Bucket number one, in organic systems, physics,
+geology, the universe is 13.7 billion years old.
+Okay.
+Bucket number two, organic systems, biology.
+We have 3.5 billion years of life on earth.
+And bucket number three, human history.
+We have roughly 20,000 years of recorded human behavior.
+So these are the undeniable bedrock facts of reality.
+These are the laws, the non-negotiables.
+So when you have a theory,
+let's say a simple explanation for a business problem,
+you should check it against these three buckets.
+Can you give me an example of how that works?
+Sure.
+Let's say you have a simple idea
+for a perpetual motion machine.
+I'll just connect this battery to this motor,
+which will recharge the battery.
+Simple.
+So I check bucket one, physics.
+The laws of thermodynamics say, no, absolutely not.
+Exactly.
+Toss it.
+Or let's say you have a business plan
+that relies on your employees working 18 hours a day,
+seven days a week, with no extra pay,
+purely at a passion for the mission.
+It's a simple model.
+Right.
+I check bucket two, biology.
+Organisms need rest, they need energy,
+they respond to incentives, biology says no.
+Or let's say you think this time,
+the stock market will go up forever.
+It's different this time.
+I check bucket three, human history.
+History says bubbles always, always burst,
+humans always panic.
+Exactly.
+It's a triple check system.
+It grounds your simple explanation in reality.
+If your explanation violates the laws in the three buckets,
+it's not simple, it's just wrong.
+And we also need to incorporate probabilistic thinking.
+We've touched on this with the math,
+but how does the listener apply it in their daily life?
+You have to get comfortable with something
+called Bayesian updating.
+Now that sounds fancy and academic,
+but it just means update your probability
+when you get new information.
+So we're back to the zebra.
+We're back to the zebra.
+If you are in London and you hear hoofbeats,
+you should think horse.
+The probability is what 99.9% horse?
+You are safe to assume it's a horse.
+Yeah.
+But if you turn around and see a flash of black and white
+stripes running past your window.
+You have to update your belief immediately.
+You don't stubbornly stick to,
+it must be a horse because Occam said so.
+The new data changes the probability.
+If you are in the Serengeti in the first place,
+the base rate is totally different.
+There, the hoofbeats are likely a zebra or a wheeled beast.
+Context is everything.
+Occam's razor is not a law like gravity.
+It's a heuristic.
+It's a setting on your mental dashboard
+that you have to adjust based on where you are driving.
+And finally, there's functional fixedness.
+This is from volume two.
+Don't just use the tool for its one intended purpose.
+Right.
+A fork is for eating.
+That's its primary function.
+But if you are locked in a room, a fork can be a latch pick.
+If you have tangled hair, it can be a comb.
+If you need to defend yourself, it can be a weapon.
+So how do we apply that kind of thinking to Occam's razor?
+Well, Occam's razor is a tool for logic.
+But you can use it for emotional regulation,
+like we talked about with Hanlon's razor.
+When you feel anxious about that late friend,
+use the razor to cut the dramatic story.
+You can use it for business strategy,
+simplifying your product line to expose the zeros.
+Don't just let the tool rust in the toolbox
+waiting for a logic problem.
+Use it creatively.
+Okay, let's unpack all of this
+and bring it home for the listener.
+We've covered a lot of ground today.
+We started with that overwhelmed feeling
+of a complex world.
+We introduced the lattice work as a solution.
+We dove deep into Occam's razor,
+the bias towards simplicity.
+We learned that every time you add a variable
+like a mysterious ninja, you leak probability.
+Few removing parts means fewer risks of error.
+It is statistically safer.
+We looked at its cousin, Hanlon's razor,
+the bias toward ignorance over malice.
+People are usually just tired or distracted,
+not evil villains plotting against you.
+And believing that actually saves us energy.
+We discussed why we fight this so much.
+Our brains love a good story.
+We're energy minimizers who paradoxically,
+sometimes find complex narratives easier to swallow
+than simple math.
+We prefer the feminist bank teller story
+over the boring but more probable truth.
+And we looked at the crucial caveats.
+Don't oversimplify the AMP colony.
+Don't ignore the hidden zeros
+that could bring down your whole system.
+And always, always check your simple idea
+against the three buckets of reality.
+The goal ultimately is to remove our blind spots.
+It's to see reality as it is, not as we wish it was,
+or as our narrative addicted brain wants it to be.
+And why does this matter?
+I mean, why should the person listening to this right now,
+the learner, as we call them,
+care about 14th century logicians or 1970s astronomers.
+Optimization.
+We live in a world of scarcity, scarcity time,
+scarcity of money, and most importantly,
+scarcity of mental energy and attention.
+Every single time you chase a complex,
+wrong explanation like testing for the rare disease
+or ruminating on a perceived insult from a co-worker,
+you are burning limited, precious resources.
+You're wasting your life force on zebras
+that aren't even there.
+Exactly.
+These mental models are efficiency tools.
+They give you your time back, they give you your sanity back,
+they let you focus your limited energy
+on the things that actually matter.
+If you can cut through the noise,
+you can finally hear the signal.
+I love that.
+It's not just about being smart,
+it's about being effective.
+And being calm.
+I think simplicity brings a certain kind of calmness with it.
+Before we go, I want to leave the listener
+with something to chew on.
+We've talked a lot about maps today.
+Occam's razor is a map, Hamlin's razor is a map.
+The three buckets are a map.
+But you have to remember,
+the map is not the territory.
+That is the first and most important principle of volume one.
+Just because your map is simple and clean
+and folded neatly in your pocket,
+it doesn't mean the terrain you were about to walk on is smooth.
+There are cliffs, there are swamps,
+there are hidden dangers.
+So the final question for the listener is.
+The question is, are you using simplicity
+to better understand the world?
+Or are you just using it to ignore the parts
+of the world that scare you?
+Are you using Occam's razor to find the truth?
+Or are you using it to close your eyes
+to a complexity that you don't want to deal with?
+Simplicity is a tool for clarity,
+not an excuse for blindness.
+Wow, that is the needle drop right there.
+Use the razor, but don't get cut by it.
+Thank you to everyone for diving deep with us today.
+Keep building that lattice work.
+And keep thinking.

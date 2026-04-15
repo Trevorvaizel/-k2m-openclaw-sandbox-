@@ -1,0 +1,413 @@
+I was reading through the prep notes for this deep dive earlier this morning and I found myself
+going back to that old commencement speech by David Foster Wallace. You know the one I'm talking
+about. Yeah. This is water. Oh, absolutely. It's a classic. I feel like it's become required reading
+or at least required listening for anyone trying to make sense of, you know, adult life. For sure.
+It's been shared millions of times for a reason. For a very good reason. But for anyone in the
+audience who maybe hasn't heard it or just needs a refresher, the setup is deceptively simple.
+Wallace paints this picture of two young fish swimming along, just minding their own business,
+totally absorbed in their fishy lives and they cross paths with this older fish swimming the
+opposite way. The wise elder of the reef. Exactly. The older fish nods at them and says,
+morning boys, how's the water? And he just keeps swimming. The two young fish go on for a bit
+paddling along. And then eventually one of them stops, looks at the other with this totally
+confused expression and asks, what the hell is water? What the hell is water? It always lands.
+It's funny, but it's also remarkably profound. It really is. The point Wallace was making isn't
+really about fish or oceanography. It's about us. Yeah, it's about the fact that the most obvious,
+ubiquitous, important realities are often the ones that are hardest to see and hardest to talk
+about. The water. We are surrounded by systems, by patterns, by standard ways of operating.
+That is our water. We don't even know we're swimming in it. And because we don't see it,
+we can't question it. That blindness is where we get stuck. We think we're making specific
+choices. We think we're solving unique problems, but really, we're just drifting with the current
+of our own default thinking. We're just accepting the parameters as they're given to us. Right,
+instead of examining the container itself. That is exactly what we are tearing apart today.
+The mission of this deep dive is to teach you how to see the water or to use the terminology
+from our source material today. We're going to teach you how to swim backward, which sounds
+physically impossible for a fish and maybe a little awkward for a human, but for your brain.
+It's a superpower. We are looking at one of the most robust counterintuitive tools in the mental
+model lattice. Okay, before we drop the name of the model and get into the nuts and bolts,
+let's ground everyone for a second. We hear this term mental models thrown around constantly now,
+you know, on finance, Twitter, in tech blogs, management seminars. Oh, yeah, it's a buzzword.
+Feels like it's becoming a bit of a buzzword like synergy was in the 90s. Yeah.
+So when we say we're using a mental model today, what are we actually talking about?
+It's a valid skepticism, but think of it this way. The world is infinitely complex. You cannot
+possibly keep every detail of the universe or even the full complexity of your own business
+in your head at once. It's just too much signal. It's noise. So we construct models,
+simplified representations of how things work to make the world manageable.
+So it's a difference between a map and the actual territory.
+A map is the perfect analogy. A map doesn't show you every pothole, every stray cat,
+every blade of grass. If it did, the map would be the size of the city and totally useless.
+It would just be the city. Exactly. It simplifies reality so you can navigate it.
+The problem is most people are walking around with only one map. Maybe it's a map they learned
+in business school where everything is a cost benefit analysis or a map they learned from their
+parents. They have a hammer. So everything looks like a nail. That's the one. And the sources we're
+covering today, specifically the work from Farnham Street and the great mental model series, they
+advocate for what Charlie Munger, the late partner of Warren Buffett calls a lattice work.
+A lattice work. You want a toolbox, not just a hammer. You want a map from physics, a map from
+biology, a map from history, a map from psychology. When you layer them over each other, you see the
+things that a single discipline misses. You get a triangulated view of reality.
+And the model we are pulling out of the toolbox today is, in my opinion, arguably the most effective
+one for cutting through complexity when you feel stuck. It's a big one. Today we are talking
+about inversion. The art of thinking backward. It sounds a little bit like the plot of a Christopher
+Nolan movie, like Tenet or maybe a complicated yoga pose. But in the context of decision-making,
+stripped of all the jargon, what are we actually doing when we invert? Well, the root is simple.
+Invert. To upend or turn upside down. It is a tool designed to solve problems by addressing
+them backward. And the core thesis here is that avoiding stupidity is often easier and surprisingly
+more effective than trying to be brilliant. I think that's a tagline we need to hang on to
+for this hour. Avoiding stupidity is easier than seeking brilliance. It sounds almost lazy,
+doesn't it? It does. Like we're just lowering the bar, but I suspect based on the research we've
+done, it's actually much harder work than it sounds. It's cognitively harder for sure, but the results
+are so much more reliable. Brilliant is often luck. Avoiding stupidity is a system.
+Okay, so where does this idea come from? The origin story of this model as a formalized tool,
+it takes us back to the 19th century. There was a German mathematician named Carl Jacobi.
+And by all accounts, this guy was a machine. He was solving these ungodly, difficult mathematical
+problems, elliptical functions, number, theory things that just stumped his contemporaries.
+The kind of equations that make the rest of us break out in hives, just looking at them.
+Exactly. And when students or colleagues came to him, baffled, asking how he cracked these
+impossible nuts, he didn't give them a complex lecture. He had this simple recurring catchphrase.
+Invert, always invert. Invert, always invert. Catchy, almost like a mantra. But what did he mean by
+that mathematically? I'm assuming he wasn't just telling them to stand on their heads.
+No, not literally. Think about how we usually approach a problem, whether it's in math or in
+life. We think forward. We start at the beginning, the start state, and we try to calculate our
+ways step by step to the goal. Right, like standing on one side of a river and trying to build a
+bridge to the other side, plank by plank, hoping you hit the right spot on the opposite bank.
+That's a perfect way to put it. And sometimes the fog is so thick you can't even see the other
+side. You don't know if the bridge is heading in the right direction or if you're just building
+a pier into the middle of nowhere. You're just wasting what? You're wasting what? Jacobi realized
+that many problems are unsolvable that way. The complexity is too high. There are too many
+variables. So he flipped it. He started at the end. He assumed the solution was already true,
+or he looked at the desired property and worked backward to the start.
+So to stick with your river analogy, instead of trying to cross the river,
+he mentally teleports to the destination, turns around, and asks, okay, what does the path look
+like from here? That's it. And often the path is crystal clear when you look backward, even if
+it's totally invisible when you look forward. In algebra, it's a difference between trying to
+guess what X is by plugging in random numbers, which is how I did algebra versus isolating X
+by stripping away everything else. He wasn't adding to the problem. He was peeling it back.
+Okay, that works for math. Math is clean. Logic is binary. But life is so messy.
+Life doesn't have an equal sign. How do we take Jacobi's invert, always invert,
+and apply it to something like, I don't know, figuring out my career or launching a business?
+That brings us to the two practical applications of this model in the real world.
+The sources break this down into two distinct approaches. Assumption checking and anti-goals.
+Let's break those down. Let's start with assumption checking, because that feels a
+little closer to the math side of things. It is. Assumption checking is really about stress testing
+your own beliefs. Let's say you have a brilliant idea for a new business. The forward thinking is,
+people will love this. I'll make millions. It'll be great. Right. The usual optimistic founder story.
+Inversion asks you to flip that assumption. Assume your business idea is a catastrophic
+failure. It's a complete disaster. Okay, I'm imagining it. I'm broke. The business is closed.
+Everyone hates me. Now, working backward from that failure, what must have been true for that
+failure to happen? Well, maybe nobody actually wanted the product, or maybe the manufacturing
+costs were way too high to ever make a profit, or maybe a competitor just came out of nowhere
+and crushed us. Exactly. Now, you have a list of concrete things to investigate.
+Instead of just dreaming about success, you are rigorously testing the conditions of failure.
+You're asking what else has to be true for this to work, and what would have to be true for this
+to fail? It turns blind optimism into engineered verification. It's like a safety valve for your
+own ego. But the second approach, anti goals, this is the one that I think really changes how
+people live their daily lives. I completely agree. Anti goals are about changing the target.
+Instead of aiming for the goal, you identify what you want to avoid. Let's take a classic
+example that everyone obsesses over. Everyone wants to know, how do I get rich?
+The million dollar question. Literally, there are entire industries built on just answering
+that question. And it's a daunting question. It's so big. Do you start a tech company?
+Do you buy real estate? Do you trade crypto? Do you write a bestseller? There are a million ways
+to get rich. And most of them are incredibly hard, rely on timing, and involve a huge amount of luck.
+For sure. If you wake up every day, trying to figure out the one right move to become a
+billionaire, you're just going to be paralyzed. So inversion flips the script. Instead of asking
+how to get rich, we ask, how do I guarantee I end up poor? How do I guarantee I end up poor?
+Oh, well, that's easy. I can answer that right now without a degree in economics.
+Spend more than you make. Yep. Rack up high interest credit card debt. Don't save anything.
+Gamble your rent money. Ignore your health. So you have massive medical bills later on.
+Exactly. Notice how the dynamic of the conversation just changed. When I asked how to get rich,
+it was vague and stressful. When I asked how to get poor, the answers were concrete,
+obvious, and 100% within your control. That is fascinating. The success path is foggy and up a
+mountain. But the failure path is lit up with giant neon signs pointing to a cliff. If you simply
+avoid doing the things that guarantee poverty, you are automatically on a better path. You haven't
+found the magic bullet for brilliance, but you've eliminated the causes of failure. You've removed
+the stupidity. It's surprisingly relieving, isn't it? It takes the pressure off of being a genius.
+You just have to be consistently not stupid over a long period of time. And that is the secret
+sauce of inversion. It clears the field. It turns an infinite number of choices into a manageable
+list of do nots. Okay, so to really see how powerful this is, we need to look at how this is played
+out in history. Because some of the biggest innovations and solutions didn't come from that
+forward thinking, they came from swelling backward. For sure. Let's get into the case studies.
+I love that we have such a diverse group here. We have a fictional detective, a very real and
+controversial marketer, and an unsung hero of innovation. Let's start with the detective.
+The most successful fictional detective of all time. Sherlock Holmes.
+The man in the deerstalker hat. Holmes is a pop culture icon of inversion.
+If you read the stories carefully, Holmes rarely solves a case just by looking at the
+clues that are there. The police do that. Right, they see the footprints, they see the fingerprints,
+the obvious stuff. Holmes was a master of looking for what wasn't there. You're referring to the
+famous dog that didn't bark. Precisely. This is from the story, Silver Blaze. A racehorse has
+been stolen and its trainer has been murdered. The police are running around looking for a stranger,
+a gang, someone who broke in. In the story, the inspector asks Holmes if there is any point
+to which he would wish to draw his attention. And Holmes says to the curious incident of the
+dog in the nighttime. The inspector is totally confused. He says the dog did nothing in the
+nighttime and Holmes delivers that knockout punch. That was the curious incident. I love that logic
+because if a stranger had come in, the dog would have barked. But the dog didn't bark.
+Which means the criminal wasn't a stranger. It was someone the dog knew.
+He solved the case by observing what didn't happen. That is inversion. Most of us, we filter out the
+absence of events. We only see the positive signal, the thing that's there. Holmes treats the empty
+space, the absence of evidence, as evidence itself. He inverts the background and makes it the foreground.
+That's cool for solving crimes, but let's raise the stakes. What about changing the world or
+or manipulating the masses? This next story actually blew my mind a little bit. We're moving
+from detectives to marketing. And we have to preface this. We are talking about cigarettes.
+Which we know unequivocally are terrible for you. Horrific. But that's actually important
+of the lesson here. The mental model used to sell them a brilliant, even if the product itself was
+deadly. This is the story of Edward Bernays in the 1920s. The father of public relations and,
+fun fact, not always in the headlines, he was Sigmund Freud's nephew.
+Really? Oh yeah. He understood human psychology at a deep, almost primal level.
+Okay, so set the scene for us. It's the 1920s. What's the problem the American tobacco companies
+trying to solve? The problem is they've hit a ceiling, a hard revenue cap. At the time, men
+smoked. It was masculine, it was standard. But women, absolutely not. It was a huge cultural taboo.
+Massive. A woman smoking in public was seen as unladylike, immoral, perhaps even synonymous
+with prostitution in some conservative circles. So from a business standpoint,
+you have 50% of the population effectively banned from buying your product by societal norms.
+That is a massive addressable market that is just locked away. A huge lock. Now, the forward
+thinking approach, the way a standard marketer thinks would be, how do I sell more cigarettes
+to women? Which leads to very standard answers. You make the pack pink, you make the cigarette
+smaller and daintier, you put a pretty woman in the ad looking all demure. You lower the price,
+you offer coupons, and sure, those might move the needle of fraction of a percent. But they
+don't solve the core problem. They don't break the taboo. So what did Bernays do?
+Bernays didn't ask, how do I sell cigarettes? He inverted, he asked. If women did smoke,
+what else would have to be true? What would have to change in the world for that to be normal?
+He stopped looking at the product and started looking at the entire environment.
+Exactly. He realized that for women to buy cigarettes, smoking had to stop being a man's thing.
+It had to be recoded. He needed to link the cigarette to a desire that was already present
+and powerful in women at that time. What was happening in the 1920s? The suffragette movement.
+Women were fighting for the vote. They were fighting for equality. Bernays saw that energy
+and decided to hijack it. He framed cigarettes and not as tobacco, but as torches of freedom.
+The porch is a freedom. That is. It's so cynical, but it's absolute genius.
+He orchestrated this stunt at the Easter Sunday parade in New York, which was the place to be seen.
+He hired debutants wealthy, respectable young women to hide cigarettes under their dresses.
+At a specific signal, while the photographers were perfectly positioned, they all dramatically
+lit up. He didn't sell the taste. He didn't sell the price. He sold the rebellion.
+He inverted the problem from sales to perception. He made not smoking feel like submission to the
+patriarchy and smoking feel like liberation. The taboo didn't just break. It evaporated.
+He even linked it to the slimming trend weight loss. Reach for a lucky instead of a sweet.
+He completely changed the meaning of the act. He did. It really highlights a warning that was
+in the source material, which I think we need to pause on here. Mental models are value neutral.
+They are tools. A hammer doesn't care if you use it to build a house or break a window.
+Bernays used inversion to generate millions of addictions. It's incredibly effective,
+but it's not inherently good. But this next story uses the exact same mechanism to save lives.
+Right. Which is a great contrast. Yes. Let's talk about Marie Van Britain-Brown.
+This is a story I hadn't heard before, but it's responsible for something we see on almost every
+porch in America today. This is a fantastic example of innovation through inversion. We are in
+Queens, New York, 1966. Marie is a nurse. She works irregular hours late nights.
+Her husband is an electronics technician. In 1960s, New York wasn't exactly the safest place.
+Not at all. The crime rate was high. And more importantly, police response times in her
+neighborhood were slow. Very unreliable. She felt unsafe opening her door to strangers.
+So the forward problem here, the way a politician or a police chief would look at it is,
+how do we get the police to come faster? Or how do we make the neighborhood safer?
+Both of which are completely outside her control. She couldn't fix the NYPD budget.
+She couldn't fix the crime rate in Queens. So she inverted. She flipped the problem.
+She asked, how can I see who is outside without opening the door? How do I bring the outside in
+safely? She stopped waiting for the world to change and just changed her interface with the world.
+She and her husband rigged up a camera system. They put a motorized camera in the people that
+could slide up and down to see people of different heights. They connected it to a bulky monitor
+in her bedroom and even added a two-way microphone so she could talk to the person outside without
+unlocking the deadbolt. She basically invented the ring doorbell in 1966. Basically, yes.
+They filed the first patent for a closed circuit monitoring system, what we call CCTV.
+Innovation came from trying to avoid the danger of opening the door rather than trying to fight
+the crime directly. It's this recurring theme. The forward path is blocked. In this case,
+the police are slow. So you find the backward path. You don't need the police if you can see for
+yourself. And that leads us perfectly into the next big section of our discussion. The difference
+between trying to be brilliant and trying to avoid stupidity. Right. We touched on this with the
+get rich versus don't get poor idea, but there's a giant in the financial world who built an entire
+empire on this concept, John Bogle, the founder of Vanguard. Now, if you look at the stock market,
+everyone is obsessed with one thing, alpha, beating the market, picking the winning stock,
+being the smartest guy in the room. How do we win? That's the forward question. It's competitive,
+it's aggressive. And Bogle looked at that game and basically said, I'm not playing. He saw
+something else. Bogle looked at the data and saw a brutal reality. Practically, no one beats
+the market consistently over a long period. And the harder they try by trading frequently,
+hiring expensive managers, chasing trends, the more they lose. It's what Charlie Ellis calls
+a loser's game. A loser's game. What does he mean? Well, think about tennis. In professional
+tennis, you win by hitting winners. In amateur tennis, you win by not hitting the ball into the
+net, just getting it back over. So the market is amateur tennis. For 99% of us, yes. We lose
+points. We don't win them. Bogle inverted the problem. He asked, how do we stop losing? Not
+how do we win? How do we stop losing? He realized that investors lose money primarily through two
+things. Management fees and emotional stock selection. Bad decisions. So if you remove the fees and
+you remove the human error of trying to pick stocks, you get the index fund. You buy the whole hay
+stack instead of looking for the needle. You settle for the market average. But because your
+costs are essentially zero, you end up beating almost everyone else who's trying to be brilliant
+and paying high fees to do it. He won by refusing to play the winning game. He just eliminated
+the losing variables. He won by minimizing the downside. And this applies to so much more than
+just money. Let's look at Florence Nightingale, the lady with the lamp. We think of her as a
+compassionate nurse roaming the halls of the hospital, which she was. But she was also a
+statistician, a data nerd. Really? She was arguably one of the most important statisticians of the
+Victorian era. I just pictured the lamp and the bonnet. I never think of her with a spreadsheet.
+Oh, absolutely. When she was in the Crimean War, soldiers were dying in droves. The British
+Army was losing more men in the hospital than on the battlefield itself. Wow. And the forward
+thinking at the time was treat the wounds, perform surgery, amputate, do more medicine,
+more interventions. But they were still dying. So Nightingale inverted. She started collecting data.
+She created these famous diagrams now called rose diagrams to visualize the causes of death.
+And she realized the vast majority weren't dying from the bullets. They were dying from
+cholera, typhus, dysentery. The hospital itself was killing them. The cure was the problem. The
+environment was the problem. So she didn't focus on better surgery. She focused on sanitation,
+cleaning the drains, scrubbing the floors, ventilation, washing hands. She focused on
+preventing the cause of death rather than treating the result. And what were the numbers? What was
+the impact? The mortality rate dropped from 42% to 2%. 42 to 2. That is massive. That's thousands
+of lives saved, not by a new medicine, but by a new way of thinking. And it brings us to a quote
+from Peter Bevelin that really sums up this entire philosophy. I don't want to be a great
+problem solver. I want to avoid problems. It's not as sexy as we love the hero who runs into
+the burning building to save the baby. We don't throw a parade for the guy who installs the
+smoke detector and changes the battery. So the fire never even happened. Exactly. The problem
+preventer gets no credit, but they usually live a happier, less stressful life. Inversion is the
+tool of the problem preventer. Okay, so we're sold on the concept. I think everyone listening
+buys that inversion is powerful, but I can hear the objection already. Okay, sounds great, but how
+do I actually do it on a Tuesday morning when I'm staring at a blank spreadsheet or a messy
+relationship? Right. Just think backward is a little vague, isn't it? A little. We need a framework.
+The source is .2, a psychologist named Kurt Loon from the 1930s. He developed something
+called force field analysis. It sounds like something out of Star Trek, but it's incredibly
+practical. Loon's insight was that any situation where you want change isn't static. It's held in
+place by an equilibrium of forces like a tug of war where the rope isn't moving. Exactly. On one
+side, you have driving forces, the things pushing for change. On the other side, you have restraining
+forces, the things blocking it. If you want the rope to move, you have to alter that balance. Okay,
+so Loon gives us a five step process. Let's walk through it maybe with a relatable example. Let's
+say I want to start going to the gym every morning. The classic New Year's resolution.
+Okay, step one, identify the problem. I am currently not going to the gym. Step two,
+define the objective. I want to go four times a week at seven a.m. Easy enough.
+Step three is where we usually focus. Identify forces supporting change. This is the forward
+thinking trap. If I ask you how to solve this, what's your first instinct?
+I need to get motivated. I should watch some David Goggins videos screaming at me to carry the boats.
+Right. I should buy those expensive running shoes I saw on Instagram. Maybe I'll sign up for a class
+that charges me a fee if I miss it. Right. You are piling on the driving forces. You were slamming
+your foot on the gas pedal. And most people stop there. They think if they just push hard enough,
+the car will move. But the car isn't moving. And I burn out after two weeks because relying on
+willpower is just exhausting. Because you ignored step four, identify the forces in
+beating change. This is where inversion lives. You have to ask, why am I not going? What is the
+parking brake? Okay, if I'm being honest, my bed is warm. My gym clothes are buried in the bottom
+of a drawer in another room. I can never find my keys in the morning. And I hate the feeling of
+rushing around. Those are the restraining forces. That's the friction. Now step five is strategize.
+The forward thinker tries to overpower the friction with willpower. The inverted thinker
+simply removes the friction. So instead of trying to hype myself up, I just sleep in my gym shorts.
+You put your keys in your sneakers the night before you fill your water bottle and put it by
+the door. You release the parking brake. It turns out that removing a small obstacle is often 10
+times more effective than adding a huge amount of motivation. It's almost physics. If the break
+is on, adding more horsepower just damages the engine. And that's why inversion feels like
+a relief, you start fighting yourself. You just clear the path. This connects to something
+else in the sources. The whole idea of the lattice work. We shouldn't just look at inversion and
+isolation. It connects to other mental models. Right. And this is where it gets really interesting
+because when you combine inversion with other models, you get these incredible superpowers.
+Let's look at the connection to mathematics. Specifically, the idea of multiplying by zero.
+This is a terrifying concept. If you run a business or manage a team in math, simple arithmetic. What
+is 10 times 10 times 10. A thousand. What is 10 times 10 times zero. Zero. The zero kills
+everything. It doesn't matter how big the other numbers are. You can have a million times a million.
+But if you multiply by zero at the end, the result is nothing. In systems, inversion is the best way
+to find the zero. Give me a real world example of a zero. Okay. Imagine a company. You have a 10
+10 product, a 10 10 marketing team, a 10 10 sales force. But your CEO is a fraud who is
+embezzling money. The value of the company is zero. It collapses. Or you have a Ferrari.
+Great engine, great tires, great driver, no fuel. Zero. It's a very expensive paperwork.
+We often spend all our time optimizing the tens. Trying to make our marketing slightly better,
+our product slightly faster. We ignore the zero. Inversion says stop optimizing the good stuff for
+a second. Look for the single point of failure that could destroy the whole thing. It's the weakest
+link theory on steroids. You have to protect against the zero before you try to multiply
+the other numbers. Exactly. Find and eliminate the zero. Let's move to another connection.
+This one is about working with the world rather than against it. The story of the ship, the fram.
+This is a real adventure story. Oh, I love this story. Fritjoff Nansen, he was a Norwegian explorer
+who wanted to reach the North Pole in the late 1800s. And the problem with the North Pole is the ice.
+The ice is a nightmare. It moves. It shifts. And when it freezes around a ship, the pressure is
+immense. It crushes traditional holes like their matchsticks. So the forward thinking approach,
+the standard naval architecture of the time would be build a stronger ship. Right. More steel,
+thicker wood, fight the ice. But there's a limit. Nature is stronger than wood. You can't build a
+ship strong enough to resist the full force of the Arctic ice pack. You can't win that fight.
+So Nansen inverted the design, he asked. How do I work with the ice? Instead of trying to resist
+the pressure, how do I use it? He stopped fighting the enemy and tried to make the enemy his ally.
+He designed a ship called the fram. It had a rounded hull, like a bowl or a bean. It had almost no
+keel. The idea was that when the ice squeezed the ship, the ship would just pop up. Like a watermelon
+seed when you squeeze it between your fingers. Exactly. The ice pressure, instead of crushing the
+ship, lifted it up to sit safely on top of the ice. He rode the ice for three years.
+He let the irresistible force become his elevator. That is such a beautiful example of inversion.
+Don't fight the force. Invert your relationship to it. And that applies to arguments, to martial
+arts like judo, to marketing. If there is a massive trend against you, don't stand in front of it.
+Build a rounded hull and ride it. Okay, one more connection before we get to the why.
+Hamlin's razor. This is a psychological one, and it saved me a lot of anger and traffic.
+Never attribute to malice that which is adequately explained by stupidity,
+or tiredness, or hunger, or just being busy. We have a natural instinct, again, a forward instinct,
+to assume agency and intent. If someone cuts you off in traffic, your brain instantly creates a
+story. That jerk, he saw me, he looked me in the eye and he cut me off just to disrespect me.
+He targeted me specifically. I am the protagonist of this movie and he is the villain.
+Right, and that leads to road rage, stress, paranoia. Inversion asks you to flip the intent.
+Assume there is no intent. Assume they just didn't see you. Assume they are rushing to the hospital
+because their wife is in labor. Assume they spilled hot coffee on their lap.
+It changes your entire emotional reaction. You go from angry to, well, maybe just annoyed,
+or even sympathetic. It reduces the friction in your life. It keeps you focused on opportunities
+rather than constantly playing defense. If you assume everyone is out to get you,
+you build walls. If you assume people are just clumsy or distracted, you build bridges.
+Or you just wear a helmet. Or just wear a helmet.
+So we have all these amazing examples. Inversion helps us solve crimes,
+build tech, get rich, stay safe, and keep calm in traffic. My question is,
+if it's so great, why don't we do it naturally? Why is it so hard? Why did I have to wait until
+this deep dive to really understand it? The lazy brain.
+Hey, I resent that. My brain works hard.
+It works hard, but it's biologically designed to save energy.
+The brain is an expensive organ. It consumes a huge amount of calories relative to its size,
+about 20% of your energy for just 2% of your body weight.
+Wow.
+So evolution has wired us to be energy minimizers.
+We want the shortcut. We crave the shortcut.
+We do. And forward thinking linear thinking is intuitive.
+It's what the Nobel laureate Daniel Kahneman calls system one.
+It's fast, automatic, emotional.
+I'm hungry. Eat food. I want money. Work harder. I want to be happy. Buy things.
+Exactly. Inversion is system two. It requires cognitive load.
+It requires you to stop, override that impulse, and think through a complex simulation in reverse.
+That burns calories. It literally feels like work. It feels uncomfortable.
+So when I sit down to plan my year, and I just write a list of generic goals like
+lose 10 pounds, read 50 books, that's my lazy brain taking the easy path.
+Yes. Because asking, what are the hidden psychological barriers that will prevent me from reading?
+Am I addicted to my phone? Is my lighting too dim?
+That is a much harder, more uncomfortable line of questioning.
+We also rely on heuristics, right? These mental shortcuts.
+We do. The sources mention the availability heuristic and the effect heuristic.
+We make decisions based on what's easiest to remember, or what's most vivid
+availability, or just how we feel in the moment. Effect.
+So if I feel excited about a new project, my brain just assumes it will succeed.
+I don't naturally stop and ask, why might this fail? Because that ruins the buzz.
+Exactly. Inversion is a buzz kill. But it saves you from the hangover later.
+The sources also gave this great warning, which I think is a good thing to touch on as we wrap up.
+The map is not the territory.
+This is crucial. Even with all these mental models, we have to remember
+that models are simplifications. They are, by definition, flawed.
+The famous quote, all models are wrong, but some are useful.
+That's the one. Inversion helps us see where the map might be wrong.
+When you look at a map, it shows you the road. It doesn't show you the pothole,
+or the drunk driver, or the deer jumping out.
+So the forward look sees the road.
+And the inverted look scans for the cliffs the GPS missed.
+So we need to wrap this up. We've covered a lot of ground today.
+From fish and water to ships and ice.
+If the listener takes just one thing away from this deep dive, what should it be?
+The takeaway is that you have a blind spot.
+We all do. We're obsessed with the start to goal trajectory.
+Inversion allows you to see the problem from the end or from the bottom up.
+It helps you avoid the zeros that can destroy all your hard work.
+And we have a practical exercise for you.
+We always like to leave you with something you can actually do.
+Next time you are stuck, or better yet, next time you are starting a big project,
+do a premordum.
+Not a post-mortem where you figure out why the patient died.
+A premordum. The patient is still alive.
+The project hasn't started yet. Fast forward one year in your mind.
+Close your eyes and imagine the project has failed spectacularly.
+It was a complete disaster.
+Total catastrophe. The investors are suing us. Everyone's mad.
+Now, write the history of why it failed. It failed because we ran out of money.
+It failed because the two lead engineers hated each other.
+It failed because no one actually wanted the product.
+You have to be brutal with yourself.
+Absolutely. Then come back to the present and simply don't do those things.
+Fix the budget. Fire the toxic engineer.
+Validate the market. You have just inverted your way to a higher probability of success.
+I love that. It's pessimistic thinking for an optimistic outcome.
+Beautifully put.
+And I want to end with a thought from the source material.
+Actually a quote from Sonsie at the Art of War Guy.
+Supreme excellence isn't winning every battle.
+Supreme excellence consists in breaking the enemy's resistance without fighting.
+Inversion is the art of not fighting.
+Don't fight the ice. Build a round hole.
+Don't fight the police response times.
+Build a camera. Don't fight the market.
+Just buy the index.
+Ask yourself. Where in your life are you pushing on a door that clearly says pull?
+Stop pushing. Step back. Read the sign.
+And invert.
+And keep building that lattice work.
+The quality of your thinking depends on the models in your head.
+Thanks for listening to The Deep Dive.
+See you next time.

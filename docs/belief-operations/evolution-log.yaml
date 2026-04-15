@@ -1,0 +1,709 @@
+version: 1
+project: k2m-belief-operations
+last_updated: 2026-04-10
+current_phase: phase1-partially-complete
+owners:
+  - team: K2M
+    scope: belief-operations
+entries:
+  - id: 2026-03-30-phase1-live-review-completion
+    date: 2026-03-30
+    type: operating-state
+    status: completed
+    summary: >
+      Verified the live Notion review schema and ClickUp list status constraints, completed a
+      live review pass on the student Product Truth, Belief Map, and Topology Map, advanced
+      their Notion review states to Approved, reconciled the linked ClickUp tasks, and
+      cleared the final Phase 1 blocker in the shared audit path.
+    decisions:
+      - id: D-020
+        title: Use live review fields and page-level comments as the approval trace for Phase 1 closure
+        rationale: >
+          The canonical review state had to be advanced from live systems rather than inferred
+          from stale docs. Writing the approval fields plus a short page-level review note in
+          Notion creates a concrete trace that the review happened in the canonical layer.
+        artifacts:
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/agent-handoff-log.md
+      - id: D-021
+        title: Treat ClickUp task completion as the execution-layer counterpart to Approved Notion review states when lists expose only minimal statuses
+        rationale: >
+          The Product Truth, Belief Audits, and Topology Audits lists expose `to do`,
+          `in progress`, and `complete`, not `approved`. The live alignment rule for these
+          lists is therefore Approved in Notion plus complete in ClickUp, with the Product
+          Truth task also carrying the custom field `Review State = Approved`.
+        artifacts:
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/agent-handoff-log.md
+    local_changes:
+      updated:
+        - docs/belief-operations/k2m-runtime-state.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+    runtime_state:
+      product_truth_review_state: approved
+      belief_map_review_state: approved
+      topology_map_review_state: approved
+      clickup_product_truth_task: complete
+      clickup_belief_audit_task: complete
+      clickup_topology_audit_task: complete
+      phase1_verdict: complete
+      remaining_blockers: []
+  - id: 2026-03-30-student-phase1-reconciliation-and-placement-audit
+    date: 2026-03-30
+    type: operating-state
+    status: completed
+    summary: >
+      Activated the live Notion write path through the local K2M MCP server, added a
+      student-slice placement and stale-state audit surface, ran a latest-only student
+      Facebook reconciliation pass, and brought the live Workflow Run, Map Update Memo,
+      Coverage Tracker, and ClickUp task states into alignment with the real student
+      artifacts.
+    decisions:
+      - id: D-017
+        title: Treat explicit-URL Facebook actor runs as the verification path for student Facebook evidence
+        rationale: >
+          Firecrawl can discover candidate Facebook URLs but cannot scrape Facebook pages
+          directly. The stronger verification path is newest-first discovery followed by the
+          Facebook Apify actor on explicit public URLs only.
+        artifacts:
+          - tools/k2m_mcp/intel_layer.py
+          - docs/belief-operations/agent-handoff-log.md
+      - id: D-018
+        title: Expose a dedicated student Phase 1 audit surface
+        rationale: >
+          The system needed a direct way to inspect placement mismatches and stale runtime
+          state for the student Phase 1 slice without re-running the broader architecture
+          review manually.
+        artifacts:
+          - tools/k2m_mcp/server.py
+          - tools/k2m_mcp/jobs.py
+          - docs/belief-operations/k2m-runtime-state.md
+      - id: D-019
+        title: Keep Phase 1 at partially complete until Product Truth is approved
+        rationale: >
+          The student slice now has the required artifacts, intelligence loop, and coverage
+          tracking, but Layer 0 Product Truth is not actually locked while its review state
+          remains Draft.
+        artifacts:
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/agent-handoff-log.md
+    local_changes:
+      updated:
+        - tools/k2m_mcp/intel_layer.py
+        - tools/k2m_mcp/jobs.py
+        - tools/k2m_mcp/server.py
+        - tools/k2m_mcp/README.md
+        - docs/belief-operations/k2m-runtime-state.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+    runtime_state:
+      notion_server_side_write_path: active
+      student_facebook_gap: closed
+      latest_student_facebook_evidence:
+        title: "Facebook / YEIYO TV - KCSE 2026 pathway questions from students (direct public comments)"
+        page_id: "333b7a9d-6129-81e2-b902-c9b46d227b8a"
+      phase1_verdict: partially-complete
+      remaining_blockers:
+        - "Product Truth review state remains Draft"
+        - "Belief Map and Topology Map review-state completion still pending"
+  - id: 2026-03-30-doctrine-scoring-and-operating-contract
+    date: 2026-03-30
+    type: runtime-architecture
+    status: completed
+    summary: >
+      Added doctrine-derived signal scoring, an explicit collector registry, optional Tavily
+      integration, and a machine-readable operating contract so agents can reason about what
+      each tool layer should look for before writing to Notion or ClickUp. Propagated the
+      same contract into newly generated ClickUp task descriptions and newly generated Notion
+      record bodies.
+    decisions:
+      - id: D-014
+        title: Encode belief-audit and topology-audit doctrine as machine-readable rules
+        rationale: >
+          The previous intelligence layer knew where to search but not what doctrine-defined
+          outputs it needed to find. The system now scores sources against explicit audit
+          targets and signal classes before promoting them to reviewed evidence.
+        artifacts:
+          - tools/k2m_mcp/signal_rules.py
+          - tools/k2m_mcp/intel_layer.py
+      - id: D-015
+        title: Use a collector registry to add new scrapers through one extension path
+        rationale: >
+          New providers should be added through a consistent contract: env key, request
+          helper, registry entry, normalization, then audience-recipe inclusion. This avoids
+          prompt-only or one-off scraper logic.
+        artifacts:
+          - tools/k2m_mcp/common.py
+          - tools/k2m_mcp/README.md
+      - id: D-016
+        title: Add a machine-readable operating contract for tool-layer intent
+        rationale: >
+          Agents and internal operators need a runtime answer to what each tool is for, what
+          it should look for, and what checklist gates writes. This contract now exists as a
+          queryable MCP/CLI surface.
+        artifacts:
+          - tools/k2m_mcp/operating_contract.py
+          - tools/k2m_mcp/server.py
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/k2m-tool-operating-contract.md
+    local_changes:
+      updated:
+        - tools/k2m_mcp/common.py
+        - tools/k2m_mcp/intel_layer.py
+        - tools/k2m_mcp/server.py
+        - tools/k2m_mcp/jobs.py
+        - tools/k2m_mcp/README.md
+        - docs/belief-operations/k2m-runtime-state.md
+        - docs/belief-operations/k2m-tool-operating-contract.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+        - .env.mcp.example
+      created:
+        - tools/k2m_mcp/signal_rules.py
+        - tools/k2m_mcp/operating_contract.py
+    runtime_state:
+      doctrine_scoring: enabled
+      operating_contract_tool: k2m_operating_contract
+      collector_registry: enabled
+      optional_providers:
+        - tavily
+        - brave
+        - exa
+      current_blockers:
+        - "NOTION_API_TOKEN is not yet configured in .env.mcp"
+        - "TAVILY_API_KEY is not yet configured in .env.mcp"
+        - "Topology inference remains heuristic rather than full graph analysis"
+        - "Older ClickUp tasks and Notion records are not yet backfilled with the new checklist sections"
+  - id: 2026-03-30-universal-mcp-layer
+    date: 2026-03-30
+    type: runtime-architecture
+    status: completed
+    summary: >
+      Implemented a repo-owned universal MCP layer for K2M belief operations so Codex and
+      Claude Code can use the same local orchestration server for ClickUp, Notion, Apify,
+      and Firecrawl. Added K2M-shaped Notion tools, ClickUp runtime helpers, audience
+      collection recipes, shared CLI jobs, and explicit runtime-state documentation.
+    decisions:
+      - id: D-011
+        title: Treat the local K2M MCP server as the orchestration layer
+        rationale: >
+          The prior local server was mainly a set of raw wrappers. The system now treats the
+          repo-local MCP server as the operational layer that translates K2M workflow intent
+          into actions across ClickUp, Notion, Apify, and Firecrawl.
+        artifacts:
+          - tools/k2m_mcp/server.py
+          - tools/k2m_mcp/common.py
+          - tools/k2m_mcp/clickup_layer.py
+          - tools/k2m_mcp/notion_layer.py
+          - tools/k2m_mcp/intel_layer.py
+      - id: D-012
+        title: Use project-scoped MCP config as the portability layer
+        rationale: >
+          The repo should describe the MCP stack directly so Codex and Claude Code can load
+          the same servers without recreating setup from memory or app-specific state.
+        artifacts:
+          - .mcp.json
+          - tools/k2m_mcp/README.md
+      - id: D-013
+        title: Add explicit runtime-state documentation and update protocol
+        rationale: >
+          The system needed one document describing how it runs now, plus a rule that this
+          visibility layer must be refreshed after implementation changes.
+        artifacts:
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/README.md
+          - docs/belief-operations/agent-handoff-log.md
+    local_changes:
+      updated:
+        - .mcp.json
+        - .env.mcp.example
+        - tools/k2m_mcp/README.md
+        - docs/belief-operations/README.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+      created:
+        - tools/k2m_mcp/common.py
+        - tools/k2m_mcp/clickup_layer.py
+        - tools/k2m_mcp/notion_layer.py
+        - tools/k2m_mcp/intel_layer.py
+        - tools/k2m_mcp/jobs.py
+        - docs/belief-operations/k2m-runtime-state.md
+      replaced:
+        - tools/k2m_mcp/server.py
+    runtime_state:
+      local_mcp_server: k2m-belief-ops
+      project_mcp_config:
+        - local: k2m-belief-ops
+        - remote: notion
+      shared_jobs:
+        - phase1-status
+        - phase1-reconcile
+        - student-intel-refresh
+        - teacher-intel-refresh
+        - b2b-intel-refresh
+      current_blockers:
+        - "NOTION_API_TOKEN is not yet configured in .env.mcp"
+        - "Social comment collection still needs concrete target URLs for some runs"
+        - "Doctrine-derived signal rules are not yet fully encoded into the intelligence layer"
+  - id: 2026-03-29-bootstrap-foundation
+    date: 2026-03-29
+    type: bootstrap
+    status: completed
+    summary: >
+      Established the first complete belief-operations documentation set, clarified the
+      product stack, and bootstrapped the initial Notion workspace for ongoing market,
+      belief, topology, and workflow operations.
+    decisions:
+      - id: D-001
+        title: Separate product truth from marketing operations
+        rationale: >
+          Product identity, category belief, product belief, and market operations were being
+          collapsed into one layer. The system now treats product truth as upstream of the
+          marketing, sales, retention, and referral operating model.
+        artifacts:
+          - docs/k2m-layer4-product-brief.md
+          - docs/belief-operations/k2m-belief-operations-os.md
+      - id: D-002
+        title: Make network topology upstream of message optimization
+        rationale: >
+          The canonical texts argue that it is better to map the network before optimizing
+          messages. The operating system now separates belief architecture from topology and
+          treats topology mapping as a required input to penetration design.
+        artifacts:
+          - docs/belief-operations/k2m-belief-operations-os.md
+          - docs/belief-operations/k2m-live-market-intelligence-os.md
+          - docs/belief-operations/templates/k2m-network-topology-audit-template.md
+      - id: D-003
+        title: Keep canonical doctrine separate from executable skills
+        rationale: >
+          The canonical texts remain source doctrine. Skills are derived operating
+          procedures with constrained inputs, outputs, tools, and artifacts.
+        artifacts:
+          - docs/belief-operations/k2m-skill-architecture.md
+      - id: D-004
+        title: Use Notion as the canonical map layer and ClickUp as execution
+        rationale: >
+          Maps, registries, evidence, and reviews belong in Notion. Work execution,
+          ownership, and flow transitions belong in ClickUp.
+        artifacts:
+          - docs/belief-operations/k2m-notion-information-architecture.md
+          - docs/belief-operations/k2m-clickup-workflow-architecture.md
+    local_changes:
+      updated:
+        - docs/k2m-layer4-product-brief.md
+        - docs/belief-operations/README.md
+      created:
+        - docs/belief-operations/k2m-belief-operations-os.md
+        - docs/belief-operations/k2m-skill-architecture.md
+        - docs/belief-operations/k2m-live-market-intelligence-os.md
+        - docs/belief-operations/k2m-notion-information-architecture.md
+        - docs/belief-operations/k2m-clickup-workflow-architecture.md
+        - docs/belief-operations/k2m-governance-and-map-update-protocol.md
+        - docs/belief-operations/k2m-touchpoint-territory-audit.md
+        - docs/belief-operations/k2m-expansion-loop-architecture.md
+        - docs/belief-operations/templates/k2m-product-truth-sheet.md
+        - docs/belief-operations/templates/k2m-belief-audit-template.md
+        - docs/belief-operations/templates/k2m-beachhead-belief-brief-template.md
+        - docs/belief-operations/templates/k2m-network-topology-audit-template.md
+        - docs/belief-operations/templates/k2m-trust-gradient-and-friction-walk-template.md
+        - docs/belief-operations/templates/k2m-defining-moments-map-template.md
+        - docs/belief-operations/templates/k2m-referral-story-kit-template.md
+        - docs/belief-operations/templates/k2m-border-diagnostics-dashboard.md
+    notion_bootstrap:
+      status: schema-created
+      note: >
+        Databases created with correct schema and relations. Most databases have zero records.
+        Corrected from 'completed' after adversarial review on 2026-03-30 confirmed all
+        databases except Product Truth Registry (one blank shell record) are empty.
+      hub_page:
+        title: "K2M Belief Operations"
+        page_id: "332b7a9d-6129-817d-bde6-f30bc1485879"
+        url: "https://www.notion.so/332b7a9d6129817dbde6f30bc1485879"
+        location: workspace-root
+        icon_code: ":compass:"
+      databases:
+        - title: "Product Truth Registry"
+          data_source_id: "collection://7b80969d-bd94-4113-af14-a87eed68e4be"
+          url: "https://www.notion.so/d02b20b2bdff4629923961d86c7e9ede"
+        - title: "Audience Segments"
+          data_source_id: "collection://c33cd60f-91cc-4026-8b90-f2a8ef120384"
+          url: "https://www.notion.so/e6fb4ccca9644378ab2fe49040c04453"
+        - title: "Belief Maps"
+          data_source_id: "collection://48f2b127-a36c-4d19-92c6-0c30d8b80666"
+          url: "https://www.notion.so/09cfd02e57d34c9f8e820fbc6c5ceb8e"
+        - title: "Topology Maps"
+          data_source_id: "collection://e7ffc7b5-f1d0-450a-8c80-2338a454f54f"
+          url: "https://www.notion.so/f4383b13f4c14e80bc7905d369790c60"
+        - title: "Node Registry"
+          data_source_id: "collection://2e5f5b7e-748e-44ad-9d69-e103ef26a844"
+          url: "https://www.notion.so/2032dff80cb84ad18a69172f4b75d780"
+        - title: "Bridge Registry"
+          data_source_id: "collection://2f10cbdb-4e33-4af5-bac4-a810b0bf8625"
+          url: "https://www.notion.so/dae0693f93864b7ea29779b2de92d6fe"
+        - title: "Timing Window Register"
+          data_source_id: "collection://1421cd29-8d7c-43af-b531-81a0c5ddfa1a"
+          url: "https://www.notion.so/5f6881dade814317924714cb71627859"
+        - title: "Artifact Library"
+          data_source_id: "collection://2891029d-6ed2-4e19-b007-6dcb832b38cc"
+          url: "https://www.notion.so/e5645c83a02f416b8a94a76376c21319"
+        - title: "Map Update Memos"
+          data_source_id: "collection://f8ef01d3-ae82-469f-96a2-bc92432aab55"
+          url: "https://www.notion.so/f115604950db43f4bd052c74638ed1d4"
+        - title: "Workflow Runs"
+          data_source_id: "collection://6a72b814-4436-46df-8f3d-03837499a4ca"
+          url: "https://www.notion.so/d91e8a377d794321900aa15d80765488"
+        - title: "Border Issue Log"
+          data_source_id: "collection://dc219b3d-4d3a-4c56-9d96-6c23d950d6fa"
+          url: "https://www.notion.so/1c7aa41694324c9aab80ba29af79e36a"
+        - title: "Evidence Sources"
+          data_source_id: "collection://ec55ed4d-9430-4bac-a0cc-d11d6b5bb77b"
+          url: "https://www.notion.so/85a9dd5e4cf3453bac24524981efb22f"
+      starter_views:
+        - database: "Product Truth Registry"
+          views:
+            - Canonical Only
+            - Needs Refresh
+        - database: "Belief Maps"
+          views:
+            - In Review
+        - database: "Topology Maps"
+          views:
+            - Needs Review
+        - database: "Timing Window Register"
+          views:
+            - Open Now
+        - database: "Border Issue Log"
+          views:
+            - Open High Severity
+      relation_summary:
+        - "Product Truth Registry links to Audience Segments, Belief Maps, Artifact Library, and Map Update Memos."
+        - "Audience Segments links to Belief Maps, Topology Maps, and Timing Window Register."
+        - "Belief Maps links to Evidence Sources, Workflow Runs, and Map Update Memos."
+        - "Topology Maps links to Node Registry, Bridge Registry, Evidence Sources, and Map Update Memos."
+        - "Timing Window Register links to Audience Segments, Workflow Runs, and Map Update Memos."
+        - "Artifact Library links to Product Truth Registry, Workflow Runs, and Border Issue Log."
+        - "Workflow Runs links to Belief Maps, Nodes, Timing Windows, Artifacts, Map Update Memos, and Border Issues."
+    clickup_execution_layer:
+      status: documented-not-built
+      artifacts:
+        - docs/belief-operations/k2m-clickup-workflow-architecture.md
+      next_requirement: >
+        Create the actual ClickUp spaces, folders, lists, statuses, custom fields, and
+        workflow automations from the documented architecture.
+    open_items:
+      - "Build the ClickUp execution structure from the architecture doc."
+      - "Seed the Notion databases with first canonical records and example workflow runs."
+      - "Scaffold the first two real skills: k2m-product-truth and k2m-network-topology-audit."
+      - "Decide whether live market intelligence will start with Tavily only or Tavily plus a second source."
+  - id: 2026-03-29-canonical-source-consolidation
+    date: 2026-03-29
+    type: documentation-architecture
+    status: completed
+    summary: >
+      Consolidated the belief-operations doctrine into a single canon folder, normalized the
+      core belief source filenames, and added an explicit source-map so agents know what to
+      read, when, and why.
+    decisions:
+      - id: D-005
+        title: Co-locate primary belief doctrine with the belief-operations system docs
+        rationale: >
+          The canonical belief texts were dispersed across docs root and transcript folders.
+          Consolidating them under docs/belief-operations/canon makes doctrine lookup
+          predictable for agents and humans.
+        artifacts:
+          - docs/belief-operations/canon/README.md
+          - docs/belief-operations/README.md
+          - docs/belief-operations/k2m-skill-architecture.md
+      - id: D-006
+        title: Normalize canonical filenames and add retrieval rules
+        rationale: >
+          The old filenames contained export artifacts, inconsistent numbering, and spacing.
+          Normalized filenames plus a retrieval matrix make automated lookup simpler and less
+          error-prone.
+        artifacts:
+          - docs/belief-operations/canon/manifestos/marketing-cartographers-manifesto.md
+          - docs/belief-operations/canon/manifestos/belief-system-manifesto.md
+          - docs/belief-operations/canon/transcripts/00-the-map-is-not-the-market.md
+          - docs/belief-operations/canon/transcripts/01-marketing-is-a-belief-update-operation.md
+          - docs/belief-operations/canon/transcripts/02-the-invisible-mechanics-of-market-belief.md
+          - docs/belief-operations/canon/transcripts/03-how-defining-moments-update-belief-systems.md
+          - docs/belief-operations/canon/transcripts/04-the-invisible-architecture-of-belief.md
+          - docs/belief-operations/canon/transcripts/05-internal-resistance-and-the-architecture-of-trust.md
+          - docs/belief-operations/canon/transcripts/06-how-belief-architecture-moves-populations.md
+    local_changes:
+      updated:
+        - docs/belief-operations/README.md
+        - docs/belief-operations/k2m-skill-architecture.md
+        - docs/belief-operations/evolution-log.yaml
+      created:
+        - docs/belief-operations/canon/README.md
+      moved:
+        - docs/THE_MARKETING_CARTOGRAPHERS_MANIFESTO.md -> docs/belief-operations/canon/manifestos/marketing-cartographers-manifesto.md
+        - docs/belief_system_manifesto(1).md -> docs/belief-operations/canon/manifestos/belief-system-manifesto.md
+        - docs/transcript/00 - The_Map_Is_Not_the_Market_2 (1).md -> docs/belief-operations/canon/transcripts/00-the-map-is-not-the-market.md
+        - docs/transcript/01_-_Marketing_is_a_belief_update_operation.md -> docs/belief-operations/canon/transcripts/01-marketing-is-a-belief-update-operation.md
+        - docs/transcript/02_-_The_Invisible_Mechanics_of_Market_Belief.md -> docs/belief-operations/canon/transcripts/02-the-invisible-mechanics-of-market-belief.md
+        - docs/transcript/03_-_How_Defining_Moments_Update_Belief_Systems.md -> docs/belief-operations/canon/transcripts/03-how-defining-moments-update-belief-systems.md
+        - docs/transcript/04_-_The_Invisible_Architecture_of_Belief.md -> docs/belief-operations/canon/transcripts/04-the-invisible-architecture-of-belief.md
+        - docs/transcript/05_-_Internal_Resistance_and_the_Architecture_of_Trust.md -> docs/belief-operations/canon/transcripts/05-internal-resistance-and-the-architecture-of-trust.md
+        - docs/transcript/How_belief_architecture_moves_populations .md -> docs/belief-operations/canon/transcripts/06-how-belief-architecture-moves-populations.md
+  - id: 2026-03-30-live-system-hardening-and-agent-handoff
+    date: 2026-03-30
+    type: operating-state
+    status: in-progress
+    summary: >
+      Verified live ClickUp and Notion access through MCP, confirmed the boundary between
+      MCP-managed operations and UI-managed configuration, and added an agent-visible handoff
+      log so future sessions can see the current execution state without inferring it from
+      scattered docs.
+    decisions:
+      - id: D-007
+        title: Add a dedicated agent handoff log for current execution state
+        rationale: >
+          The evolution log is useful for milestone history, but it is too coarse for live
+          coordination between agents. A separate handoff log gives current state, touched
+          systems, and next actions without turning the historical log into an operating
+          scratchpad.
+        artifacts:
+          - docs/belief-operations/agent-handoff-log.md
+          - docs/belief-operations/README.md
+      - id: D-008
+        title: Treat evolution-log.yaml as milestone history, not day-to-day execution tracking
+        rationale: >
+          The system needs both a historical ledger and a current-state ledger. Mixing them
+          would make it harder for agents to know what is truly current versus what is merely
+          historically recorded.
+        artifacts:
+          - docs/belief-operations/evolution-log.yaml
+          - docs/belief-operations/agent-handoff-log.md
+    live_system_verification:
+      clickup_mcp:
+        status: verified
+        capabilities:
+          - read_task
+          - search
+          - update_task
+          - read_list
+          - update_list
+        known_gap: >
+          Custom-field creation, view setup, dashboard configuration, and deeper workspace
+          shaping still require UI automation in the current tool surface.
+      notion_mcp:
+        status: verified
+        capabilities:
+          - fetch
+          - search
+          - query_schema_and_views
+        known_gap: >
+          Depending on the loaded namespace, direct record creation and editing may still
+          require UI work for some sessions.
+      playwright_live_changes:
+        status: completed
+        clickup_objects:
+          - workspace: "K2M Internal OS"
+          - list: "00 Upstream Truth > Product Truth Updates"
+          - task_id: "869cp7hfc"
+        notion_objects:
+          - database: "Product Truth Registry"
+          - record_title: "Student Beachhead - Layer 0 Product Truth"
+    local_changes:
+      updated:
+        - docs/belief-operations/README.md
+        - docs/belief-operations/evolution-log.yaml
+      created:
+        - docs/belief-operations/agent-handoff-log.md
+    next_focus:
+      - "Build a live marketing-intelligence coverage tracker."
+      - "Normalize 06 Live Intelligence into a real execution surface."
+      - "Seed the first Workflow Run, Map Update Memo, and Evidence Source."
+  - id: 2026-03-30-phase-1-review-and-sprint-condensation
+    date: 2026-03-30
+    type: implementation-planning
+    status: completed
+    summary: >
+      Added a dedicated adversarial-review prompt for testing Phase 1 maturity and
+      condensed the broad belief-operations architecture into one executable Sprint 01 so
+      agents can review and implement against the same operating target.
+    decisions:
+      - id: D-009
+        title: Use a dedicated adversarial review prompt to test maturity claims
+        rationale: >
+          Friendly reviews tend to reward architecture quality even when runtime execution is
+          still thin. A dedicated adversarial prompt forces agents to separate documented
+          structure from live operational capability.
+        artifacts:
+          - docs/belief-operations/k2m-adversarial-review-prompt.md
+      - id: D-010
+        title: Condense the initial build into one executable implementation sprint
+        rationale: >
+          The system-level build order spans multiple documents and can feel too abstract in
+          practice. One cross-document Sprint 01 gives agents a concrete implementation unit
+          with exit criteria that can be reviewed and run.
+        artifacts:
+          - docs/belief-operations/k2m-implementation-sprint-01.md
+          - docs/belief-operations/README.md
+          - docs/belief-operations/agent-handoff-log.md
+    local_changes:
+      updated:
+        - docs/belief-operations/README.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+      created:
+        - docs/belief-operations/k2m-adversarial-review-prompt.md
+        - docs/belief-operations/k2m-implementation-sprint-01.md
+  - id: 2026-03-30-adversarial-phase-1-review
+    date: 2026-03-30
+    type: quality-review
+    status: completed
+    summary: >
+      Executed adversarial Phase 1 review using live MCP inspection of ClickUp and Notion.
+      Phase 1 verdict: Not complete. Five components assessed; two are absent, three are
+      scaffold only. Ten findings identified. Corrective tasks created in ClickUp. Milestone
+      status updated to reflect actual live-system state.
+    phase_1_verdict: not-complete
+    truth_table:
+      product_truth: scaffold-only
+      clickup_execution: scaffold-only
+      notion_canonical_layer: scaffold-only
+      live_intelligence_loop: absent
+      coverage_tracking: absent
+    findings_summary:
+      critical:
+        - "Notion Product Truth Registry record is titled but blank — all fields empty"
+        - "Workflow Runs, Map Update Memos, Evidence Sources, Border Issue Log all have 0 records"
+        - "06 Live Intelligence folder has 0 tasks — no intelligence cycle has run"
+        - "No marketing-intelligence coverage tracker exists"
+      high:
+        - "ClickUp task 869cp7hfc is 'to do / Draft' — not locked"
+        - "K2M Marketing Intelligence space has 4 tasks total, none complete, 3 unassigned"
+        - "05 Border Repairs missing Truth-Territory Border list (now added: 901216747417)"
+      medium:
+        - "ClickUp task lacks most required custom fields from architecture spec"
+        - "evolution-log notion_bootstrap status corrected from 'completed' to 'schema-created'"
+    corrective_actions:
+      clickup_tasks_created:
+        - id: "869cp9thv"
+          name: "PHASE 1 FIX: Populate Notion Product Truth Registry record"
+          list: "Product Truth Updates"
+          priority: urgent
+        - id: "869cp9tj6"
+          name: "PHASE 1 FIX: Run first live intelligence cycle"
+          list: "Map Update Runs"
+          priority: urgent
+        - id: "869cp9tj8"
+          name: "PHASE 1 FIX: Build marketing-intelligence coverage tracker"
+          list: "Workflow Maintenance"
+          priority: urgent
+        - id: "869cp9tjb"
+          name: "PHASE 1 FIX: Seed first Workflow Run record in Notion"
+          list: "Review Queue"
+          priority: high
+      clickup_lists_created:
+        - id: "901216747417"
+          name: "Truth→Territory Border"
+          folder: "05 Border Repairs"
+    local_changes:
+      updated:
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+  - id: 2026-04-08-adversarial-phase-1-rereview
+    date: 2026-04-08
+    type: quality-review
+    status: completed
+    summary: >
+      Re-ran the adversarial Phase 1 review against raw live Notion pages and ClickUp tasks.
+      Core student canonical records are now real and approved, but the workflow governance
+      chain is still open and the operating graph remains thinner than the documented
+      architecture. Verdict moved from not-complete to partially-complete, not complete.
+    phase_1_verdict: partially-complete
+    truth_table:
+      product_truth: operational
+      clickup_execution: partially-operational
+      notion_canonical_layer: partially-operational
+      live_intelligence_loop: partially-operational
+      coverage_tracking: partially-operational
+    findings_summary:
+      critical:
+        - "Workflow Run 333b7a9d-6129-8123-b378-c75d2b6bfdd5 remains In Progress with no Owner or Completed On; Map Update Memo 333b7a9d-6129-818b-af71-c5fa86944289 remains Draft with no Owner or Reviewed By."
+        - "The student slice exists, but required Notion relations, ownership metadata, and ClickUp field coverage are still missing across the live operating graph."
+      high:
+        - "agent-handoff-log current operating truth was overstating Phase 1 as complete."
+        - "Coverage Tracker 333b7a9d-6129-8112-84b4-d2672ef05ffb is visible but stale against the approved Product Truth / Belief Map / Topology Map state."
+    corrective_actions:
+      clickup_tasks_created:
+        - id: "869ctznm8"
+          name: "PHASE 1 REVIEW REPAIR: Close student intelligence governance chain"
+          list: "Review Queue"
+          priority: urgent
+        - id: "869ctznma"
+          name: "PHASE 1 REVIEW REPAIR: Backfill canonical graph ownership and relations"
+          list: "Workflow Maintenance"
+          priority: urgent
+    local_changes:
+      updated:
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+  - id: 2026-04-10-prd-v0-2-doc-reconciliation
+    date: 2026-04-10
+    type: documentation-architecture
+    status: completed
+    summary: >
+      Reconciled the belief-operations operating docs against PRD v0.2 so the documentation
+      hierarchy now consistently reflects canon as philosophy, the PRD as implementation
+      scope, and the runtime/handoff docs as current-state truth. Corrected stale claims
+      around skill count, build order, runtime completeness, evidence discipline, and the
+      required last-mile cascade from intelligence to content, fixes, retention, and referral.
+    decisions:
+      - id: D-022
+        title: Treat PRD v0.2 as the implementation contract across the belief-operations doc suite
+        rationale: >
+          The docs had drifted into multiple competing scopes and stale sequences. The
+          reconciliation standard is now explicit: canon for doctrine, PRD for what gets
+          built, and handoff/runtime docs for current state.
+        artifacts:
+          - docs/belief-operations/k2m-belief-operations-os.md
+          - docs/belief-operations/k2m-skill-architecture.md
+          - docs/belief-operations/README.md
+      - id: D-023
+        title: Mark target architecture separately from implemented runtime
+        rationale: >
+          Several docs were implying that n8n loops, last-mile cascades, and standalone
+          belief-ops skills were already operational. The reconciled docs now distinguish
+          implemented repo surfaces from target architecture and partial runtime.
+        artifacts:
+          - docs/belief-operations/k2m-live-market-intelligence-os.md
+          - docs/belief-operations/k2m-runtime-state.md
+          - docs/belief-operations/k2m-clickup-workflow-architecture.md
+          - docs/belief-operations/k2m-notion-information-architecture.md
+      - id: D-024
+        title: Make Four Forces, evidence tiers, disconfirmation, and external metrics mandatory across docs
+        rationale: >
+          PRD v0.2 changed the operating contract materially. The reconciled docs now carry
+          the same typed belief schema, governance thresholds, anti-sycophancy rules, and
+          market-facing success metrics instead of leaving them implicit or optional.
+        artifacts:
+          - docs/belief-operations/k2m-governance-and-map-update-protocol.md
+          - docs/belief-operations/k2m-tool-operating-contract.md
+          - docs/belief-operations/k2m-implementation-sprint-01.md
+    local_changes:
+      updated:
+        - docs/belief-operations/k2m-belief-operations-os.md
+        - docs/belief-operations/k2m-skill-architecture.md
+        - docs/belief-operations/k2m-live-market-intelligence-os.md
+        - docs/belief-operations/k2m-notion-information-architecture.md
+        - docs/belief-operations/k2m-clickup-workflow-architecture.md
+        - docs/belief-operations/k2m-governance-and-map-update-protocol.md
+        - docs/belief-operations/k2m-expansion-loop-architecture.md
+        - docs/belief-operations/k2m-implementation-sprint-01.md
+        - docs/belief-operations/k2m-tool-operating-contract.md
+        - docs/belief-operations/k2m-runtime-state.md
+        - docs/belief-operations/agent-handoff-log.md
+        - docs/belief-operations/evolution-log.yaml
+        - docs/belief-operations/README.md
+    runtime_state:
+      canon_alignment: maintained
+      implementation_contract: prd-v0.2
+      phase_0_requirement: explicit
+      skill_inventory: "10 canonical skills"
+      phase1_verdict: partially-complete

@@ -1,0 +1,964 @@
+Welcome back to the deep dive.
+We are so glad to have you with us today.
+We are going to do something a little different this time around.
+A bit of a left turn for us.
+Yeah, exactly.
+Usually we're looking at a specific event or a person or maybe a company,
+you know, the external stuff.
+But today we're kind of looking at the lens itself.
+We're looking at the tool you use to process all of those other things.
+We're turning the camera inward.
+It's a tool for the brain.
+I like that.
+It's like software for the mind.
+Right.
+It's an operating system update.
+But before we get into the mechanics of it and before we introduce this specific
+concept, I want to start with a story.
+It's a parable actually.
+Okay.
+It was made famous by the writer David Foster Wallace.
+You might know it, but it really bears repeating because it sets the stage for
+this perfectly.
+Ah, the water parable.
+Yes, it's a classic for a reason.
+It is.
+So for anyone who hasn't heard it or, you know, just as a refresher picture
+this, you have two young fish swimming along, right?
+They're just running their own business, chatting, doing whatever fish do.
+I don't know.
+I'm talking about algae or the current fish sports, exactly.
+And they happen to pass an older fish swimming the other way.
+The older fish just nods at them and says, morning boys, how's the water?
+Simple question.
+So simple.
+And the two young fish swim on for a bit, totally silent.
+And then eventually one of them looks over at the other and just goes, what the hell is water?
+It is such a perfect encapsulation of the problem we're tackling today.
+It really is because the point isn't about marine biology.
+It's not about fish.
+It's about us, of course.
+It's about the human condition.
+The most obvious important realities are often the ones that are the hardest to
+see and the hardest to talk about.
+They're just ambient.
+They're everywhere.
+So you don't notice them.
+Right.
+We're swimming in these systems, assumptions and cognitive
+defaults, our own version of water that we don't even notice are there.
+Precisely, we are immersed in these environments and these, these ways of thinking
+from the moment we are born.
+We don't notice them because they are constant.
+And in the context of what we're discussing today, that water represents
+the cognitive lenses we use to interpret the world, which we are calling.
+We call them mental models, mental models.
+I want to pause on that term.
+Mental models sounds a bit like, I don't know, corporate jargon, doesn't it?
+It can.
+Yeah.
+Or something very academic or maybe something purely academic
+that belongs in a psychology textbook.
+Yeah.
+But the source material we're looking at today, which centers on the work of
+Shane Parrish and his research organization, Farnham Street, argues that this
+isn't just theory.
+It's not just for intellectuals.
+It's the operating system for, well, for pretty much everything.
+It is.
+And it's definitely not just academic.
+I mean, think of it this way.
+The world is infinite in its detail.
+You cannot possibly keep every single fact, every variable, every interaction of
+the universe in your head at once.
+Your brain would just short circuit.
+It would.
+It's physically impossible.
+The bandwidth of reality is way too high for the bandwidth of the human mind.
+So we simplify.
+We have to compress the data.
+Basically.
+We have to.
+We use these chunks of knowledge to simplify that complexity into something
+manageable.
+That is a mental model.
+It's a representation of how something works.
+It's a heuristic, a shortcut, like a map, exactly like a map.
+A map isn't the territory.
+If a map showed every single blade of grass, every pothole, every single piece
+of gum on the sidewalk, it would be useless.
+It would be the size of the city.
+It would be the size of the city itself and completely useless.
+Right.
+A map is a reduction.
+It strips away the noise to help you navigate from point A to point B.
+And the thing is we all use mental models, whether we realize it or not.
+Right.
+The problem is most of the time, like those young fish, we don't know we're
+using them.
+We don't know what the hell water is.
+And that's the danger, isn't it?
+Yeah, if you don't know you're using a model, you can't tell when it's the wrong
+model.
+Exactly.
+You can't fix it when it's broken.
+You just think, this is how the world is, rather than this is how I am seeing the
+world.
+Exactly.
+If you're trying to navigate the streets of Paris using a map of London, you're
+going to be very, very frustrated, no matter how smart you are, doesn't matter
+how fast you are or how well you speak the language.
+The tool itself is wrong, which brings us to the origin story of this specific
+deep dive.
+We're looking at Shane Parrish's project, the great mental models, but to really
+understand why this matters and why this particular approach to thinking has
+become so popular, we have to look at where Parrish came from.
+Yeah, his background is key to this whole thing because he didn't start as a
+philosopher or some guru sitting on a mountaintop.
+No, far from it.
+And his backstory is fascinating because it highlights exactly why raw
+intelligence just isn't enough.
+You can have a sky high IQ and still be completely blind to the water.
+So where did he start?
+Parrish started his career at an intelligence agency, a three letter
+agency.
+It's just say a major intelligence agency.
+And he started there right around a pivotal moment in history, September 2001.
+Wow.
+Talk about a high pressure environment to start a job.
+The entire world changed overnight.
+It was an unimaginable shift.
+The stakes went from theoretical to, well, existential in a matter of hours.
+And here is the kicker.
+Parrish was a computer scientist.
+Okay.
+He had a degree in CS.
+He came from a world of ones and zeros, clear logic, binary outcomes in computer
+science.
+If the code compiles, it works.
+If it doesn't, it breaks.
+It's deterministic.
+It's a closed system.
+Exactly.
+But suddenly he's thrust into this geopolitical chaos, terrorism, counter
+insurgency, human intelligence.
+This isn't code.
+No, that's the messiest it gets.
+Exactly.
+He's dealing with people, families, culture, religious dynamics, centuries of
+history and messy interpersonal relationships.
+Ones and zeros do not help you understand human motivation or complex social
+systems.
+You can't code your way out of a cultural conflict.
+Not at all.
+I can just see the disconnect.
+He's got a toolkit built for this sterile environment, a laboratory, essentially.
+And he's trying to use it in a jungle.
+A jungle.
+Yeah.
+He talks about getting promoted, getting more responsibility and having this
+terrified realization that he was totally ill-equipped.
+I can imagine.
+He said his decisions affected employees, families, even the fate of countries.
+And he had no idea how to actually make a decision.
+He knew how to gather data.
+He knew how to code, but he didn't know how to think through complex problems.
+So what does he do?
+I mean, the standard move in that situation, the career ladder move is to go get an
+MBA, right?
+Go to business school, learn the frameworks, get the credentials.
+That's exactly what he did.
+He took time off, went to business school thinking, okay, this is where I learned
+the secret.
+This is where they teach wisdom.
+This is where the adults learn how to run the world.
+Right.
+And let me guess.
+It wasn't the holy grail he was looking for.
+Not even close.
+He hated it.
+He absolutely hated it.
+He called it grade school memorization.
+He realized he was just learning to pass tests, to memorize specific case studies
+that might not even apply to the real world.
+He wasn't learning how to navigate reality.
+He was learning how to play an academic game.
+He was learning vocabulary, not understanding.
+That is a very common frustration.
+You learn the theory, but the map just doesn't match the territory.
+But in a weird twist of fate, that disappointment led him to a discovery.
+He stopped caring about his classes.
+He kind of checked out mentally.
+And he started studying a guy who was casually mentioned in one of his
+classes, Charlie Munger, Warren Buffett's business partner, the very same, the vice
+chairman of Berkshire Hathaway, an absolute legend in the investing world.
+Right.
+But Munger is known for so much more than just picking stocks.
+He's known for his cognition.
+And Munger is the one who popularized this idea of the lattice work.
+I love this phrase, the lattice work.
+It feels sturdy.
+It feels architectural.
+It's a beautiful image.
+Munger's philosophy is that you can't just memorize isolated facts.
+If you just collect facts like in 1066, the battle of Hastings happened or the
+mitochondria is the powerhouse of the cell.
+They don't connect to anything.
+They don't hang together.
+They're like marbles rolling around in your head.
+They dump into each other, but they don't form a coherent picture.
+You need a structure to hold them.
+You need a shelf.
+You need a lattice work of models.
+You need the big ideas from biology, from physics, from history, psychology,
+microeconomics.
+And you need to hang your actual experiences on that lattice.
+That is how you get wisdom.
+That is how you see the water.
+And if you only have models from one discipline, then you're in trouble.
+If you're an economist, you try to solve every problem like an economist.
+To a man with a hammer, everything looks like a nail.
+Exactly.
+That is the classic failure mode.
+If you're a biologist, you see everything as evolution.
+If you're a psychologist, you see everything as childhood trauma.
+Munger argues you need a hammer, a screwdriver, a wrench and a saw.
+You need to be able to shift perspectives based on the problem in front of you.
+You need to be multi-dimensional.
+Yes.
+So today, our mission is to take one of those strands of the lattice work,
+probably one of the most heavy-duty load-bearing models in the whole toolkit
+and install it in our listeners' brains.
+We're giving them a new tool for the belt.
+That's the plan.
+And the model we are focusing on today is called second-order thinking.
+This is a big one.
+This is foundational.
+If you only take away one thing from this entire deep dive, this should probably be it.
+Really, that foundational.
+I think so.
+It is the differentiator between being smart and being wise.
+It distinguishes the amateur from the professional, truly.
+OK, so let's define it.
+What is second-order thinking?
+And I guess by definition, we have to define what first-order thinking is
+to really understand the difference.
+You need that contrast.
+Right.
+First-order thinking is what we do naturally.
+It's our default.
+It's intuitive.
+It's bad.
+It's easy.
+It's very easy.
+It is looking at an action and seeing the immediate result.
+It's that simple, linear A to B logic.
+I'm hungry, so I eat a donut.
+That's first order.
+Immediate gratification or just immediate cause and effect.
+I see a problem.
+I fix the problem.
+I feel a desire.
+I satisfy the desire.
+Right.
+And it's not necessarily bad.
+If a lion is chasing you, you don't need second-order thinking.
+No, you don't need to contemplate the ecosystem.
+You need to run.
+First-order thinking is efficient for survival.
+It's evolutionarily baked into us.
+But in a complex, modern world, it's just it's incomplete.
+And everyone can do it.
+Everyone can do first-order thinking.
+It's easier.
+It requires zero effort.
+Second-order thinking is asking the question and then what?
+And then what?
+It sounds so simple.
+It is simple to say, but it's incredibly hard to do consistently.
+It's thinking about the effects of the effects.
+It's holistic.
+It requires you to visualize the stream of consequences that flow from a
+decision, not just the splash it makes when it hits the water.
+You have to play the movie forward.
+That's a perfect way to put it.
+You have to play the movie forward.
+There's a quote in the source material for Margaret Atwood that I think
+sets the stakes for this really, really high.
+She says, stupidity is the same as evil if you judge by the results.
+Ooh, that hits hard.
+That stops you in your tracks.
+It does, because it means it doesn't matter if you meant well.
+It doesn't matter if your heart was in the right place.
+It doesn't matter if you're a quote unquote, nice person.
+The outcome is the outcome.
+If you used first-order thinking and caused a disaster because you didn't
+look ahead, the result is the same as if you were malicious.
+The world doesn't care about your intentions.
+It cares about the outcome.
+Exactly.
+A good intentions are not a valid excuse for poor thinking.
+You can pave the road to hell with them as the old saying goes.
+Second-order thinking is about taking responsibility for the complexity of the
+world.
+It's admitting that our actions ripple out in ways we might not immediately see.
+And it is our job to at least try and see them.
+So let's get into the weeds with this.
+Or maybe let's get into the snakes because the classic example of this, the one that
+really illustrates how badly things can go wrong when you ignore second-order
+effects is the cobra effect.
+The cobra effect.
+It is the perfect case study for the law of unintended consequences.
+It's almost comical and how perfectly it failed.
+So take us back, paint the picture for us.
+This is colonial India, right?
+Yes.
+We are in Delhi under British colonial rule.
+Imagine the scene.
+You have these British bureaucrats, you know, very stiff upper lip, trying to bring
+order to the chaos of India and they have a legitimate problem.
+OK, there are too many venomous cobras in the city.
+It's a public safety hazard.
+People are getting bitten.
+Livestock is dying.
+It's genuinely dangerous.
+OK, rational problem.
+Need fewer snakes.
+That seems pretty straightforward.
+No one wants cobras slithering around their garden.
+Right.
+So the bureaucrats sit down in our office, probably with a nice cup of tea and
+they use first order thinking they define the goal, reduce cobra population,
+then they define the method, incentivize people to kill cobras.
+Seems logical.
+You incentivize the behavior you want.
+I mean, that's basic economics.
+You offer a bounty, a cash reward for every dead cobra brought to the government.
+You crowdsource the solution.
+Yeah.
+And at first, it probably worked.
+This is the tricky part about first order of thinking.
+It usually works initially.
+The feedback loop starts positive.
+It does.
+People started bringing in dead snakes.
+The stockpile of dead snakes went up.
+The bureaucrats were probably high-fiving each other.
+They're looking at their charts saying, look at this data.
+We are winning the war on cobras.
+The program is a huge success.
+But they forgot to ask that one little question.
+They forgot to ask.
+And then what?
+They forgot to look at the other side of the transaction.
+They forgot that they were dealing with a complex adaptive system, specifically
+people trying to make a living.
+The citizens of Delhi, being rational economic actors, realized something very,
+very quickly.
+What's that?
+If the government is paying for dead cobras, then a dead cobra is a valuable
+commodity.
+It's like printing money.
+And if something is valuable, you want to produce more of it.
+You don't just want to find it.
+You want to make it hunting is hard.
+Manufacturing is much easier.
+Exactly.
+They started breeding cobras.
+Yes.
+They set up cobra farms in their backyards.
+They were raising these deadly snakes just to kill them and collect the bounty.
+It became a cottage industry.
+That is incredible.
+They literally manufactured the problem to sell the solution back to the
+government.
+They created the incentive.
+It is the ultimate backfire.
+Eventually, the government caught on.
+Maybe they noticed the snakes were all the same size or that the people
+bringing them in didn't look like hunters.
+Who knows?
+But they realized they were paying for snakes that were being raised specifically
+to be sold to them.
+So the population of wild cobras hadn't gone down at all.
+No, the population of captive cobras had exploded.
+Oh, this is not going to end well.
+So they did the next logical thing.
+They canceled the program.
+No more money for snakes.
+The party is over.
+And here comes the second order tsunami.
+The breeders are now stuck with pens full of worthless cobras.
+They can't sell them to the government.
+They certainly don't want to pay to feed them.
+Snakes eat meat that costs money.
+So what do they do?
+They dump them.
+They liquidate the inventory.
+They just open the cages and release them into the streets of Delhi.
+Oh, no.
+So now the population of wild cobras in the city is actually higher than it
+was before the program started.
+So they have the original wild snakes, plus thousands of angry
+farm raised snakes now loose in the city.
+They spent money, they wasted time, and they made the problem significantly worse.
+They achieved the exact opposite of their stated goal.
+That is the cobra effect.
+And it happens whenever you try to intervene in a system without fully
+understanding the incentives you're creating.
+You fix the immediate symptom, but you break the entire system.
+It's like that game whack-a-mole.
+You hit one thing down and three more pop up somewhere else because you aren't
+looking at the mechanism underneath the board.
+You're just reacting to the light.
+That's a great analogy.
+In economics, this is often called good hearts law.
+When a measure becomes a target, it ceases to be a good measure.
+So that again, when a measure becomes a target, it ceases
+to be a good measure.
+The British made dead snakes, the target.
+So the population optimized for dead snakes, not fewer snakes.
+And those two very, very different things.
+Day and night.
+And this happens in the corporate world every single day.
+Think about a call center.
+A manager says, I want to increase efficiency.
+So I'm going to give a bonus for shorter call times.
+OK, first order.
+Shorter calls mean we handle more volume in a day.
+Makes sense.
+Seems perfectly logical, but what's the second order result?
+The employees start hanging up on people or they rush through the solution,
+providing terrible service.
+So the customer has to call back three or four times.
+So call volume actually goes up and customer satisfaction absolutely crashes.
+You got what you asked for, shorter calls, but you completely lost what you
+actually wanted, efficient service.
+It seems like second order thinking is largely about understanding incentives
+and trade-offs.
+It is.
+And speaking of trade-offs, the source material brings up another example
+that's a bit more physical, closer to the world of engineering.
+It's the idea of traction.
+Right.
+The tire example, this is great for understanding that trade-offs are
+basically unavoidable.
+You can't achieve physics.
+So walk us through it.
+OK, so think about designing a car.
+You're an engineer.
+You might think safety is the number one priority.
+We need more traction.
+We need the car to grip the road perfectly.
+Sure.
+Better grip, safer stops, less skidding in the rain.
+First order thinking says, maximizing traction is a very good thing.
+Why wouldn't we want maximum traction?
+But you can't merely do one thing.
+Garrett Harden, the ecologist, he had this great law.
+You can never merely do one thing.
+Yeah, everything is connected.
+If you maximize traction, you effectively increase the friction
+or resistance against the road, which means the engine has to work harder
+to move the car forward.
+Resistance requires energy to overcome.
+Right.
+So your fuel efficiency plummets.
+Yeah, now you're burning more gas to go the same distance,
+which means you're releasing more CO2 into the atmosphere, but it gets worse.
+High friction means high wear and tear on the tires on the tires and on the road itself.
+You are literally grinding the asphalt down faster.
+So now the government has to repave the roads more often.
+That costs tax money.
+It causes traffic delays and the tire wear itself.
+Right. Plus the tire wear releases rubber
+particles into the air and water, which is a whole other environmental hazard.
+So your safer car ends up contributing to environmental damage,
+higher gas prices for the consumer and crumbling infrastructure.
+It's a trade off.
+Second order thinking isn't about not improving traction.
+Maybe you do want safer tires.
+Maybe that really is the priority.
+But second order thinking is about understanding the cost.
+It's about knowing that when you pull a lever over here, a gear turns
+somewhere way over there.
+You don't get the benefit for free.
+I never.
+I feel like this connects to that idea of being hitched to everything else.
+That's the John Muir quote when we try to pick out anything by itself,
+we find it hitched to everything else in the universe.
+You pull on a thread and the whole fabric moves.
+Let's look at a scenario where this gets, well, frighteningly real.
+We've talked about snakes and tires, which are somewhat contained examples,
+but the source material goes deep into biology, specifically antibiotics.
+This is one of the most pressing examples of second order failure we face
+as a species today.
+It's a slow motion car crash that we've been watching for decades.
+Set the scene for us.
+This starts with agriculture, right?
+It wasn't originally about treating sick people.
+It was about efficiency and farming.
+It was purely about economics.
+Decades ago, farmers discovered something really interesting.
+If you feed small, sub-therapeutic doses of antibiotics
+to livestock, cows, pigs, chickens, they gain weight faster.
+Wait, really?
+Why does medicine make them fatter?
+That seems completely counterintuitive.
+It changes their gut microbiome.
+It alters the bacteria in their stomach in a way that increases
+nutrient absorption from their food.
+So for the same amount of grain, you get a heavier animal.
+You get more meat per dollar of feed.
+Exactly.
+Yeah.
+So if I'm a farmer operating on first order thinking, this is an absolute no-brainer.
+I spend pennies on antibiotics.
+My animals get bigger.
+And since I sell by the pound, my profit margin goes way up.
+It looks like a brilliant business decision.
+It's efficient.
+It even lowers the cost of meat for everyone.
+That's the first order effect.
+Everyone wins, right?
+The farmer gets rich, the consumer gets cheap burgers.
+And then what?
+The and then what is genuinely terrifying?
+You are creating a biological training ground for bacteria.
+By constantly exposing these bacteria to low levels of antibiotics,
+you aren't killing all of them.
+You are just harassing them.
+You're weeding out the weak ones.
+It's Evolution 101.
+It's survival of the fittest in a microscopic boot camp.
+Exactly.
+You are applying selection pressure.
+The bacteria that happen to survive are the ones that have some random mutation
+that allows them to resist the drug.
+So they survive, they reproduce, then you hit them again.
+The ones that survive that round are even tougher.
+You are selectively breeding super soldiers.
+You are training the enemy.
+We call them superbugs.
+And here is a truly scary part.
+Bacteria can share DNA.
+They can pass these resistance traits to other bacteria like their trading cards.
+And these bugs, they don't stay on the farm.
+No, they enter the food chain.
+They get into the groundwater through farm runoff.
+They get onto the meat itself during processing.
+And eventually they end up in us.
+So because a farmer wanted to squeeze an extra 5% profit margin out of a cow
+in say 1990, right, someone today might die from a simple infection,
+like a scratch or urinary tract infection that we can no longer treat
+because our best drugs don't work anymore.
+The penicillin just bounces on.
+That is the second order reality.
+The local optimum, the profit for one farmer leads to a global disaster,
+the loss of antibiotic efficacy for the entire human race.
+It's heavy.
+It really makes you realize that we are just swimming in this web of connections.
+It's not some abstract philosophy.
+It's literally life and death.
+And it highlights why second order thinking is so difficult.
+The gap between the cause, you know, feeding the cow and the effect,
+the superbug is huge.
+It's separated by time and space.
+Right, first order thinking is easy because the feedback is immediate.
+I touch the hot stove, I get burned, I learn instantly.
+But with the antibiotics, the burn happens 20 years later to someone
+on the other side of the world.
+Exactly, which is why we need these mental models.
+We need to intellectually bridge that gap because our instincts will not do it
+for us. Our instincts are built for the savannah run from the lion.
+They aren't built for complex global supply chains or microbial evolution.
+Not at all.
+We have to override our default settings.
+Let's shift gears a bit.
+We've talked biology and ecology.
+I want to talk about how this applies to people, to society,
+to the way we interact with each other, because the source is mentioned a metaphor
+from Warren Buffett that I found hilarious and also painfully accurate.
+The parade.
+Ah, yes, the parade metaphor.
+Yeah.
+This explains so much about social anxiety, career ladders, the whole rat race.
+So imagine a crowd watching a parade.
+Everyone is standing on the ground.
+You want a better view.
+First order thinking kicks in immediately.
+If I stand on my tiptoes, I will be taller.
+I will see better and it's true for a second.
+You pop up, you get a clear view over the hat of the guy in front of you.
+You have a temporary advantage.
+Right.
+You have achieved a positional advantage, but then the person behind you,
+they can't see anymore because you're blocking them.
+So what do they do?
+They stand on their tiptoes, then the person behind them and the person next
+to you sees that you're taller, so they stand on their tiptoes too.
+And within a minute, the entire crowd is standing on their tiptoes.
+And here is the second order result.
+No one is seeing any better than they were when they were flat footed.
+Not at all.
+The relative height is exactly the same.
+Everyone is just risen by three inches.
+But now everyone is uncomfortable.
+Everyone has sore calves.
+Everyone is worse off.
+Everyone is worse off because they tried to optimize their immediate position
+without considering how the system, the crowd would react.
+They assumed the crowd was static, but the crowd is dynamic.
+This feels like it applies to so many things, like keeping up with the Joneses.
+It's exactly that.
+Think about degree inflation in the job market.
+30 years ago, a college degree was a real differentiator.
+It was like standing on your tiptoes.
+You stood out from the crowd.
+It signaled something special.
+So everyone got a degree.
+And now almost everyone applying for that white collar job has a degree.
+So the degree doesn't guarantee you a great job anymore.
+It's just the bare minimum requirement to even get an interview.
+You're not seeing the parade any better.
+You're just exhausted from the student loan debt.
+The baseline has shifted for everyone.
+And in business, this is the classic arms race.
+Marketing is a perfect example.
+If one company starts screaming louder, you know, buying Super Bowl ads,
+spamming emails, they get a temporary boost.
+They get attention, but then their competitors have to scream louder just to be heard.
+So the noise level of the whole industry goes up.
+Nobody hears anything.
+The customers get annoyed and tune it all out.
+And now everyone is spending more money on ads just to maintain their original market share.
+It's the parade problem.
+You spend more just to stay in the same place.
+So the question becomes, how do you break out of that?
+How do you use second order thinking to win in a social environment
+without just joining the race to the bottom?
+Well, one of the most powerful applications mentioned in the text is in the realm of trust.
+Trust.
+Now that's an interesting pivot.
+How does that fit in?
+Trust is inherently a second order phenomenon.
+It is built entirely on the future.
+OK, break that down for me.
+Why is trust second order?
+Because building trust requires sacrificing the first order gain.
+Think about a negotiation or even just something simple, like selling a used car.
+OK, I'm selling a car and I know it's got a wonky transmission.
+But if the engine is cold, you can't tell it runs smooth for the first 10 miles.
+First order thinking says, I want to maximize my money right now
+in this one transaction.
+If I just hide the fact that the transmission is a little wonky,
+I can sell it for an extra $500.
+I win a media gain.
+I walk away with more cash in my pocket.
+That's my business, right?
+Is it? What is the second order effect?
+Well, the buyer drives home.
+The car warms up.
+The transmission starts to slip.
+They get furious.
+They realize I completely ripped them off and they tell their friends.
+They post a scathing review online.
+Your reputation is absolutely torched.
+You have ensured that the interaction is a one off.
+I can never do business with that person or their network ever again.
+You maximize the transaction, but you completely destroy the relationship.
+Whereas second order thinking would be telling the truth.
+Right. You say, hey, just so you know, the transmission is a little sticky.
+When it gets hot, I'll knock $500 off the price and get it fixed down the line.
+So you lose the immediate money.
+That's the cost of second order thinking.
+You leave money on the table right there in the moment.
+You pay the cost up front.
+But the buyer thinks, wow, this person is honest.
+They could have easily ripped me off, but they didn't.
+And six months later, when their friend needs a car, who do they call?
+They call you or they hire you for a job or they recommend you for something
+else entirely.
+You traded a small short-term pain for a massive long-term asset,
+a reputation for trustworthiness.
+It's game theory, isn't it?
+It's the iterated prisoner's dilemma.
+If you play a game just once, it makes sense to cheat.
+But if you play the game over and over again with the same people, which is
+what life is, you win by cooperating.
+You win by playing for the second order.
+Life is a repeated game.
+I like that.
+We often treat people like we'll never see them again.
+Like we're just anonymous traffic on a highway, but in a career or in a
+community, we see the same people for decades.
+The world is smaller than we think and memories are a lot longer than we think.
+A bad reputation is a very, very expensive second order consequence.
+OK, I want to move to what I think is the most dramatic example in our
+stack today.
+We're going way, way back to ancient Egypt.
+Cleopatra.
+Yes.
+Now, usually when we hear about Cleopatra, it's all romance or Elizabeth
+Taylor or tragedy.
+We think of her as a seductress, but the source material treats her as a
+master strategist of second order thinking, a geopolitical genius.
+She had to be.
+If she had used first order thinking, she would have been dead at 20.
+Let's look at her situation in 48 BC.
+It was absolutely dire.
+She's a swamp, right?
+Literally, basically, she has been ousted from the palace in Alexandria.
+She is technically coregent with her younger brother, Ptolemy, the
+third thief, but he hates her and he wants to kill her.
+She's living in a desert encampment on the borders of Egypt.
+She has no army to speak of, no money.
+And the most powerful army in the world is sailing into town.
+The Romans, led by Julius Caesar, are coming to sort things out.
+So first order thinking in that situation would be panic or maybe just
+trying to raise a small mercenary army to fight her brother immediately,
+just survival mode, right fight or flight.
+Those are first order reactions.
+I need to protect myself right now, but Cleopatra plays the long game.
+She knows she can't defeat her brother militarily on her own.
+It's impossible.
+And she knows the Romans, specifically Julius Caesar, are the key variable.
+They are the kingmakers, but she can't even get to Caesar.
+Her brother's guards are blocking everything.
+He controls the entire city.
+So she has to think two, three steps ahead.
+She has to work backward from the goal goal.
+Sit on the throne of Egypt, requirement, remove brother,
+requirement for removal, the Roman army, requirement for the army,
+Caesar's support, requirement for support, meet Caesar.
+Step one, get into the palace alive.
+And this is where the famous rug story comes in.
+The laundry bag of the rug, yes.
+Historia is different on the container, but the strategy is the same.
+She's muggles herself past her brother's guards.
+It's a huge risk, a massive first order risk.
+If she's caught, she's dead on the spot.
+Her brother would execute her instantly.
+But she isn't looking at the immediate danger.
+She is looking at the second order payoff.
+She knows that she can just get in the room with Caesar.
+She could leverage her intellect and her status as queen to win him over.
+And it works.
+It works brilliantly.
+She doesn't just show up and ask Caesar for protection.
+She aligns her interests with his.
+She makes herself indispensable to Rome's stability in the region.
+Rome needs grain.
+Egypt has grain.
+Rome needs a stable puppet ruler.
+She is far more competent than her bratty little brother.
+She isn't just reacting to the immediate threat.
+She is constructing a system where she is the only logical choice for queen.
+She was playing chess while everyone else was playing checkers.
+That's the perfect description.
+She was willing to endure the immediate humiliation and risk of being smuggled
+into a palace like dirty laundry because she saw the second order effect
+sitting on the throne.
+She saw the reality that others missed because they were too focused on the
+guards at the door.
+There's another historical figure in the text who used this kind of thinking,
+but not for war or power for persuasion.
+Mary Wolfstonecraft.
+Yes, the 18th century philosopher.
+This is a masterclass in how to win an argument when the entire deck is
+stacked against you.
+So the context, 1700s England, women have basically zero rights.
+None.
+They are the legal property of their fathers or their husbands.
+They can't own property.
+They can't vote.
+They have very limited access to any real education.
+Now, imagine you are Mary Wolfstonecraft.
+You want to argue for women's rights.
+The first order argument is the obvious one.
+This is unfair.
+We are human beings.
+Give us rights because it is the moral thing to do.
+And that is a valid moral argument.
+Today we all agree with it.
+It seems obvious, but to the men in power at that time, the politicians,
+the thinkers, the husbands, it wasn't persuasive at all.
+They didn't care about fairness in the abstract.
+No, they cared about stability, the economy, and a well-ordered household.
+So she just stood on a box and screamed, it's not fair.
+She would have been completely ignored or worse dismissed as hysterical.
+It wouldn't have moved the needle one inch.
+So she used second order thinking.
+She stepped outside of her own desire for rights and asked, OK, if women are
+educated and have rights, what happens next?
+How does that affect men?
+Oh, that's so clever.
+She looked for the inches convergence.
+She looked for the win-win.
+She argued that if you educate women, they become better wives.
+They become better mothers.
+They become more competent economic partners in the household.
+She argued for the beneficial consequences to society as a whole.
+Right.
+She said, essentially, you men, you want smart children, don't you?
+Well, you need smart mothers to raise them.
+You want a well-run household that saves you money.
+You need an educated wife to manage the accounts.
+An uneducated, frivolous wife is a drain on your resources.
+She didn't argue for rights in a vacuum.
+She argued for the downstream effects, empower me and your life gets better.
+And that is the absolute key to persuasion.
+People don't care about your first order desire, whether it's, I want to raise,
+I want rights or I want to make this sale.
+They care about the second order effect on them.
+If I give you a raise, you will work harder and make me look good to my boss.
+That's the argument that works.
+That is a massive takeaway for anyone trying to convince a boss or a partner of
+something, don't tell them what you want.
+Tell them what they get as a result of what you want.
+Connect the dots for them.
+Show them the future where they win, too.
+OK, we have covered a lot of ground here.
+We've seen how this works in history, in biology, in social crowds.
+We've seen the power of asking and then what.
+But I do want to play devil's advocate for a second.
+Please do.
+It's important to stress test these models.
+We don't want to just accept them blindly.
+Is it possible to think too much?
+Ah, the paralysis.
+Great.
+If I'm always thinking if I do A, then B happens, which could lead to C, then D, then E.
+I might never get out of bed in the morning.
+I might be terrified that stepping on an aunt will cause a hurricane in Japan.
+The butterfly effect gone wrong.
+Yeah.
+Yes, this is a real danger.
+It's often called analysis paralysis with a slippery slope fallacy.
+And we see this in politics all the time.
+It's a favorite tactic of fear mongering constantly.
+The prohibition argument is the classic one cited in the text.
+The argument against alcohol wasn't just alcohol is bad for you.
+It was a slippery slope argument.
+If you take one single drink, you will lose your inhibitions, then you will lose your job,
+then you will abandon your family, then you will die in a gutter.
+Therefore, one beer equals death.
+It sounds ridiculous when you say it that fast, but people really do think like that.
+If we allow this one small change, society itself will collapse.
+It's linear extrapolation without any nuance.
+It assumes a frictionless slide to disaster.
+It assumes that A inevitably leads to Z.
+But in the real world, friction exists.
+Things dampen outcomes.
+Most of the time, A leads to B and then it just stops, or A leads to B.
+But we can intervene before C happens.
+We have agency.
+So how do we balance it?
+How do we use second order thinking without getting paralyzed by anxiety or
+becoming a conspiracy theorist, seeing connections that aren't actually there?
+This is where we have to bring in another mental model, just briefly.
+Probabilistic thinking.
+Explain that connection for us.
+How does probability help us here?
+Second order thinking isn't about predicting the future perfectly.
+We aren't fortune tellers.
+We don't have a crystal ball.
+It's about weighing probabilities.
+You ask and then what?
+And you identify, say, three possible outcomes.
+OK, so you have outcome one, outcome two, and outcome three.
+Then you ask the crucial question, which of these is the most likely, not is it
+possible, because almost anything is possible.
+Is it probable?
+So if I drink one beer, is it possible I become an alcoholic and lose everything?
+Yes, it's possible.
+Is it probable statistically?
+No, the vast majority of people have a beer and are perfectly fine.
+So you don't base your decision on the worst case, one in a million.
+Second order effect.
+You base it on the most likely second order effect.
+We're looking for likely consequences.
+Yeah, not every conceivable nightmare.
+Exactly.
+We want to avoid stupidity, not avoid movement.
+We want to spot the cobra effect before we sign the law.
+But we don't want to be so afraid that we never issue any laws at all.
+It's a balance.
+It's an art.
+Avoid stupidity.
+That's a good mantra.
+It's surprisingly effective.
+Charlie Munger, who we started with, always said, it is remarkable how much
+long-term advantage people like us have gotten by trying to be consistently
+not stupid instead of trying to be very intelligent.
+And being consistently not stupid means avoiding those big
+second-order disasters.
+It means not breeding cobras.
+It means not creating superbugs.
+It means not destroying your reputation for a quick buck.
+If you just avoid those big giant potholes, the ones that wipe you out
+completely, you win by default because so many other people are falling into them.
+So as we wrap up here, let's bring it all back to the listener.
+We've given them the theory.
+We've given them the examples.
+But how do they actually do this in real time?
+When the pressure is on, it starts with the pause.
+Cup hop.
+That's it.
+First-order thinking is fast.
+It's a reflex.
+It happens in milliseconds.
+To do second-order thinking, you have to artificially slow down the process.
+You are facing a decision, a problem at work, a conflict at home with
+financial choice.
+You have a solution that pops into your mind.
+I'll just yell at my coworker or I'll just buy that expensive car.
+The easy answer.
+Right.
+Stop.
+Take a breath and ask the magic question.
+And then what?
+If I yell at my coworker and then what?
+And then you run the simulation in your head.
+Well, I'll feel better for about five minutes.
+That's first order.
+But then they will be defensive.
+They won't want to help me on the next project.
+The office tension will go up.
+My boss might hear about it.
+And then why?
+And then I might get passed over for a promotion in six much because I'm
+seeing is difficult or emotionally volatile.
+And suddenly yelling doesn't seem like such a good solution anymore.
+The immediate relief is not worth the long term cause.
+Suddenly you see the water, you see the system.
+It effectively turns a static picture into a movie.
+That is a beautiful way to put it.
+First order thinking looks at a snapshot.
+In this frame, I win.
+Second order thinking plays the movie.
+In the end credits, I lose.
+I love that.
+Don't live in the snapshot.
+Live in the movie.
+And remember, this is just one model.
+We talked about the lattice work.
+This is one heavy freight strand.
+But to really understand the world, you need to keep adding to that toolkit.
+Well, we certainly plan to help with that in future deep dives.
+We have a lot more models to cover.
+But for today, I want to leave everyone with a challenge.
+A little bit of homework.
+Look at a problem you're trying to solve right now.
+Maybe it's a diet.
+Maybe it's a hiring decision.
+Maybe it's a new policy change at your company.
+You probably have a solution in mind.
+Ask yourself, is there a cobra effect lurking in your solution?
+Are you unintentionally incentivizing the wrong thing?
+Are you breeding snakes?
+It's an uncomfortable question, but it's a lot better to ask it now
+than to deal with a pit of vipers later.
+On that note, thank you for swimming with us today.
+Keep your feet on the ground and keep your mind looking around the corner.
+See you next time on the deep dive.

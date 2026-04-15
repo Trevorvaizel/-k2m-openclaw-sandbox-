@@ -1,0 +1,11 @@
+.agent/
+.agents/
+.claude/
+.gemini/
+.obsidian/
+.smart-env/
+tmp/
+_bmad-output/
+_bmad/
+scripts/__pycache__/
+**/__pycache__/
