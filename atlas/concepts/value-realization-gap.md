@@ -2,6 +2,7 @@
 tags:
   - type/atomic
   - category/concept
+  - domain/product
   - domain/marketing
   - layer/invisible
 aliases:
@@ -10,37 +11,36 @@ aliases:
 
 # The Value Realization Gap
 
-> The gap between when the client pays (upfront fees, monthly billings) and when they experience the value (occupying the finished space). In architecture, this gap is measured in years. During those years, the client's belief in the value can erode â€” producing scope creep, second-guessing, and relationship breakdown.
+> The dangerous interval between promise and experienced value.
 
 ## Definition
-The gap between when the client pays (upfront fees, monthly billings) and when they experience the value (occupying the finished space). In architecture, this gap is measured in years. During those years, the client's belief in the value can erode â€” producing scope creep, second-guessing, and relationship breakdown.
+The value realization gap is the stretch of time and ambiguity between when a person commits to a product or service and when they experience undeniable value. During that interval, doubt reopens, alternatives reappear, and trust can erode.
 
 ## Pattern
-- The firm that delivers early proof â€” small visible wins, structured milestones, moments where the client sees their own vision taking shape â€” closes this gap continuously rather than depending on the completed building to justify the investment.
-- Force 7: The Expansion Loop
-- The natural tendency of genuine value to create more demand. In architecture, this happens when:
-- A completed building becomes a referral artifact (people visit it and ask who designed it)
-- The client's experience of the process makes them an evangelist for the firm
-- The firm's content creates a secondary cascade of people who heard about it from others
-- This loop compounds â€” but only if the firm's identity is visible enough for the loop to carry through weak-tie bridges into new clusters.
-- Force 8: The Trust Gradient
-- The force this entire document is organized around. In architecture, the most common failure is: optimizing a conversion that requires Layer 4 trust (the client's identity commitment) with content that has only built Layer 1-2 (portfolio and awards).
+- early proof closes the gap continuously
+- every extra step before first undeniable value is a trust leak
+- the longer the ambiguity persists, the more churn, second-guessing, or relationship erosion forms
+- the same structure appears in architecture, software, education, and other promise-evidence systems
+- compressing the gap is often more important than adding more promise on the front end
 
 ## Source-Grounded Example
-The firm that delivers early proof â€” small visible wins, structured milestones, moments where the client sees their own vision taking shape â€” closes this gap continuously rather than depending on the completed building to justify the investment.
+In architecture, the gap can span years between design fees and occupying the finished space. In product management, the manifesto names the same interval between sign-up and first undeniable value as the point where churn and skepticism start forming.
 
 ## Diagnostic / Use
-Ask: Where does this source unit change the next diagnostic, decision, or practice?
+Ask:
+- What has been promised?
+- What is the first undeniable proof moment?
+- Which step between them is reopening doubt?
+- How can we give earlier evidence without faking completeness?
 
 ## Trap or Limitation
-Treating this concise note as a replacement for the source, or linking it as equivalent without checking the mapping tier.
-
-## Mapping Tier
-Adjacent or equivalent mapping is declared in [[moc-architecture-belief-forces]].
+Treating speed alone as the answer. The issue is not only time but ambiguity, handoffs, and missing proof.
 
 ## Related
+- [[moc-product-management-cartography]]
+- [[value-realization-map]]
 - [[time-compression]]
-- [[failure-gradients]]
 - [[trust-gradient]]
-- [[tech-interpretive]]
-- Source: [[docs/architecture-marketing/canon/manifestos/architecture-industry-marketing-framework|Source]]
+- [[growth-system-designer]]
+- Source: [[docs/architecture-marketing/canon/manifestos/architecture-industry-marketing-framework|Architecture Industry Marketing Framework]]
+- Source: [[docs/product-management/canon/manifestos/product-management-mastery-manifesto|Product Management Mastery Manifesto]]

@@ -19,10 +19,10 @@ This report records the structural repair and extraction completion pass for the
 - Taxonomy gaps: stage tags were underspecified; danger/category/mapping tags were missing
 
 ## After
-- Atlas Markdown files: 381
-- Atomic notes: 354
-- MOCs: 21
-- Coverage ledger rows: 129
+- Atlas Markdown files: 519
+- Atomic notes: 479
+- MOCs: 31
+- Coverage ledger rows: 157
 - Added category folders for principles, diagnostics, phases, creeds, examples, practices, cases, strategies, paths, metrics, and programs.
 - Added completion notes for missing Cartographer source files.
 - Added expansion notes for Intelligence, Technologist, and Architecture/Marketing manifesto sections that were not represented by existing force notes.

@@ -10,6 +10,10 @@
 - `#domain/ai` - ML, data science, and AI technical territory
 - `#domain/architecture` - Built environment industry
 - `#domain/entrepreneurship` - Uncertainty, markets, and building
+- `#domain/product` - Product truth, product kernel, current vessels, and product experience
+- `#domain/education` - Learning contexts, students, cohorts, and curriculum-adjacent systems
+- `#domain/collaboration` - Human-agent collaboration, working rituals, and shared discovery practices
+- `#domain/belief-operations` - K2M belief operations, belief revision, and market belief architecture
 - `#domain/relationship` - Intimacy, trust, attachment, differentiation, and relational systems
 - `#domain/politics` - Political mastery, governance, statesmanship, and power terrain
 

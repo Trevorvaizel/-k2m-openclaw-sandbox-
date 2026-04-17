@@ -5,6 +5,7 @@
 ## Atlas Entry Points
 - [[ATLAS|THE ATLAS]] - master index
 - [[coverage-ledger]] - source coverage state
+- [[moc-k2m-product]] - product kernel, current Discord vessel, and product-source bridge
 - [[repair-report-2026-04-11]] - latest structural repair report
 - [[moc-source-memos]] - transcript/source-memo intake and extraction discipline
 - [[moc-lenses]] - mental-model and lens layer
@@ -28,8 +29,16 @@
 - [[moc-cartographer-journey]] - phases, stages, and programs
 - [[moc-cartographer-cases-examples]] - examples and case studies
 - [[moc-cartographer-applications]] - strategies, profession paths, and metrics
+- [[moc-domain-cartography]] - domain cartography method and the clarity engine bridge
 
 ## Domain Maps
+- [[moc-k2m-product]] - K2M product kernel and current product map
+- [[moc-product-management-cartography]] - product-management forces, promise-evidence integrity, fit, and AI evaluation
+- [[moc-attention-design-economy]] - attention design forces, salience, routing, auctions, and stewardship
+- [[moc-digital-economy]] - digital-economy forces, platform power, and internet value capture
+- [[moc-innovation-cartography]] - innovation forces, timing windows, trust diffusion, and value industrialization
+- [[moc-problem-solving-cartography]] - problem framing, constraint, causality, redesign, and collective intelligence
+- [[moc-storytelling-cartography]] - narrative forces, trust, medium logic, and culture listening
 - [[moc-8-intelligence-forces]] - intelligence forces
 - [[moc-intelligence-expansion]] - intelligence expansion map
 - [[moc-7-technologist-forces]] - technologist forces
@@ -44,6 +53,7 @@
 
 ## Source Manifestos
 - [[docs/cartographer-mastery/canon/manifesto-sections/00-index|Cartographer's Manifesto]] - universal expertise map
+- [[docs/digital-economy/canon/manifestos/the-digital-economists-manifesto|The Digital Economist's Manifesto]] - platforms, software, marketplaces, rails, and AI-native commerce
 - [[docs/intelligence-cartography/canon/manifestos/the-intelligence-cartographers-manifesto|Intelligence Cartographer's Manifesto]] - invisible forces behind human networks
 - [[docs/technologist-cartography/canon/manifestos/the-technologists-manifesto|Technologist's Manifesto]] - ML, data science, and AI territory map
 - [[docs/architecture-marketing/canon/manifestos/architecture-industry-marketing-framework|Architecture Industry Marketing Framework]] - built environment belief operations
@@ -52,6 +62,8 @@
 - [[moc-mental-models|Great Mental Models Transcript Set]] - mental-model lens and case evidence source
 
 ## Belief Operations Canon
+- [[docs/product-docs/k2m-layer4-product-brief|K2M Layer 4 Product Brief]]
+- [[docs/product-docs/system/01-system-overview|K2M System Overview]]
 - [[docs/belief-operations/README|Belief Operations OS]]
 - [[docs/belief-operations/canon/manifestos/belief-system-manifesto|The Belief System Manifesto]]
 - [[docs/belief-operations/canon/manifestos/marketing-cartographers-manifesto|The Marketing Cartographer's Manifesto]]

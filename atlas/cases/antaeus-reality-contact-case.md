@@ -37,5 +37,8 @@ Treating the story as a general motivational metaphor. Its atlas value is specif
 - [[map-is-not-territory-lens]]
 - [[mental-models-as-lenses]]
 - [[lattice]]
+- [[decommissioning-force]] — a map with no Antaeus contact is a candidate for decommissioning
+- [[annual-destruction]] — the Annual Destruction practice uses the Antaeus Check as a ground-contact test
 - Source: [[docs/mental-models/canon/transcripts/00_-_Charlie_Munger_s_Five_Essential_Mental_Models.txt|Great Mental Models Transcript 00]]
 - Source: [[docs/mental-models/canon/transcripts/10_-_Building_A_Latticework_Of_Mental_Models.txt|Great Mental Models Transcript 10]]
+- Source: `docs/cartographer-mastery/canon/manifestos/the-domain-cartographers-manifesto.md` (Tool 12 — Antaeus Check)

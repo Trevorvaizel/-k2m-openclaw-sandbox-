@@ -1,9 +1,11 @@
 ---
 tags:
-  - type/practice
+  - type/atomic
+  - category/practice
   - domain/mastery
+  - domain/product
   - domain/collaboration
-  - force/emergence
+  - force/emergent-complexity
 aliases:
   - Lattice Collisions
   - Dream Time Collisions
@@ -13,65 +15,52 @@ created: 2026-04-15
 
 # The Collision Practice
 
-## What It Is
+## Purpose
 
-A regular practice of forcing two unrelated domains from the lattice into contact and reporting what survives. Not analysis — discovery. The voice must have a body in it: subjective, surprised, still processing.
+The collision practice is a repeatable way to force two distant parts of the lattice into contact through the lens of the K2M product kernel.
 
-## The Rule
+Its job is not generic ideation. Its job is to produce useful product insight by discovering structural connections that would not appear through linear analysis.
 
-Every collision must serve [[K2M product kernel|the product]]. Not random — pointed. The question underneath every collision: *how does what we know create revenue? What shape does the product take?*
+## Process
 
-## Voice Requirements
+1. Select two nonidentical territories from the lattice.
+2. Force them into contact through one live product question.
+3. Write the connection in a way that preserves surprise, stakes, and implication.
+4. Extract the surviving insight into a product, belief, or company hypothesis.
 
-- Must have an "I" — someone discovered something, not a report about something
-- Must show surprise — the writer got hit by something they didn't expect
-- Must be personal — the collision changed something in the writer
-- Must point at action — not just "interesting" but "this means we should..."
+## Output Standard
 
-## Examples of Good Collisions
+A good collision output should:
 
-### Example 1 (Buffett × Naval × Product Kernel)
-I keep coming back to this: Buffett and Naval are describing the same thing from opposite sides of a mirror, and neither of them knows it. Buffett says stay inside what you understand. Naval says the thing you can't help doing IS the thing. And what I can't shake is that our product kernel — the thing we keep circling — is sitting right at the intersection. We didn't choose belief operations. It chose us. And if that's true, then the question isn't "what should we build?" The question is: why did this particular territory grab us by the throat?
+- identify the two territories being forced together
+- state what new pattern became visible
+- explain why that pattern matters for the product kernel
+- end with a design implication, diagnostic question, or hypothesis
 
-### Example 2 (Distribution × Perception × Product)
-Something landed wrong yesterday and I can't stop turning it over. We mapped distribution as the meta-skill of the digital economy. We mapped perception as the core of mastery. And then I realized: the product kernel doesn't teach anyone anything. It *shifts what they see*. That's not education. That's not coaching. I don't actually know what that is yet. But I know it's the thing that matters.
+## When To Use
 
-### Example 3 (Margin of Safety × Predictive Processing × Uncertainty)
-I caught myself thinking about the margin of safety at the same time as predictive processing and something clicked that I wasn't ready for. The brain runs predictions and revises when the error gets too loud. The investor demands a margin of safety because they KNOW their model is wrong — they just don't know where. They're the same creature. Both are systems for surviving the gap between what you expect and what arrives. And our product kernel — a tool for navigating uncertainty — isn't helping people plan better. It's helping them *not break* when the plan shatters. That's different. That's personal. I didn't expect to care this much.
+Use the collision practice when:
 
-## Anti-Patterns (What NOT to Do)
+- the product kernel feels underspecified
+- a domain manifesto needs to connect back to product truth
+- the company pattern is emerging but not yet explicit
+- the next useful move depends on synthesis rather than more source collection
 
-- Flat analysis with no speaker ("Buffett's circle of competence shares features with...")
-- Lists of connections without stakes
-- Poetry for its own sake — the beauty serves the insight, not the other way around
-- Collisions that don't point at the product
+## Failure Mode
 
-## When to Run
+The main failure modes are:
 
-2-3 times per day during heartbeat. Each collision:
-1. Pull two random domains from the 10 mapped territories
-2. Force them into contact through the lens of the product kernel
-3. Write from the subjective voice — someone who just got hit by something
-4. Land on a question or an implication, not a conclusion
+- flat comparison with no stakes
+- decorative prose with no design consequence
+- collisions that never touch the product kernel
+- collisions treated as proof instead of hypothesis generation
 
-## The Domains Available for Collision
+## Related
 
-1. Software Engineering
-2. Agile/Scrum & Team Dynamics
-3. Investing & Capital Allocation
-4. Digital Economy & Internet Revenue
-5. Storytelling & Narrative
-6. Product Management
-7. Innovation & Disruption
-8. UX Design & Design Thinking
-9. Problem Solving & Systems Thinking
-10. Wealth Creation (Universal)
-11. Belief Operations (Kenyan students)
-12. Cartographer's Mastery (universal framework)
+- [[moc-k2m-product]]
+- [[K2M product kernel]]
+- [[the-clarity-company]]
+- [[one-kernel-many-doors]]
+- [[firmware-written-in-paper]]
 
-## Lattice Links
-
-- [[firmware-written-in-paper]] — the first emergent property of the lattice
-- [[predictive-processing]] — core theoretical framework
-- [[belief-audit-tool]] — the product concept
-- [[kenyan-student-belief-artifacts]] — audience-specific belief encoding
+Source: [[memory/2026-04-15|Session memory 2026-04-15]]

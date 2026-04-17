@@ -410,6 +410,10 @@ Write-TextFile -Path 'vault-taxonomy.md' -Content @'
 - `#domain/ai` - ML, data science, and AI technical territory
 - `#domain/architecture` - Built environment industry
 - `#domain/entrepreneurship` - Uncertainty, markets, and building
+- `#domain/product` - Product truth, product kernel, current vessels, and product experience
+- `#domain/education` - Learning contexts, students, cohorts, and curriculum-adjacent systems
+- `#domain/collaboration` - Human-agent collaboration, working rituals, and shared discovery practices
+- `#domain/belief-operations` - K2M belief operations, belief revision, and market belief architecture
 - `#domain/relationship` - Intimacy, trust, attachment, differentiation, and relational systems
 - `#domain/politics` - Political mastery, governance, statesmanship, and power terrain
 
@@ -537,6 +541,7 @@ aliases:
 ## Start Here
 - [[HOME|HOME]] - workspace orientation and source document entry point
 - [[coverage-ledger]] - source-to-note coverage state
+- [[moc-k2m-product]] - product kernel, current vessel, and product-source bridge
 - [[repair-report-2026-04-11]] - structural repair report
 - [[moc-source-memos]] - transcript/source-memo intake and extraction discipline
 - [[moc-lenses]] - mental-model and lens layer
@@ -560,8 +565,16 @@ aliases:
 - [[moc-cartographer-journey]] - stages, phases, and programs
 - [[moc-cartographer-cases-examples]] - source examples and cases
 - [[moc-cartographer-applications]] - strategies, paths, and metrics
+- [[moc-domain-cartography]] - domain cartography method and the clarity engine bridge
 
 ## Domain Maps
+- [[moc-k2m-product]] - K2M product kernel, current Discord vessel, and product bridge notes
+- [[moc-product-management-cartography]] - product-management forces, promise-evidence integrity, fit, and AI evaluation
+- [[moc-attention-design-economy]] - attention design forces, salience, routing, auctions, and stewardship
+- [[moc-digital-economy]] - digital-economy forces, platform power, and internet value capture
+- [[moc-innovation-cartography]] - innovation forces, timing windows, trust diffusion, and value industrialization
+- [[moc-problem-solving-cartography]] - problem framing, constraint, causality, redesign, and collective intelligence
+- [[moc-storytelling-cartography]] - narrative forces, trust, medium logic, and culture listening
 - [[moc-8-intelligence-forces]] - intelligence forces
 - [[moc-intelligence-expansion]] - intelligence stages, principles, errors, instruments, phases, and creed
 - [[moc-7-technologist-forces]] - technologist forces
@@ -575,6 +588,9 @@ aliases:
 - [[moc-mental-models]] - mental-model source family
 
 ## Source Documents
+- [[docs/product-docs/k2m-layer4-product-brief|K2M Layer 4 Product Brief]]
+- [[docs/product-docs/system/01-system-overview|K2M System Overview]]
+- [[docs/digital-economy/canon/manifestos/the-digital-economists-manifesto|The Digital Economist's Manifesto]]
 - [[docs/cartographer-mastery/canon/manifesto-sections/00-index|Cartographer's Manifesto]]
 - [[docs/intelligence-cartography/canon/manifestos/the-intelligence-cartographers-manifesto|Intelligence Cartographer's Manifesto]]
 - [[docs/technologist-cartography/canon/manifestos/the-technologists-manifesto|Technologist's Manifesto]]
@@ -592,6 +608,7 @@ Write-TextFile -Path 'HOME.md' -Content @'
 ## Atlas Entry Points
 - [[ATLAS|THE ATLAS]] - master index
 - [[coverage-ledger]] - source coverage state
+- [[moc-k2m-product]] - product kernel, current Discord vessel, and product-source bridge
 - [[repair-report-2026-04-11]] - latest structural repair report
 - [[moc-source-memos]] - transcript/source-memo intake and extraction discipline
 - [[moc-lenses]] - mental-model and lens layer
@@ -615,8 +632,16 @@ Write-TextFile -Path 'HOME.md' -Content @'
 - [[moc-cartographer-journey]] - phases, stages, and programs
 - [[moc-cartographer-cases-examples]] - examples and case studies
 - [[moc-cartographer-applications]] - strategies, profession paths, and metrics
+- [[moc-domain-cartography]] - domain cartography method and the clarity engine bridge
 
 ## Domain Maps
+- [[moc-k2m-product]] - K2M product kernel and current product map
+- [[moc-product-management-cartography]] - product-management forces, promise-evidence integrity, fit, and AI evaluation
+- [[moc-attention-design-economy]] - attention design forces, salience, routing, auctions, and stewardship
+- [[moc-digital-economy]] - digital-economy forces, platform power, and internet value capture
+- [[moc-innovation-cartography]] - innovation forces, timing windows, trust diffusion, and value industrialization
+- [[moc-problem-solving-cartography]] - problem framing, constraint, causality, redesign, and collective intelligence
+- [[moc-storytelling-cartography]] - narrative forces, trust, medium logic, and culture listening
 - [[moc-8-intelligence-forces]] - intelligence forces
 - [[moc-intelligence-expansion]] - intelligence expansion map
 - [[moc-7-technologist-forces]] - technologist forces
@@ -631,6 +656,7 @@ Write-TextFile -Path 'HOME.md' -Content @'
 
 ## Source Manifestos
 - [[docs/cartographer-mastery/canon/manifesto-sections/00-index|Cartographer's Manifesto]] - universal expertise map
+- [[docs/digital-economy/canon/manifestos/the-digital-economists-manifesto|The Digital Economist's Manifesto]] - platforms, software, marketplaces, rails, and AI-native commerce
 - [[docs/intelligence-cartography/canon/manifestos/the-intelligence-cartographers-manifesto|Intelligence Cartographer's Manifesto]] - invisible forces behind human networks
 - [[docs/technologist-cartography/canon/manifestos/the-technologists-manifesto|Technologist's Manifesto]] - ML, data science, and AI territory map
 - [[docs/architecture-marketing/canon/manifestos/architecture-industry-marketing-framework|Architecture Industry Marketing Framework]] - built environment belief operations
@@ -639,6 +665,8 @@ Write-TextFile -Path 'HOME.md' -Content @'
 - [[moc-mental-models|Great Mental Models Transcript Set]] - mental-model lens and case evidence source
 
 ## Belief Operations Canon
+- [[docs/product-docs/k2m-layer4-product-brief|K2M Layer 4 Product Brief]]
+- [[docs/product-docs/system/01-system-overview|K2M System Overview]]
 - [[docs/belief-operations/README|Belief Operations OS]]
 - [[docs/belief-operations/canon/manifestos/belief-system-manifesto|The Belief System Manifesto]]
 - [[docs/belief-operations/canon/manifestos/marketing-cartographers-manifesto|The Marketing Cartographer's Manifesto]]
@@ -669,6 +697,8 @@ $ledger = @(
   '| [Statesman PDF](../docs/statesman-mastery/canon/manifestos/boyd-were-statesman-mastery-blueprint.pdf) | not-applicable | [[docs/statesman-mastery/canon/manifestos/boyd-were-statesman-mastery-blueprint|Markdown source]] |',
   '| [[belief-operations-transcript-set|Belief Operations Transcript Set]] | extracted | [[moc-source-memos]]; [[moc-marketing-belief-operations]]; [[moc-lenses]] |',
   '| [[great-mental-models-volume-1-transcript-set|Great Mental Models Transcript Set]] | extracted | [[moc-mental-models]]; [[moc-lenses]] |',
+  '| [[docs/product-docs/k2m-layer4-product-brief|K2M Product Brief]] | extracted | [[moc-k2m-product]]; [[K2M product kernel]]; [[one-kernel-many-doors]] |',
+  '| [[docs/product-docs/system/01-system-overview|K2M Current Product System]] | extracted | [[moc-k2m-product]]; [[current-scrappy-product]]; [[discord-as-current-vessel]]; [[kira-as-belief-interface]] |',
   '',
   '## Cartographer Manifesto Files',
   '| Source Unit | Status | Atlas Target |',
@@ -702,6 +732,69 @@ $ledger += @(
   '| [[docs/architecture-marketing/canon/manifestos/architecture-industry-marketing-framework|Architecture belief operations]] | extracted | [[moc-architecture-belief-forces]] |',
   '| [[docs/relationship-cartography/canon/manifestos/the-relationship-cartographers-manifesto|Relationship cartography sections]] | extracted | [[moc-relationship-cartography]] |',
   '| [[docs/statesman-mastery/canon/manifestos/boyd-were-statesman-mastery-blueprint|Statesman mastery sections]] | extracted | [[moc-statesman-mastery]] |'
+)
+$ledger += @(
+  '',
+  '## K2M Product Docs',
+  '| Source Unit | Status | Atlas Target |',
+  '|---|---|---|',
+  '| [[docs/product-docs/k2m-layer4-product-brief|K2M Layer 4 Product Brief]] | extracted | [[moc-k2m-product]]; [[K2M product kernel]]; [[one-kernel-many-doors]]; [[the-clarity-company]] |',
+  '| [[docs/product-docs/system/README|K2M Product System README]] | MOC-only | [[moc-k2m-product]] |',
+  '| [[docs/product-docs/system/01-system-overview|K2M System Overview]] | extracted | [[moc-k2m-product]]; [[current-scrappy-product]]; [[discord-as-current-vessel]]; [[kira-as-belief-interface]] |',
+  '| [[docs/product-docs/system/02-student-journey|K2M Student Journey]] | extracted | [[moc-k2m-product]]; [[student-uncertainty-navigation-loop]]; [[current-scrappy-product]] |',
+  '| [[docs/product-docs/system/03-facilitator-guide|K2M Facilitator Guide]] | extracted | [[moc-k2m-product]]; [[facilitator-escalation-ladder]] |',
+  '| [[docs/product-docs/system/04-super-admin-ops|K2M Super Admin Ops]] | extracted | [[moc-k2m-product]]; [[single-cohort-ops-surface]] |',
+  '| [[docs/product-docs/system/05-under-the-hood|K2M Under The Hood]] | extracted | [[moc-k2m-product]]; [[runtime-protective-scaffolding]] |',
+  '| [[docs/product-docs/system/06-observability|K2M Observability]] | extracted | [[moc-k2m-product]]; [[product-observability-surface]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/01-philosophy/ | extracted | [[moc-k2m-playbook-spine]]; [[playbook-philosophy-spine]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/02-weekly-design/ | extracted | [[moc-k2m-playbook-spine]]; [[cohort-progression-architecture]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/03-sessions/ | extracted | [[moc-k2m-playbook-spine]]; [[session-prompt-engine]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/ | extracted | [[moc-k2m-playbook-spine]]; [[cis-agent-orchestration]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-1-cis-controller-logic|CIS Controller Logic]] | extracted | [[cis-agent-orchestration]]; [[single-source-example-library]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-2-framer-agent-prompt|Framer Agent Prompt]] | extracted | [[single-source-example-library]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-3-explorer-agent-prompt|Explorer Agent Prompt]] | extracted | [[single-source-example-library]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/ | extracted | [[moc-k2m-playbook-spine]]; [[discord-cohort-ops-surface]] |',
+  '| docs/product-docs/cohort-design-artifacts/playbook-v2/06-artifacts/ | extracted | [[moc-k2m-playbook-spine]]; [[artifact-proof-system]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/playbook-v2/06-artifacts/06-artifact-system-epic-6-unified-design|Artifact System Unified Design]] | extracted | [[artifact-proof-system]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/playbook-v2/02-weekly-design/week-8-artifact-showcase|Week 8 Artifact Showcase]] | extracted | [[artifact-proof-system]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/requirements/cohort-playbook-v2-requirements|Cohort Playbook V2 Requirements]] | extracted | [[cohort-as-product]]; [[thinking-with-ai-as-unifying-skill]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/strategy-and-research/k2m-product-roadmap-and-marketing-evolution-strategy|K2M Product Roadmap And Marketing Evolution Strategy]] | extracted | [[product-stability-marketing-evolution]]; [[credibility-before-cross-pollination]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/agent-facilitation-decision-log|Agent Facilitation Decision Log]] | extracted | [[hybrid-agent-facilitation-model]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/cohort-facilitation-redesign-decisions|Cohort Facilitation Redesign Decisions]] | extracted | [[hybrid-agent-facilitation-model]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/adversarial-pre-mortem-onboarding-journey-2026-03-04|Adversarial Pre-Mortem Report: Student Onboarding & Enrollment Journey]] | extracted | [[value-first-onboarding-architecture]]; [[runtime-protective-scaffolding]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/context-engine-experience-design|Context Engine Experience Design]] | extracted | [[context-personalization-contract]]; [[value-first-onboarding-architecture]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/discord-community-culture-and-architecture|Discord Community Culture And Architecture]] | extracted | [[private-process-public-proof]]; [[discord-cohort-ops-surface]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/experience-design-evaluation-party-mode-2026-01-24|Experience Design Evaluation Party Mode]] | extracted | [[thinking-with-ai-as-unifying-skill]]; [[playbook-philosophy-spine]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/onboarding-context-canonical-v3|Onboarding + Context Canonical V3]] | extracted | [[context-personalization-contract]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/pre-launch-gaps-and-solutions|Pre-Launch Gaps And Solutions]] | extracted | [[cohort-launch-gating]]; [[value-first-onboarding-architecture]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/student-onboarding-and-enrollment-flow|Student Onboarding And Enrollment Flow]] | extracted | [[value-first-onboarding-architecture]]; [[context-personalization-contract]]; [[private-process-public-proof]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/pre-mortem-2026-03-04-decisions|Pre-Mortem Decisions Log]] | extracted | [[value-first-onboarding-architecture]]; [[context-personalization-contract]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/pre-mortem-session-4-decisions|Pre-Mortem Decisions Log - Session 4]] | extracted | [[value-first-onboarding-architecture]]; [[runtime-protective-scaffolding]]; [[cohort-launch-gating]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/provider-runtime-override|Provider Runtime Override]] | extracted | [[runtime-protective-scaffolding]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/design-and-architecture/solutions-and-new-automations|Solutions And New Automations]] | extracted | [[value-first-onboarding-architecture]]; [[cohort-launch-gating]]; [[runtime-protective-scaffolding]] |',
+  '| docs/product-docs/cohort-design-artifacts/design-and-architecture/ | extracted | [[value-first-onboarding-architecture]]; [[context-personalization-contract]]; [[hybrid-agent-facilitation-model]]; [[private-process-public-proof]]; [[runtime-protective-scaffolding]]; [[cohort-launch-gating]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/operations/checklists/cohort-production-go-live-checklist|Cohort Production Go-Live Checklist]] | extracted | [[cohort-launch-gating]] |',
+  '| [[docs/product-docs/cohort-design-artifacts/operations/checklists/cohort-template-deployment-checklist|Cohort Template Deployment Checklist]] | extracted | [[cohort-launch-gating]] |',
+  '| docs/product-docs/cohort-design-artifacts/operations/checklists/ | extracted | [[cohort-launch-gating]] |',
+  '| docs/product-docs/cohort-design-artifacts/reviews/ | intentionally-skipped | Product-evidence backlog for later hardening; see [[k2m-product-docs-intake-ledger]] |',
+  '| docs/product-docs/cohort-design-artifacts/summaries/ | intentionally-skipped | Product-evidence backlog for later hardening; see [[k2m-product-docs-intake-ledger]] |',
+  '| docs/product-docs/cohort-design-artifacts/task-notes/ | intentionally-skipped | Product-evidence backlog for later hardening; see [[k2m-product-docs-intake-ledger]] |',
+  '| docs/product-docs/cohort-design-artifacts/operations/sprint/task-notes/ | intentionally-skipped | Product-evidence backlog for later hardening; see [[k2m-product-docs-intake-ledger]] |',
+  '| docs/product-docs/cohort-design-artifacts/archive/ | intentionally-skipped | Historical evidence backlog; see [[k2m-product-docs-intake-ledger]] |',
+  '| docs/product-docs/cohort-design-artifacts/exports/ | intentionally-skipped | Historical export backlog; see [[k2m-product-docs-intake-ledger]] |',
+  '',
+  '## New Manifesto Intake',
+  '| Source Unit | Status | Atlas Target |',
+  '|---|---|---|',
+  '| [[docs/cartographer-mastery/canon/manifestos/the-domain-cartographers-manifesto|The Domain Cartographer''s Manifesto]] | extracted | [[moc-domain-cartography]]; [[native-causality]]; [[anti-mimicry]]; [[practitioner-transformation]] |',
+  '| [[docs/cartographer-mastery/canon/operating-systems/the-cartographic-engine-beta|The Cartographic Engine Beta]] | extracted | [[moc-domain-cartography]]; [[cartographic-engine]]; [[thinking-os]]; [[make-os]]; [[moc-k2m-product]] |',
+  '| [[docs/attention-design-economy/canon/manifestos/attention-design-economy-manifesto|Attention Design Economy Manifesto]] | extracted | [[moc-attention-design-economy]]; [[attention-design-scarcity-inversion]]; [[attention-design-salience-force]]; [[attention-design-routing-force]]; [[attention-design-auction-force]] |',
+  '| [[docs/digital-economy/canon/manifestos/the-digital-economists-manifesto|The Digital Economist''s Manifesto]] | extracted | [[moc-digital-economy]]; [[digital-economy-demand-aggregation]]; [[digital-economy-zero-marginal-replication]]; [[digital-economy-network-effects-and-liquidity]]; [[digital-economy-ownership-dependency-and-platform-tax]] |',
+  '| [[docs/innovation/canon/manifestos/the-innovation-cartographers-manifesto|The Innovation Cartographer''s Manifesto]] | extracted | [[moc-innovation-cartography]]; [[innovation-problem-tension]]; [[innovation-adjacent-possible-and-cross-pollination]]; [[innovation-timing-windows]]; [[innovation-trust-gradient-diffusion]] |',
+  '| [[docs/problem-solving/canon/manifestos/the-problem-solving-cartographers-manifesto|The Problem-Solving Cartographer''s Manifesto]] | extracted | [[moc-problem-solving-cartography]]; [[problem-solving-framing-force]]; [[problem-solving-constraint-force]]; [[problem-solving-causal-force]]; [[problem-solving-complexity-force]] |',
+  '| [[docs/storytelling/canon/manifestos/the-storytellers-manifesto|The Storyteller''s Manifesto]] | extracted | [[moc-storytelling-cartography]]; [[storytelling-attention-gate]]; [[storytelling-question-engine]]; [[storytelling-narrative-trust-force]]; [[storytelling-medium-and-participation-force]] |',
+  '| [[docs/product-management/canon/manifestos/product-management-mastery-manifesto|Product Management Mastery Manifesto]] | extracted | [[moc-product-management-cartography]]; [[progress-not-requests]]; [[discovery-density]]; [[positioning-gravity]]; [[outcome-discipline]]; [[ai-leverage-and-the-evaluation-burden]] |',
+  '| docs/product-management/canon/manifestos/product-management-forces-manifesto.md | intentionally-skipped | Deleted legacy source; replaced by revised product management mastery intake |'
 )
 $ledger += @(
   '',

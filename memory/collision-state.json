@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "domains": [
+    "software-engineering",
+    "agile-scrum",
+    "investing",
+    "digital-economy",
+    "storytelling",
+    "product-management",
+    "innovation",
+    "ux-design",
+    "problem-solving",
+    "wealth-creation",
+    "belief-operations",
+    "domain-cartography",
+    "k2m-product"
+  ],
+  "pairHistory": {
+    "agile-scrum+investing": "2026-04-16",
+    "software-engineering+innovation": "2026-04-16",
+    "belief-operations+domain-cartography": "2026-04-16",
+    "storytelling+ux-design": "2026-04-16",
+    "digital-economy+problem-solving": "2026-04-16",
+    "wealth-creation+product-management": "2026-04-16",
+    "innovation+agile-scrum": "2026-04-16"
+  },
+  "dailyNote": "k2m-sandbox/memory/YYYY-MM-DD.md",
+  "contentDir": "k2m-sandbox/content/",
+  "totalCollisions": 7,
+  "lastUpdated": "2026-04-16T22:20:00+03:00",
+  "instructions": {
+    "collisionEngine": "Read this file. Find the pair with the OLDEST date (or no date). Pick that pair. After writing the collision, update the date for that pair. Sort domain names alphabetically before combining (e.g., 'agile-scrum+investing', not 'investing+agile-scrum').",
+    "priorityRule": "If all pairs have been collided within 7 days, pick the pair whose insight quality was lowest on the previous run — re-collide with fresh eyes."
+  }
+}

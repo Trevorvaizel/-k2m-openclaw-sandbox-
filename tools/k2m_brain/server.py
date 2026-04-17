@@ -20,6 +20,10 @@ RERANK_MODEL = "bge-reranker-v2-m3"
 RERANK_TOP_N = 8
 
 
+def load_json_file(path: Path) -> Any:
+    return json.loads(path.read_text(encoding="utf-8-sig"))
+
+
 def ensure_pinecone():
     try:
         from pinecone import Pinecone
@@ -38,7 +42,7 @@ def load_api_key() -> str:
 
     claude_mcp = Path.home() / ".claude" / "mcp.json"
     if claude_mcp.exists():
-        data = json.loads(claude_mcp.read_text(encoding="utf-8"))
+        data = load_json_file(claude_mcp)
         api_key = data.get("mcpServers", {}).get("pinecone", {}).get("env", {}).get("PINECONE_API_KEY")
         if api_key:
             return api_key

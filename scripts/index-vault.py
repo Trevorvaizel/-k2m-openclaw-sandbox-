@@ -42,6 +42,10 @@ DEFAULT_POLL_SECONDS = 20
 STATE_PATH = VAULT_ROOT / "tmp" / "pinecone-index-state.json"
 
 
+def load_json_file(path: Path) -> dict[str, object]:
+    return json.loads(path.read_text(encoding="utf-8-sig"))
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Incrementally sync the vault to Pinecone.")
     parser.add_argument(
@@ -84,7 +88,7 @@ def load_api_key() -> str:
 
     mcp_path = Path.home() / ".claude" / "mcp.json"
     if mcp_path.exists():
-        data = json.loads(mcp_path.read_text(encoding="utf-8"))
+        data = load_json_file(mcp_path)
         api_key = data.get("mcpServers", {}).get("pinecone", {}).get("env", {}).get("PINECONE_API_KEY")
         if api_key:
             return api_key
@@ -133,7 +137,7 @@ def load_state(path: Path) -> dict[str, object]:
     if not path.exists():
         return {"config": current_config_signature(), "files": {}}
 
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = load_json_file(path)
     if "files" not in data or not isinstance(data["files"], dict):
         data["files"] = {}
     if "config" not in data or not isinstance(data["config"], dict):

@@ -13,6 +13,7 @@ aliases:
 ## Start Here
 - [[HOME|HOME]] - workspace orientation and source document entry point
 - [[coverage-ledger]] - source-to-note coverage state
+- [[moc-k2m-product]] - product kernel, current vessel, and product-source bridge
 - [[repair-report-2026-04-11]] - structural repair report
 - [[moc-source-memos]] - transcript/source-memo intake and extraction discipline
 - [[moc-lenses]] - mental-model and lens layer
@@ -36,8 +37,16 @@ aliases:
 - [[moc-cartographer-journey]] - stages, phases, and programs
 - [[moc-cartographer-cases-examples]] - source examples and cases
 - [[moc-cartographer-applications]] - strategies, paths, and metrics
+- [[moc-domain-cartography]] - domain cartography method and the clarity engine bridge
 
 ## Domain Maps
+- [[moc-k2m-product]] - K2M product kernel, current Discord vessel, and product bridge notes
+- [[moc-product-management-cartography]] - product-management forces, promise-evidence integrity, fit, and AI evaluation
+- [[moc-attention-design-economy]] - attention design forces, salience, routing, auctions, and stewardship
+- [[moc-digital-economy]] - digital-economy forces, platform power, and internet value capture
+- [[moc-innovation-cartography]] - innovation forces, timing windows, trust diffusion, and value industrialization
+- [[moc-problem-solving-cartography]] - problem framing, constraint, causality, redesign, and collective intelligence
+- [[moc-storytelling-cartography]] - narrative forces, trust, medium logic, and culture listening
 - [[moc-8-intelligence-forces]] - intelligence forces
 - [[moc-intelligence-expansion]] - intelligence stages, principles, errors, instruments, phases, and creed
 - [[moc-7-technologist-forces]] - technologist forces
@@ -51,6 +60,9 @@ aliases:
 - [[moc-mental-models]] - mental-model source family
 
 ## Source Documents
+- [[docs/product-docs/k2m-layer4-product-brief|K2M Layer 4 Product Brief]]
+- [[docs/product-docs/system/01-system-overview|K2M System Overview]]
+- [[docs/digital-economy/canon/manifestos/the-digital-economists-manifesto|The Digital Economist's Manifesto]]
 - [[docs/cartographer-mastery/canon/manifesto-sections/00-index|Cartographer's Manifesto]]
 - [[docs/intelligence-cartography/canon/manifestos/the-intelligence-cartographers-manifesto|Intelligence Cartographer's Manifesto]]
 - [[docs/technologist-cartography/canon/manifestos/the-technologists-manifesto|Technologist's Manifesto]]

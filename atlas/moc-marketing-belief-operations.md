@@ -54,6 +54,12 @@ From [[docs/architecture-marketing/canon/manifestos/architecture-industry-market
 - [[predictive-processing|Predictive Processing]] — the brain as prediction engine; beliefs construct experience
 - [[kenyan-student-belief-artifacts|Kenyan Student Belief Artifacts]] — KCSE, KUCCPS, HELB as belief-encoding objects
 - [[ai-thinking-landscape|AI Thinking Landscape]] — who's building "how to think with AI" and where the gaps are
+- [[the-seven-gaps]] — the 7 gaps between shipped product and Clarity Company vision
+- [[the-clarity-company]] — one kernel, many doors
+- [[the-make-os]] — collision-to-content pipeline (Gap 6: the content IS the marketing)
+- [[belief-firmware-map]] — Kenyan student belief artifacts mapped as belief encoders
+- [[audit-agent-spec]] — the `/audit` agent: surfacing where beliefs came from (Gap 3)
+- [[firmware-written-in-paper]] — the first emergent lattice property: "a whole nervous system learning which futures were mathematically permitted"
 
 ## Source
 
