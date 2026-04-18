@@ -7,6 +7,7 @@ import subprocess
 import sys
 from pathlib import Path
 from typing import Any
+import tomllib
 
 from mcp.server.fastmcp import FastMCP
 
@@ -47,7 +48,22 @@ def load_api_key() -> str:
         if api_key:
             return api_key
 
-    raise RuntimeError("PINECONE_API_KEY is not configured.")
+    codex_config = Path.home() / ".codex" / "config.toml"
+    if codex_config.exists():
+        data = tomllib.loads(codex_config.read_text(encoding="utf-8"))
+        api_key = (
+            data.get("mcp_servers", {})
+            .get("pinecone", {})
+            .get("env", {})
+            .get("PINECONE_API_KEY")
+        )
+        if api_key:
+            return api_key
+
+    raise RuntimeError(
+        "PINECONE_API_KEY is not configured. Set the environment variable or add it to "
+        "~/.claude/mcp.json or ~/.codex/config.toml under the pinecone MCP server env."
+    )
 
 
 def get_index():

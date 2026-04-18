@@ -60,6 +60,7 @@ From [[docs/architecture-marketing/canon/manifestos/architecture-industry-market
 - [[belief-firmware-map]] — Kenyan student belief artifacts mapped as belief encoders
 - [[audit-agent-spec]] — the `/audit` agent: surfacing where beliefs came from (Gap 3)
 - [[firmware-written-in-paper]] — the first emergent lattice property: "a whole nervous system learning which futures were mathematically permitted"
+- [[beliefs-compound]] — belief compounding as the structural bridge between investing's compounding law and the belief revision mechanism
 
 ## Source
 

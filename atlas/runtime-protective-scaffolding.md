@@ -34,6 +34,15 @@ The protective sequence includes:
 
 This matters because the product is not just generating answers. It is staging protected movement through uncertainty.
 
+## Hardening Note
+
+The runtime story is resolved at two levels:
+
+- in production truth, PostgreSQL is canonical and SQLite-specific production assumptions are superseded
+- in implementation truth, SQLite still exists for local development and SQLite-mode emergency fallback when the process is already running there
+
+Likewise, the context engine and activation handoffs are important runtime protections, but the system docs still call out unverified HTTP paths, partial reconciliation, and manual recovery steps. Onboarding re-entry exists in the design layer, yet DM-disabled onboarding is still described as a live manual-recovery gap in the system layer. So this scaffolding is real, but not fully self-healing.
+
 ## Diagnostic Use
 
 Ask:
@@ -44,7 +53,7 @@ Ask:
 
 ## Trap
 
-The trap is treating these safeguards like backend plumbing with no product meaning. In this product, scaffolding is part of the experience contract.
+The trap is treating these safeguards like backend plumbing with no product meaning, or speaking as if every protective seam is already closed. In this product, scaffolding is part of the experience contract, but some seams still depend on operator checks.
 
 ## Related
 

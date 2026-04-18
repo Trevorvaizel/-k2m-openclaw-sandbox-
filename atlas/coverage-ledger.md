@@ -16,7 +16,6 @@
 | [[great-mental-models-volume-1-transcript-set|Great Mental Models Transcript Set]] | extracted | [[moc-mental-models]]; [[moc-lenses]] |
 | [[docs/product-docs/k2m-layer4-product-brief|K2M Product Brief]] | extracted | [[moc-k2m-product]]; [[K2M product kernel]]; [[one-kernel-many-doors]] |
 | [[docs/product-docs/system/01-system-overview|K2M Current Product System]] | extracted | [[moc-k2m-product]]; [[current-scrappy-product]]; [[discord-as-current-vessel]]; [[kira-as-belief-interface]] |
-| [[docs/cartographer-mastery/canon/manifestos/the-domain-cartographers-manifesto|Domain Cartographers Manifesto]] | extracted | [[decommissioning-force]]; [[annual-destruction]]; [[associative-barrier-audit]]; [[antaeus-reality-contact-case]]; [[moc-cartographer-principles]]; [[moc-cartographer-diagnostics-practices]] |
 
 ## Cartographer Manifesto Files
 | Source Unit | Status | Atlas Target |
@@ -147,10 +146,14 @@
 | [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-1-cis-controller-logic|CIS Controller Logic]] | extracted | [[cis-agent-orchestration]]; [[single-source-example-library]] |
 | [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-2-framer-agent-prompt|Framer Agent Prompt]] | extracted | [[single-source-example-library]] |
 | [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-3-explorer-agent-prompt|Explorer Agent Prompt]] | extracted | [[single-source-example-library]] |
-| docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/ | extracted | [[moc-k2m-playbook-spine]]; [[discord-cohort-ops-surface]] |
+| [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-7-discord-bot-spec|Discord Bot Spec]] | extracted | [[cis-agent-orchestration]]; [[celebration-without-ranking]] |
+| docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/ | extracted | [[moc-k2m-playbook-spine]]; [[discord-cohort-ops-surface]]; [[human-backstop-doctrine]] |
+| [[docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/5-3-thinking-showcase-setup|Thinking Showcase Setup]] | extracted | [[celebration-without-ranking]]; [[discord-cohort-ops-surface]] |
+| [[docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/5-6-manual-sops|Manual SOPs]] | extracted | [[discord-cohort-ops-surface]]; [[human-backstop-doctrine]] |
+| [[docs/product-docs/cohort-design-artifacts/playbook-v2/operations/escalation-playbook-v1|Trevor's 10% Escalation Playbook]] | extracted | [[human-backstop-doctrine]]; [[facilitator-escalation-ladder]] |
 | docs/product-docs/cohort-design-artifacts/playbook-v2/06-artifacts/ | extracted | [[moc-k2m-playbook-spine]]; [[artifact-proof-system]] |
 | [[docs/product-docs/cohort-design-artifacts/playbook-v2/06-artifacts/06-artifact-system-epic-6-unified-design|Artifact System Unified Design]] | extracted | [[artifact-proof-system]] |
-| [[docs/product-docs/cohort-design-artifacts/playbook-v2/02-weekly-design/week-8-artifact-showcase|Week 8 Artifact Showcase]] | extracted | [[artifact-proof-system]] |
+| [[docs/product-docs/cohort-design-artifacts/playbook-v2/02-weekly-design/week-8-artifact-showcase|Week 8 Artifact Showcase]] | extracted | [[artifact-proof-system]]; [[celebration-without-ranking]] |
 | [[docs/product-docs/cohort-design-artifacts/requirements/cohort-playbook-v2-requirements|Cohort Playbook V2 Requirements]] | extracted | [[cohort-as-product]]; [[thinking-with-ai-as-unifying-skill]] |
 | [[docs/product-docs/cohort-design-artifacts/strategy-and-research/k2m-product-roadmap-and-marketing-evolution-strategy|K2M Product Roadmap And Marketing Evolution Strategy]] | extracted | [[product-stability-marketing-evolution]]; [[credibility-before-cross-pollination]] |
 | [[docs/product-docs/cohort-design-artifacts/design-and-architecture/agent-facilitation-decision-log|Agent Facilitation Decision Log]] | extracted | [[hybrid-agent-facilitation-model]] |

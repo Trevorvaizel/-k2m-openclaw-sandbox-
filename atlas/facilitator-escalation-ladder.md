@@ -18,7 +18,7 @@ The facilitator escalation ladder is the human intervention spine for the curren
 
 ## Process
 
-The live escalation structure is:
+The implemented escalation structure in the system docs is:
 
 1. Level 1: KIRA nudges the student privately after early inactivity.
 2. Level 2: KIRA posts an operational alert to the facilitator dashboard.
@@ -26,6 +26,8 @@ The live escalation structure is:
 4. Level 4: KIRA pages Trevor immediately for crisis language and sends the student crisis resources.
 
 This ladder keeps the product mostly autonomous while preserving a clear human override path for fragile belief states and safety risks.
+
+The playbook layer adds an operational nuance: non-crisis review is meant to be heavily batched into Friday spot-checks, while crisis and higher-risk cases still break through immediately. So the durable invariant is not constant human monitoring. It is clear human override when risk or stuckness crosses the threshold.
 
 ## Result
 
@@ -45,6 +47,7 @@ The failure mode is either side of the ladder breaking:
 
 - too little escalation and the student gets abandoned inside automation
 - too much escalation and Trevor becomes the product bottleneck
+- or the docs collapse implemented thresholds and intended review cadence into one fake-simple workflow
 
 ## Related
 

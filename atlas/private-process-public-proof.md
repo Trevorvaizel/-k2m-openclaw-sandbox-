@@ -46,6 +46,7 @@ The trap is either extreme: keeping everything private and losing social proof, 
 - [[discord-cohort-ops-surface]]
 - [[artifact-proof-system]]
 - [[hybrid-agent-facilitation-model]]
+- [[celebration-without-ranking]]
 
 Source:
 - [[docs/product-docs/cohort-design-artifacts/design-and-architecture/discord-community-culture-and-architecture|Discord Community Culture And Architecture]]

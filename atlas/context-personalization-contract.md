@@ -28,6 +28,16 @@ The contract has four parts:
 
 This makes personalization a governed system rather than a vague promise.
 
+## Hardening Note
+
+The source docs resolve the authority model conceptually, but not perfectly operationally:
+
+- the canonical contract says Sheets own enrollment-time truth and PostgreSQL owns runtime truth
+- the super-admin docs still describe reconciliation as partial and require manual cross-checks before launch
+- manual override guards and re-runnable preload flows exist because sync drift is still considered a live risk
+
+So the durable truth is not "sync is solved." It is that data authority is intentionally split and still needs operator discipline.
+
 ## Diagnostic Use
 
 Ask:
@@ -38,7 +48,7 @@ Ask:
 
 ## Trap
 
-The trap is treating personalization as unlimited data accumulation. The product works because context is bounded, staged, and purpose-specific.
+The trap is treating personalization as unlimited data accumulation or as if the dual-store contract is already frictionless. The product works because context is bounded, staged, purpose-specific, and still manually supervised at the seams.
 
 ## Related
 

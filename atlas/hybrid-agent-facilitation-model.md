@@ -24,6 +24,8 @@ The model works by replacing individualized facilitator attention with structura
 - self-assessment replaces facilitator interpretation as the first signal
 - peer visibility replaces most one-to-one feedback
 - weekly spot-checking and escalation handling preserve a human backstop
+- the source layers still describe two operating modes: a heavier Cohort 1 launch workflow and a leaner steady-state oversight rhythm after more automation is trusted
+- the source base also mixes two scale claims: architecture and workload examples for 200 students, versus explicit Cohort 1 launch decisions capped at 30 students
 
 This changes the product's success metric. The aim is no longer to maximize handcrafted transformation per student. The aim is to maintain framework integrity at scale while still producing meaningful transformation.
 
@@ -37,7 +39,7 @@ Ask:
 
 ## Trap
 
-The trap is pretending the hybrid model is just cheaper facilitation. It is actually a different product logic with different accepted outcomes and failure modes.
+The trap is pretending the hybrid model is just cheaper facilitation or that the 90/10 split is already a stable labor measurement at a proven scale. It is actually a different product logic with different accepted outcomes, and both workload and tested cohort size are still being negotiated by the source docs.
 
 ## Related
 

@@ -21,10 +21,11 @@ The Discord cohort ops surface is the operational shell that turns the playbook 
 Its broad shape includes:
 
 - server and channel architecture
-- setup and moderation procedures
-- diagnostic intake and spreadsheet support
-- manual SOPs for the places automation is not enough
-- a visible split between private process and public showcase
+ - setup and moderation procedures
+ - diagnostic intake and spreadsheet support
+ - manual SOPs for the places automation is not enough
+ - a bounded 10 percent human layer for escalation, culture monitoring, and fallbacks
+ - a visible split between private process and public showcase
 
 This is where the playbook stops being only curriculum and becomes an actual operating environment.
 
@@ -46,6 +47,8 @@ The trap is confusing operational convenience with product truth. Some of this s
 - [[discord-as-current-vessel]]
 - [[single-cohort-ops-surface]]
 - [[facilitator-escalation-ladder]]
+- [[human-backstop-doctrine]]
+- [[celebration-without-ranking]]
 
 Source:
 - [[docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/discord-architecture|Discord Architecture]]

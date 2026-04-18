@@ -17,8 +17,13 @@ aliases:
 We now have a real three-pass loop.
 
 - Pass 1 spine is complete for the product brief, the system layer, and the major playbook sections.
-- Pass 2 is now established across planning docs, ops checklists, the full design-and-architecture set, and early playbook internals; remaining deepening is selective refinement.
-- Pass 3 is reserved for contradiction checks, adversarial review, and evidence hardening.
+- Pass 2 is now established across planning docs, ops checklists, the full design-and-architecture set, and the durable playbook internals, including the manual human-backstop layer.
+- Pass 3 has now started on the product/playbook seam: the first hardened contradiction is that human-ops load and review cadence differ between system-facing docs and Cohort 1 playbook docs.
+- The second hardened seam is data authority: the source base defines a Sheets-enrollment / PostgreSQL-runtime contract, but the operational docs still describe partial reconciliation, manual override guards, and manual launch checks.
+- The third hardened seam is onboarding and parent-proof sequencing: canonical onboarding says Stop 0 comes after Stops 1-3, while some older/system docs still narrate it earlier; weekly parent-update cadence is also inconsistent across system and playbook layers.
+- The fourth hardened seam is onboarding recovery: design docs describe re-entry and waiting-room recovery patterns, but the system docs still treat DM-disabled onboarding as a known manual-recovery gap rather than a fully solved automation path.
+- The fifth hardened seam is consent-state normalization: system docs describe a two-mode parent update surface, while the manual SOP layer still carries a temporary "not sure yet" state handled as deferred consent.
+- The sixth hardened seam is scale truth: parts of the playbook and design layer still model a 200-student system, while launch-specific decisions cap Cohort 1 at 30 students, so current scale claims must be read as mixed ambition and launch reality.
 - Reviews, summaries, and task notes remain evidence, not product truth, unless a later pass deliberately promotes them.
 
 ## Three-Pass Loop
@@ -34,9 +39,9 @@ We now have a real three-pass loop.
 | Track | File Count | Pass 1 | Pass 2 | Pass 3 |
 |---|---:|---|---|---|
 | `docs/product-docs/k2m-layer4-product-brief.md` | 1 | done | selective review later | harden later |
-| `docs/product-docs/system/` | 7 | done | queued | queued |
-| `docs/product-docs/cohort-design-artifacts/playbook-v2/` | 35 | done as spine | partial | queued |
-| `docs/product-docs/cohort-design-artifacts/design-and-architecture/` | 13 | queued | done | queued |
+| `docs/product-docs/system/` | 7 | done | queued | in progress |
+| `docs/product-docs/cohort-design-artifacts/playbook-v2/` | 35 | done as spine | done | in progress |
+| `docs/product-docs/cohort-design-artifacts/design-and-architecture/` | 13 | queued | done | in progress |
 | `docs/product-docs/cohort-design-artifacts/requirements/` | 1 | MOC-only | done | queued |
 | `docs/product-docs/cohort-design-artifacts/strategy-and-research/` | 1 | MOC-only | done | queued |
 | `docs/product-docs/cohort-design-artifacts/operations/checklists/` | 2 | queued | done | queued |
@@ -83,7 +88,7 @@ Use this sequence. Do not jump into reviews or task notes until the higher-prece
 
 ## Pass 2 Queue
 
-- `docs/product-docs/cohort-design-artifacts/playbook-v2/`
+- none; next work is Pass 3 hardening and contradiction review across the extracted product and playbook notes
 
 ## Pass 2 Extracted So Far
 
@@ -110,6 +115,10 @@ Use this sequence. Do not jump into reviews or task notes until the higher-prece
 - [[docs/product-docs/cohort-design-artifacts/playbook-v2/examples/jtbd-relevant-examples-zone-2-3|JTBD Relevant Examples Zone 2-3]]
 - [[docs/product-docs/cohort-design-artifacts/playbook-v2/06-artifacts/06-artifact-system-epic-6-unified-design|Artifact System Unified Design]]
 - [[docs/product-docs/cohort-design-artifacts/playbook-v2/02-weekly-design/week-8-artifact-showcase|Week 8 Artifact Showcase]]
+- [[docs/product-docs/cohort-design-artifacts/playbook-v2/04-cis-agents/4-7-discord-bot-spec|Discord Bot Spec]]
+- [[docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/5-3-thinking-showcase-setup|Thinking Showcase Setup]]
+- [[docs/product-docs/cohort-design-artifacts/playbook-v2/05-discord-ops/5-6-manual-sops|Manual SOPs]]
+- [[docs/product-docs/cohort-design-artifacts/playbook-v2/operations/escalation-playbook-v1|Trevor's 10% Escalation Playbook]]
 
 ## Deferred Evidence
 

@@ -155,10 +155,16 @@ This lineage map is not a claim that all these fields say the same thing. It sho
 - **Critical cartography:** Harley, Wood, and MacEachren make maps accountable for selection, omission, rhetoric, and power. Caution: critique is not by itself a construction method.
 - **Threshold concepts:** Meyer and Land show how certain concepts reorganize perception. Caution: thresholds are domain-specific and contested.
 - **Communities of practice:** Lave and Wenger show that expertise develops through situated participation and shared repertoire. Caution: this is not just "peer groups."
+- **Logical-type theory:** Bateson shows that maps operate at multiple logical levels simultaneously — learning content (Level I), learning how to learn (Level II), revising the premises that govern learning (Level III). Applying a map from one level to phenomena at another produces paradox and double-bind, not correctable error. Caution: levels are not always clean; cartographers must judge calibration, not apply the taxonomy mechanically.
+- **Double-loop learning:** Argyris and Schön distinguish single-loop correction (adjusting action within an existing governing map) from double-loop revision (challenging and rewriting the governing map itself). Caution: double-loop learning is blocked by social defensive routines that protect maps from the data that would falsify them.
+- **General Semantics:** Korzybski's discipline for tracking the gap between linguistic-conceptual map and territory. His central operational claim: map usefulness depends on structural similarity to the territory, not on detail or beauty. Every act of naming creates an identification risk — the name crystallizes while the territory keeps moving. Caution: the bumper-sticker formulation strips his operational tools.
+- **Design synthesis:** Kolko shows that abduction is not a mystical leap but a teachable protocol: externalize everything, cluster without categories, force the name, interrogate outliers, reframe the brief. Caution: the protocol reveals the abductive moves but cannot substitute for quality of attention.
+- **Complexity sensemaking:** Snowden's Cynefin framework distinguishes ontologically different domains — complicated (discoverable causality) from complex (retrospective causality only). Each domain requires a different cartographic posture; method-transfer across domain types produces systematic failure. Caution: domain identification is itself a judgment under uncertainty.
+- **Skill stages:** Dreyfus and Dreyfus show that at each stage of expertise, what counts as a relevant situational feature changes structurally — novices use explicit maps; experts perceive whole situations. Caution: the stage model describes skilled perception; it does not prescribe an acceleration method.
 
 ---
 
-## PART III: THE TEN INVISIBLE FORCES OF DOMAIN CARTOGRAPHY
+## PART III: THE THIRTEEN INVISIBLE FORCES OF DOMAIN CARTOGRAPHY
 
 These are not the forces of every domain. They are the forces that determine whether a cartographer can discover a domain's own forces.
 
@@ -293,6 +299,30 @@ These are not the forces of every domain. They are the forces that determine whe
 **Application:** Institutionalize map destruction. Run an annual review: identify the force or stage you are most attached to and steelman the opposition before treating it as settled. If the map cannot survive adversarial contact, retire it or mark it provisional. The Associative Barrier Audit — list your strongest assumptions and find a field where they are wrong — is the operational move for catching barriers before they calcify.
 
 **Failure Mode:** The manifesto preserves prior thinking instead of current reality. New territory arrives; the old map is applied anyway. Maps multiply; territory legibility does not improve.
+
+### FORCE XII: The Logical-Level Force
+
+**Surface Pattern:** A cartographer applies a force or framework that worked at one level of abstraction to phenomena that operate at a different level. The result is paradox, failed diagnosis, or persistent confusion — the map is correctly applied to the wrong level.
+
+**Invisible Mechanism:** Maps are calibrated at specific logical levels. A map for learning content (Level I) is structurally different from a map for learning how to learn (Level II), which differs again from a map for revising the premises that govern learning (Level III). Each level has its own causal logic. Tools designed for one level produce untraceable confusion when applied to another. Bateson called the failure mode "double-bind": the practitioner cannot win because the commands they receive operate at different logical types simultaneously.
+
+**Second-Order Force:** Level-crossing failures look like practitioner failure, not map failure. The cartographer applies the right tool at the wrong level and receives inexplicable results. Diagnosis remains trapped inside the wrong level's vocabulary.
+
+**Application:** Before applying any force or framework, ask: is this calibrated for visible action, for method revision, or for premise revision? If the symptom lives at one level but the map addresses another, reframe before acting. The Decommissioning Force (Force XI) operates at Level III — revising governing premises — and cannot be activated by Level I or II tools alone.
+
+**Failure Mode:** The manifesto contains forces of different logical levels presented as peers. The practitioner cannot use them simultaneously without inducing contradictions. Deep revision fails because decommissioning tools operate below the level of the maps they are trying to retire.
+
+### FORCE XIII: The Map-Duplicity Force
+
+**Surface Pattern:** A practitioner articulates a model they say governs their work. Observing them in action reveals a different model. They are not lying — they are unaware of the gap.
+
+**Invisible Mechanism:** Practitioners hold two maps simultaneously: the espoused theory (the map they claim to use, which serves identity and social functions) and the theory-in-use (the map their decisions reveal, which governs actual behavior). These maps may share vocabulary while diverging completely on operative rules. The gap is maintained by organizational and cognitive defensive routines that prevent the data that would expose the gap from being surfaced or discussed.
+
+**Second-Order Force:** Cartographic research conducted through stated maps produces a false artifact. The cartographer surfaces the espoused map and publishes it as the field's structure. The theory-in-use — which generates actual success, failure, and expertise — remains invisible. Practitioners trained on the espoused map cannot replicate expert performance because they are learning a social performance, not an operative system.
+
+**Application:** Extract theory-in-use through case-based inquiry, not self-report. Ask practitioners to walk through a specific decision: what happened, what did you notice, why did you do this and not that? Compare stated reasons with the action sequence. The gap between them is often where the field's actual operative logic lives. This is why the Expert Contrast Interview (Tool 4) uses contrast and anomaly rather than direct articulation.
+
+**Failure Mode:** The manifesto captures what experts say they do rather than what they do. It becomes the field's aspirational self-description — elegant, plausible, and inert.
 
 ---
 
@@ -442,6 +472,24 @@ List the territories you know most deeply. For each, write the assumption you ho
 
 Disrupts the associative barriers that deep expertise builds — the barriers that make within-domain thinking efficient and cross-domain collision impossible. A cartographer who cannot break their own strongest associations cannot see new territory clearly.
 
+### Tool 14: The Ladder Descent
+
+After any significant interpretation, diagnosis, or force-naming, trace the inference backward. State the conclusion you reached, then ask: What data did I select to reach it? What did I leave out? What assumption did I make in the interpretation step? Where would a different data selection have led?
+
+The descent makes inferential moves visible and prevents force-naming from freezing around the first available explanation. Activates Constant-Comparison (Force V) and Anti-Mimicry (Force VIII) simultaneously. Source: Argyris, *Overcoming Organizational Defenses* — the Ladder of Inference.
+
+### Tool 15: Hold the Anomaly
+
+When a map fails — when the territory produces a result that surprises the frame — resist the urge to immediately reframe. Write down exactly what surprised you and why, in the most concrete terms available. Do not import the nearest alternative frame. Sit with the anomaly until a new frame emerges from it rather than being applied to it.
+
+The waiting is the skill. Decommissioning (Force XI) fails when practitioners rush to replace one frame with the next-closest available frame rather than letting territory contact generate the revision. Source: Schön, *The Reflective Practitioner* — reflection-in-action and frame reframing as disciplined not-knowing.
+
+### Tool 16: The Structural Differential Audit
+
+When you inherit or build a map, ask three questions in sequence: (1) What events or observations is this map abstracted from? (2) What characteristics of those events did the abstraction retain? (3) What characteristics did it leave out?
+
+The third question is the most important. If you cannot answer it, you do not yet understand the map you are using. A map works not because it is detailed but because it shares structural relations with its territory — a structurally wrong map fails regardless of how detailed it is. If you cannot identify what the map leaves out, treat it as provisional. Source: Korzybski, *Science and Sanity* — structural similarity as the basis of map usefulness; the Structural Differential as a teaching device for Omission-Power (Force IX).
+
 ---
 
 ## PART VI: DIAGNOSTICS FOR BAD MAPS
@@ -516,6 +564,16 @@ The problem is no longer whether a draft can sound like canon. The problem is wh
 
 This frontier claim is directional because AI tooling, model capability, and publishing norms remain unstable.
 
+**The intuition-model ceiling:**
+
+The creator economy has surfaced a parallel clarity-delivery problem. A practitioner like Dan Koe builds genuine clarity for his audience through accumulated intuition: he names invisible things, reframes before prescribing, grounds tactics in philosophy, and uses the essay as public thinking rather than polished conclusion. His method works. But it has a structural ceiling that cartographic canon does not share.
+
+Koe's discovery process is non-transferable — it depends on a curiosity stack accumulated over years that cannot be handed to a reader as a method. His ideas do not compound across each other; each essay is high quality but essentially standalone, with no structural mechanism for one idea to generate force on another. His pattern recognition is implicit and cannot be systematized. His model requires sustained personal output — if he stops writing, the engine stops. And his frameworks are compelling but self-confirming: there is no mechanism for ideas to challenge each other across territory.
+
+A cartographic lattice produces clarity through structural collision rather than personal intuition. The cartographic advantage is not a better writing style — it is a system where understanding compounds, where maps generate contact against each other, where falsification is built in. The cartographer can teach the method, not just model the output. This asymmetry widens as AI raises the baseline quality of intuition-style content production.
+
+By 2026, even intuition-model practitioners are offloading production to AI: Koe has moved to AI-assisted content generation where "AI handles a lot of the labor while he stays in control of the thinking." This makes the thinking layer — the cartographic lattice — the only non-substitutable layer. The cartographer who has built a compounding knowledge structure is increasingly not competing on production speed or surface quality; they are competing on the irreplaceable asset of structure that AI cannot derive from nothing.
+
 ---
 
 ## PART IX: RESEARCH SPINE
@@ -537,6 +595,14 @@ This frontier claim is directional because AI tooling, model capability, and pub
 | Harley, Wood, and MacEachren on maps and map power | academic / cartography criticism | Omission-Power Force | Critique of map neutrality is not a full construction method. |
 | Meyer and Land on threshold concepts | academic / pedagogy | mastery thresholds | Thresholds are domain-specific and contested. |
 | Lave and Wenger on situated learning and communities of practice | academic / learning theory | situated expertise, participation, identity | Do not reduce communities of practice to networking. |
+| Gregory Bateson, *Steps to an Ecology of Mind* (1972) and *Mind & Nature* (1979) | academic / systems theorist / anthropologist | Logical-Level Force (XII), Layer-Separation Force (II), Decommissioning Force (XI) — Learning III as map-premise dissolution | Bateson's levels are logical types, not prestige tiers; misapplied, the framework creates new level-crossing errors. |
+| Chris Argyris and Donald Schön, *Theory in Practice* (1974) and *Organizational Learning* (1978); Argyris, *Overcoming Organizational Defenses* (1990) | academic / organizational learning theorists | Map-Duplicity Force (XIII), Decommissioning Force (XI) — double-loop learning, Tool 14 (Ladder Descent), Tool 15 (Hold the Anomaly) | Argyris's intervention methodology is specific to organizational settings; applies to domain cartography as a research elicitation discipline, not a wholesale import. |
+| Donald Schön, *The Reflective Practitioner* (1983) | academic / practitioner theory | Frame-Creation Force (VI), Abductive-Naming Force (IV) in action, Decommissioning Force (XI) — reframing as disciplined not-knowing, Tool 15 | Schön's practitioner theory presupposes a professional practice context; extrapolation to cartographic method requires care. |
+| Alfred Korzybski, *Science and Sanity* (1933/1958) | academic / philosopher of language | Omission-Power Force (IX), Abductive-Naming Force (IV), Tool 16 (Structural Differential Audit) | The bumper-sticker formulation strips the operational content; the structural similarity argument and time-binding concept are the most cartographically useful contributions. |
+| Jon Kolko, *Exposing the Magic of Design* (2011); *Wicked Problems* (2012) | practitioner / design theorist | Abductive-Naming Force (IV) — teachable protocol for abductive synthesis (externalize, cluster, name, interrogate outliers, reframe) | Design-derived context; applies as method-transfer to cartographic research, not direct imitation. |
+| Dave Snowden, Cynefin framework; Snowden and Boone, "A Leader's Framework for Decision Making" (*HBR*, 2007) | practitioner / complexity scientist | Native-Causality Force (III), Anti-Mimicry Force (VIII), Frame-Creation Force (VI) — domain-before-method discipline | Cynefin's domain boundaries require practitioner judgment; the framework can produce false precision about which domain you are in. |
+| Hubert Dreyfus and Stuart Dreyfus, *Mind Over Machine* (1986); "A Five-Stage Model of Mental Activities Involved in Directed Skill Acquisition" (1980) | academic / cognitive science | Tacit-to-Explicit Force (I), Practitioner-Transformation Force (X) — situational feature perception changes at each stage | The Dreyfus model describes skilled perception; it does not prescribe acceleration through stages. |
+| Donella Meadows, *Thinking in Systems* (2008); "Dancing with Systems" (1999) | practitioner / systems thinker | Native-Causality Force (III) — leverage hierarchy as invisibility gradient, Omission-Power Force (IX) | Meadows's leverage hierarchy is specific to system dynamics; cartographic use requires translation, not direct import. |
 
 ### High-Trust Current / Source Pointers
 
@@ -547,6 +613,15 @@ This frontier claim is directional because AI tooling, model capability, and pub
 - Grounded Theory Review, "The Constant Comparative Method of Qualitative Analysis": https://groundedtheoryreview.com/2008/11/29/the-constant-comparative-method-of-qualitative-analysis-1/
 - SAGE Journals, Critical Decision Method paper: https://journals.sagepub.com/doi/10.1518/001872098779480442
 - SAGE Journals, Star and Griesemer boundary objects: https://journals.sagepub.com/doi/10.1177/030631289019003001
+- Jon Kolko, "Abductive Thinking and Sensemaking: The Drivers of Design Synthesis" (MIT Press / *Design Issues*): https://www.jonkolko.com/writing/abductive-thinking-and-sensemaking; https://direct.mit.edu/desi/article/26/1/15/68979
+- Jon Kolko, *Exposing the Magic of Design* (Oxford University Press): https://global.oup.com/academic/product/exposing-the-magic-of-design-9780190276218
+- Gregory Bateson, *Steps to an Ecology of Mind* (University of Chicago Press): https://press.uchicago.edu/ucp/books/book/chicago/S/bo3620295.html
+- Bateson, "The Logical Categories of Learning and Communication" (PDF): http://www.biolinguagem.com/ling_cog_cult/bateson_1972_%20logicalcategories_learningcommunication.pdf
+- Alfred Korzybski, *Science and Sanity* — structural similarity passage: Part II, "General on Structure," Chapter 4, "On Structure"; General Semantics Institute: https://www.generalsemantics.org/science-and-sanity/
+- Chris Argyris, "Double Loop Learning in Organizations" (*HBR*, 1977): https://www.avannistelrooij.nl/wp/wp-content/uploads/2017/11/Argyris-1977-Double-Loop-Learning-in-Organisations-HBR.pdf
+- infed.org, comprehensive Argyris overview: https://infed.org/dir/welcome/chris-argyris-theories-of-action-double-loop-learning-and-organizational-learning/
+- The Cynefin Co, Cynefin framework overview: https://thecynefin.co/about-us/about-cynefin-framework/
+- Snowden and Boone, "A Leader's Framework for Decision Making" (*HBR*, 2007): archived at theisrm.org and available via HBR.org
 
 ### Directional / Emerging
 

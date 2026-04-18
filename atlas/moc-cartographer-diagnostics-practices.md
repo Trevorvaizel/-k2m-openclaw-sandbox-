@@ -40,9 +40,13 @@ The diagnostic asks where the map fails; the practice creates the feedback loop 
 - [[tech-technologist-diagnostic-when-evaluating-a-result-paper-or-system]]
 
 ## Practices
+- [[annual-destruction]]
 - [[anti-goal-inversion-practice]]
+- [[associative-barrier-audit]]
 - [[bayesian-update-practice]]
 - [[five-whys-practice]]
+- [[hold-the-anomaly]]
+- [[ladder-descent]]
 - [[practice-1-morning-inquiry]]
 - [[practice-2-evening-failure-review]]
 - [[practice-3-context-shift-drill]]
@@ -52,6 +56,7 @@ The diagnostic asks where the map fails; the practice creates the feedback loop 
 - [[practice-7-lattice-audit]]
 - [[practice-8-attention-detox]]
 - [[socratic-questioning-practice]]
+- [[structural-differential-audit]]
 
 ## Tiered Mappings
 - Adjacent: [[diagnostic-6-lattice-density]] <-> [[lattice]]

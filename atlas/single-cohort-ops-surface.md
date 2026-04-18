@@ -22,12 +22,15 @@ In the current product:
 
 - Railway runs the Discord bot
 - PostgreSQL is the production state store
+- SQLite survives only as a local-development and SQLite-mode fallback path, not as production authority
 - the Apps Script webhook powers the context engine and activation handoffs
 - the scheduler uses one `COHORT_1_START_DATE` as the week clock
 - welcome-lounge, guest/student role changes, and internal webhook calls stage activation
 - Trevor holds the operational keys for deployment, recovery, and manual overrides
 
 This is a workable production shape, but it is not yet a multi-cohort product architecture.
+
+The other constraint is that cross-system truth is still operationally fragile: Sheets, Apps Script, Discord, and PostgreSQL are intentionally connected, but not fully reconciled without manual checks.
 
 ## Diagnostic Use
 

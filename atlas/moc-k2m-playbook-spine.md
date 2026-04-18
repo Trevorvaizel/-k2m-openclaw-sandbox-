@@ -34,6 +34,8 @@ The playbook is the product's curriculum and operational body. In Pass 1, the go
 - [[private-process-public-proof]]
 - [[cohort-launch-gating]]
 - [[single-source-example-library]]
+- [[celebration-without-ranking]]
+- [[human-backstop-doctrine]]
 
 ## Planning Truths
 

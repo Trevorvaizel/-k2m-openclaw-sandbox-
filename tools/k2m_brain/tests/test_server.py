@@ -83,6 +83,26 @@ class LoadApiKeyTests(unittest.TestCase):
                 with patch.object(module.Path, "home", return_value=fake_home):
                     self.assertEqual(module.load_api_key(), "test-key")
 
+    def test_load_api_key_accepts_codex_config_toml(self):
+        module = load_server_module()
+
+        with TemporaryDirectory() as temp_dir:
+            fake_home = Path(temp_dir)
+            codex_dir = fake_home / ".codex"
+            codex_dir.mkdir()
+            config_toml = codex_dir / "config.toml"
+            config_toml.write_text(
+                """
+[mcp_servers.pinecone.env]
+PINECONE_API_KEY = "test-key-codex"
+""".strip(),
+                encoding="utf-8",
+            )
+
+            with patch.dict(os.environ, {}, clear=True):
+                with patch.object(module.Path, "home", return_value=fake_home):
+                    self.assertEqual(module.load_api_key(), "test-key-codex")
+
 
 if __name__ == "__main__":
     unittest.main()

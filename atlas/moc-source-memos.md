@@ -21,6 +21,7 @@ Source memos are the buffer between canon and conversation. They let transcript 
 
 ## Active Source Memos
 - [[belief-operations-transcript-set]]
+- [[domain-cartographers-manifesto]]
 - [[great-mental-models-volume-1-transcript-set]]
 
 ## Intake Folder

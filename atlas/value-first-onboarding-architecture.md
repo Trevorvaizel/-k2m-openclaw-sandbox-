@@ -29,8 +29,20 @@ In the current design:
 - first-time Discord users get orientation help before they are expected to navigate the product alone
 - form and DM transitions are bridged so the student is not left wondering whether anything happened
 - waiting states are designed with visible progress, reassurance, and low-stakes proof instead of silent delay
+- the current design still depends on Discord DM delivery, and students with DMs disabled remain a known manual-recovery gap
 
 The guiding rule is simple: delight and forward motion come before extra questions.
+
+## Hardening Note
+
+The source base now makes the intended onboarding order clear, but not all source layers have caught up:
+
+- the canonical contract says value-first ordering is `Stop 1 -> Stop 2 -> Stop 3 -> Stop 0`
+- older decision-log material still shows the earlier design where Stop 0 came first, before later gap fixes reversed it
+- the current student-journey doc still narrates Stop 0 before Stops 1-3, even though canonical V3 says that sequence is superseded
+- the design layer also promises day-8 re-entry and `#welcome`/waiting-room recovery patterns, while the system docs still treat DM-disabled onboarding as a known gap with no automated fallback
+
+So the durable truth is the value-first principle and post-orientation Stop 0 placement, not every sequence shown in older source layers.
 
 ## Diagnostic Use
 
@@ -42,7 +54,7 @@ Ask:
 
 ## Trap
 
-The trap is building intake logic that is operationally neat but emotionally dead. In this product, premature friction kills trust before the cohort starts.
+The trap is building intake logic that is operationally neat but emotionally dead, or overstating how complete the onboarding bridge is. In this product, premature friction kills trust before the cohort starts, and some recovery seams still rely on manual intervention.
 
 ## Related
 

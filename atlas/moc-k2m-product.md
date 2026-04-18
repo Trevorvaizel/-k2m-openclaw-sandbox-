@@ -55,6 +55,7 @@ K2M is not just an 8-week Discord cohort. The current product is a working vesse
 - [[context-personalization-contract]]
 - [[private-process-public-proof]]
 - [[cohort-launch-gating]]
+- [[human-backstop-doctrine]]
 
 ## Playbook Spine
 
@@ -66,6 +67,8 @@ K2M is not just an 8-week Discord cohort. The current product is a working vesse
 - [[discord-cohort-ops-surface]]
 - [[artifact-proof-system]]
 - [[single-source-example-library]]
+- [[celebration-without-ranking]]
+- [[human-backstop-doctrine]]
 
 ## Planning Truths
 
@@ -127,10 +130,11 @@ K2M is not just an 8-week Discord cohort. The current product is a working vesse
 
 - Product brief and system docs: bridge-extracted into this MOC and core product notes.
 - Stepwise intake tracking now lives in [[k2m-product-docs-intake-ledger]].
-- Playbook v2 now has a first-pass spine in [[moc-k2m-playbook-spine]]; deeper extraction is deferred to later passes.
+- Playbook v2 now has a first-pass spine in [[moc-k2m-playbook-spine]] plus Pass 2 extraction for orchestration, proof, example governance, celebration, and human-backstop doctrine.
 - Requirements and roadmap docs now have Pass 2 planning-truth extraction in [[cohort-as-product]], [[thinking-with-ai-as-unifying-skill]], [[product-stability-marketing-evolution]], and [[credibility-before-cross-pollination]].
 - Cohort design logs, reviews, summaries, and task notes remain tracked as product-evidence backlog, not yet atomized.
 - The cartographer pair is now bridge-extracted into [[moc-domain-cartography]] and product-operating notes.
 - Attention design economy, innovation, problem solving, and storytelling now have first-pass domain maps and core force extraction.
 - Product management now has a domain map in [[moc-product-management-cartography]] using the revised mastery manifesto as canonical source.
 - Cross-domain product collision now lives in [[K2M product collision map]]; later loops can refine product-management and research-source integration separately.
+- [[beliefs-compound]] — beliefs compound like financial interest; the `/audit` agent should visualize belief trajectories as the product's killer feature
